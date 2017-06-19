@@ -10,6 +10,6 @@ Harassment and hostile behavior are unwelcome at any ACL conference, associated 
 
 It is the responsibility of the community as a whole to promote an inclusive and positive environment for our scholarly activities. In addition, anyone who experiences harassment or hostile behavior may contact any current member of the ACL Executive Committee ([1]) or contact Priscilla Rasmussen (acl@aclweb.org), who is usually available at the registration desk during ACL conferences. Members of the executive committee will be instructed to keep any such contact in strict confidence, and those who approach the committee will be consulted before any actions are taken.
 
-*** Implementation
+### Implementation
 
 This policy should be posted prominently on all ACL conference and workshop webpages, with a notice of a list of people who can be contacted by community members with concerns. In case of a formal complaint, the contacted ACL representative(s) will first speak to all parties involved to try to resolve the issue without presupposition of guilt.
