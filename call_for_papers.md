@@ -5,31 +5,31 @@ permalink: /call-for-papers
 ---
 
 ## Workshop Description
-This workshop provides a venue for work in computational psycholinguistics: the computational and mathematical modeling of linguistic generalization, development, and processing. We invite contributions that apply methods from computational linguistics to problems in the cognitive modeling of any and all natural language-related abilities. The 2017 workshop follows in the tradition of earlier CMCL meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015 and EACL 2017.
+This workshop provides a venue for work in computational psycholinguistics: the computational and mathematical modeling of linguistic generalization, development, and processing. We invite contributions that apply methods from computational linguistics to problems in the cognitive modeling of any and all natural language-related abilities. The 2018 workshop follows in the tradition of earlier CMCL meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015 and EACL 2017.
 
 ## Important Dates
 
- Submission deadline: 15 October 2017
+* Submission deadline: 15 October 2017
 
- Notification of acceptance: 15 November 2017
+* Notification of acceptance: 15 November 2017
 
- Camera-ready versions due: 1 December 2017
+* Camera-ready versions due: 1 December 2017
 
- Workshop: 7 January 2018
+* Workshop: 7 January 2018
 
 ## Scope and Topics
 
 The workshop invites a broad spectrum of work in the cognitive science of language, at all levels of analysis from sounds to discourse and on both learning and processing. Topics include, but are not limited to: 
 
-* incremental parsers for diverse grammar formalisms
-* stochastic models of factors encouraging one production or interpretation over its competitors
-* models of semantic/pragmatic interpretation, including cognitively-plausible meaning and composition
-* models of human language acquisition, including phonology, morphology, syntax, and semantics
-* models of human language adaptation in a changing linguistic environment
+* Incremental parsers for diverse grammar formalisms
+* Stochastic models of factors encouraging one production or interpretation over its competitors
+* Models of semantic/pragmatic interpretation, including cognitively-plausible meaning and composition
+* Models of human language acquisition, including phonology, morphology, syntax, and semantics
+* Models of human language adaptation in a changing linguistic environment
 derivations of quantitative measures of comprehension difficulty, or predictions regarding generalization in language learning
-* application of cognitive models and measurements to the development and evaluation of NLP systems (e.g., cognitive plausibility of different artificial neural network architectures)
-* models of linguistic information propagation and language change in communication networks
-* psychologically motivated models of grammar induction or semantic learning
+* Application of cognitive models and measurements to the development and evaluation of NLP systems (e.g., cognitive plausibility of different artificial neural network architectures)
+* Models of linguistic information propagation and language change in communication networks
+* Psychologically motivated models of grammar induction or semantic learning
 
 Submissions are especially welcomed that combine computational modeling work with experimental or corpus data to test theoretical questions about the nature of human language acquisition, comprehension, and/or production.
 
@@ -65,9 +65,9 @@ Submissions are especially welcomed that combine computational modeling work wit
 ## Student Travel Grants
 
 ## Workshop Organizers
-Cassandra Jacobs, StitchFix
-Tal Linzen, Johns Hopkins University
-Asad Sayeed, University of Gothenburg
-Marten van Schijndel, Johns Hopkins University
+* Cassandra Jacobs, StitchFix
+* Tal Linzen, Johns Hopkins University
+* Asad Sayeed, University of Gothenburg
+* Marten van Schijndel, Johns Hopkins University
 
 ## Sponsors
