@@ -9,11 +9,11 @@ This workshop provides a venue for work in computational psycholinguistics: the 
 
 ## Important Dates
 
-* Submission deadline: 15 October 2017
+* Submission deadline: 3 September 2017
 
-* Notification of acceptance: 15 November 2017
+* Notification of acceptance: 1 October 2017
 
-* Camera-ready versions due: 1 December 2017
+* Camera-ready versions due: 1 November 2017
 
 * Workshop: 7 January 2018
 
@@ -45,7 +45,7 @@ Submissions are especially welcomed that combine computational modeling work wit
 
  If essentially identical papers are submitted to multiple conferences or workshops, this fact must be indicated at submission time.
 
- The submission deadline is 11:59PM Pacific Time on October 15, 2017.
+ The submission deadline is 11:59PM Pacific Time on September 3, 2017.
 
 ### Regular Workshop Papers
 
@@ -57,12 +57,12 @@ Submissions are especially welcomed that combine computational modeling work wit
 ### Cross-Submissions
  In addition to unpublished work, we also solicit papers on related topics that have appeared in a non-NLP venue (e.g., papers at CogSci). These papers will be presented as posters, but do not count as CMCL workshop papers and will not be included in the proceedings.  Interested authors need to submit their papers in PDF format through the same Softconf website with a note on the original venue. Papers in this category do not need to follow the ACL format and the selection is solely determined by the organizing committee.
 
-## Invited Speakers
+[//] ## Invited Speakers
 
 ## Best Student Paper
  The best regular workshop paper whose first author is a student will receive the Best Student Paper award.
 
-## Student Travel Grants
+[//] ## Student Travel Grants
 
 ## Workshop Organizers
 * Cassandra Jacobs, StitchFix
@@ -71,3 +71,4 @@ Submissions are especially welcomed that combine computational modeling work wit
 * Marten van Schijndel, Johns Hopkins University
 
 ## Sponsors
+ We are currently looking for sponsors, so if you are interested, get in touch with us!
