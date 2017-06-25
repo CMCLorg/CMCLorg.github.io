@@ -57,12 +57,8 @@ Submissions are especially welcomed that combine computational modeling work wit
 ### Cross-Submissions
  In addition to unpublished work, we also solicit papers on related topics that have appeared in a non-NLP venue (e.g., papers at CogSci). These papers will be presented as posters, but do not count as CMCL workshop papers and will not be included in the proceedings.  Interested authors need to submit their papers in PDF format through the same Softconf website with a note on the original venue. Papers in this category do not need to follow the ACL format and the selection is solely determined by the organizing committee.
 
-[//] ## Invited Speakers
-
 ## Best Student Paper
  The best regular workshop paper whose first author is a student will receive the Best Student Paper award.
-
-[//] ## Student Travel Grants
 
 ## Workshop Organizers
 * Cassandra Jacobs, StitchFix
