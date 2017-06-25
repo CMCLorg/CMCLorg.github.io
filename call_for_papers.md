@@ -60,11 +60,16 @@ Submissions are especially welcomed that combine computational modeling work wit
 ## Best Student Paper
  The best regular workshop paper whose first author is a student will receive the Best Student Paper award.
 
+## Student Travel Grants
+ Thanks to the generosity of its sponsor, CMCL is able to provide a small number of student travel awards ($200 each) for accepted, first-authored student papers this year.
+
 ## Workshop Organizers
 * Cassandra Jacobs, StitchFix
 * Tal Linzen, Johns Hopkins University
 * Asad Sayeed, University of Gothenburg
 * Marten van Schijndel, Johns Hopkins University
 
-## Sponsors
- We are currently looking for sponsors, so if you are interested, get in touch with us!
+## Sponsor
+ [The Johns Hopkins University Department of Cognitive Science](http://cogsci.jhu.edu/)
+
+ Thanks to their generous support, CMCL is able to offer student travel grants and a best student paper award.
