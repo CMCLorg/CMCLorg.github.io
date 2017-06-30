@@ -23,13 +23,16 @@ The workshop invites a broad spectrum of work in the cognitive science of langua
 
 * Incremental parsers for diverse grammar formalisms
 * Stochastic models of factors encouraging one production or interpretation over its competitors
-* Models of semantic/pragmatic interpretation, including cognitively-plausible meaning and composition
+* Models of semantic or pragmatic interpretation imcorporating cognitively-plausible meanings and composition
 * Models of human language acquisition, including phonology, morphology, syntax, and semantics
 * Models of human language adaptation in a changing linguistic environment
-derivations of quantitative measures of comprehension difficulty, or predictions regarding generalization in language learning
-* Application of cognitive models and measurements to the development and evaluation of NLP systems (e.g., cognitive plausibility of different artificial neural network architectures)
+* Quantitative measures of comprehension difficulty
+* Models of generalization in language learning
+* Development and evaluation of NLP systems using cognitive principles and measurements (e.g. plausibility of different artificial neural network architectures for human cognition)
 * Models of linguistic information propagation and language change in communication networks
 * Psychologically motivated models of grammar induction or semantic learning
+
+We also invite any submissions looking at NLP through the opposite lens that use behavioral data to rule out or refine computational models of human language processing.
 
 Submissions are especially welcomed that combine computational modeling work with experimental or corpus data to test theoretical questions about the nature of human language acquisition, comprehension, and/or production.
 
