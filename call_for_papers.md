@@ -61,7 +61,38 @@ Submissions are especially welcomed that combine computational modeling work wit
  The best regular workshop paper whose first author is a student will receive the Best Student Paper award.
 
 ## Student Travel Grants
- Thanks to the generosity of its sponsor, CMCL is able to provide a small number of student travel awards ($200 each) for accepted, first-authored student papers this year.
+ Thanks to the generosity of the Johns Hopkins University Department of Cognitive Science, CMCL is able to provide a small number of student travel awards ($200 each) for accepted, first-authored student papers this year.
+
+## Program Committee
+* Omri Abend, Hebrew University of Jerusalem
+* Afra Alishahi, Tilburg University
+* Fatemeh Torabi Asr, Indiana University
+* Klinton Bicknell, Northwestern University
+* Christos Christodoulopoulos, University of Illinois at Urbana-Champaign
+* Alexander Clark, King's College
+* Brian Dillon, University of Massachusetts
+* Micha Elsner, The Ohio State University
+* Afsaneh Fazly, University of Toronto
+* Michael C. Frank, Stanford University
+* Stella Frank, Edinburgh University
+* Thomas Graf, Stony Brook University
+* John T. Hale, Cornell University
+* Tim Hunter, UCLA
+* Shalom Lappin, King's College
+* Pavel Logacev, Bogazici University
+* Emily Morgan, Tufts University
+* Timothy John O'Donnell, McGill University
+* Sebastian Padó, University of Stuttgart
+* Bozena Pajak, Duolingo
+* Lisa Pearl, UC Irvine
+* Steven Piantadosi, University of Rochester
+* Roi Reichart, Technion University
+* Brian Roark, Google
+* William Schuler, The Ohio State University
+* Cory Shain, The Ohio State University
+* Suzanne Stevenson, University of Toronto
+* Titus von der Malsburg, UCSD
+
 
 ## Workshop Organizers
 * Cassandra Jacobs, StitchFix
