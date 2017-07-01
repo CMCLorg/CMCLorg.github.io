@@ -4,7 +4,7 @@ title: Call for papers
 permalink: /call-for-papers
 ---
 
-Cognitive Modeling and Computational Linguistics (CMCL) 2018
+## Cognitive Modeling and Computational Linguistics (CMCL) 2018
 
 [https://cmclorg.github.io](https://cmclorg.github.io)
 
