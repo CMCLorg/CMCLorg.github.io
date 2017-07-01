@@ -77,6 +77,7 @@ Submissions are especially welcomed that combine computational modeling work wit
 * Micha Elsner, The Ohio State University
 * Afsaneh Fazly, University of Toronto
 * Michael C. Frank, Stanford University
+* Robert Frank, Yale University
 * Stella Frank, Edinburgh University
 * Thomas Graf, Stony Brook University
 * John T. Hale, Cornell University
