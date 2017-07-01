@@ -4,6 +4,10 @@ title: Call for papers
 permalink: /call-for-papers
 ---
 
+Cognitive Modeling and Computational Linguistics (CMCL) 2018
+
+[https://cmclorg.github.io](https://cmclorg.github.io)
+
 ## Workshop Description
 This workshop provides a venue for work in computational psycholinguistics: the computational and mathematical modeling of linguistic generalization, development, and processing. We invite contributions that apply methods from computational linguistics to problems in the cognitive modeling of any and all natural language-related abilities. The 2018 workshop follows in the tradition of earlier CMCL meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015 and EACL 2017.
 
