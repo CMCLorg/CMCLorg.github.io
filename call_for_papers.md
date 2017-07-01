@@ -23,7 +23,7 @@ The workshop invites a broad spectrum of work in the cognitive science of langua
 
 * Incremental parsers for diverse grammar formalisms
 * Stochastic models of factors encouraging one production or interpretation over its competitors
-* Models of semantic or pragmatic interpretation imcorporating cognitively-plausible meanings and composition
+* Models of cognitively-plausible semantic or pragmatic interpretation and/or composition
 * Models of human language acquisition, including phonology, morphology, syntax, and semantics
 * Models of human language adaptation in a changing linguistic environment
 * Quantitative measures of comprehension difficulty
