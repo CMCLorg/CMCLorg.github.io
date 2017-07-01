@@ -44,9 +44,9 @@ Submissions are especially welcomed that combine computational modeling work wit
 
  To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors.
 
- Submissions must be formatted using ACL 2017 submission guidelines at: http://eacl2017.org/index.php/calls/call-for-papers
+ Submissions are limited to 8 content pages (plus unlimited pages for references) and should follow the two-column ACL format.
 
- Submission style templates are available at: http://eacl2017.org/images/site/eacl-2017-template.zip
+  Style templates are available from the NAACL website: http://naacl.org/naacl-pubs/
 
  If essentially identical papers are submitted to multiple conferences or workshops, this fact must be indicated at submission time.
 
