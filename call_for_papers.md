@@ -19,7 +19,7 @@ This workshop provides a venue for work in computational psycholinguistics: the 
 
 ## Scope and Topics
 
-The workshop invites a broad spectrum of work in the cognitive science of language, at all levels of analysis from sounds to discourse and on both learning and processing. Topics include, but are not limited to: 
+The workshop invites a broad spectrum of work in the cognitive science of language, at all levels of analysis from sounds to discourse and on both learning and processing. We are interested in any papers that use NLP to model human behavior, that use behavioral corpora to evaluate NLP, or that conduct behavioral experiments to test the cognitive-plausibility of NLP model predictions. Topics include, but are not limited to: 
 
 * Incremental parsers for diverse grammar formalisms
 * Stochastic models of factors encouraging one production or interpretation over its competitors
@@ -31,8 +31,6 @@ The workshop invites a broad spectrum of work in the cognitive science of langua
 * Development and evaluation of NLP systems using cognitive principles and measurements (e.g. plausibility of different artificial neural network architectures for human cognition)
 * Models of linguistic information propagation and language change in communication networks
 * Psychologically motivated models of grammar induction or semantic learning
-
-We also invite any submissions looking at NLP through the opposite lens that use behavioral data to rule out or refine computational models of human language processing.
 
 Submissions are especially welcomed that combine computational modeling work with experimental or corpus data to test theoretical questions about the nature of human language acquisition, comprehension, and/or production.
 
