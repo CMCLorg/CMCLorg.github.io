@@ -75,16 +75,19 @@ Submissions are especially welcomed that combine computational modeling work wit
 * Afra Alishahi, Tilburg University
 * Fatemeh Torabi Asr, Indiana University
 * Klinton Bicknell, Northwestern University
-* Christos Christodoulopoulos, University of Illinois at Urbana-Champaign
+* Christos Christodoulopoulos, Amazon
 * Alexander Clark, King's College
+* Vera Demberg, University of Saarland
 * Brian Dillon, University of Massachusetts
 * Micha Elsner, The Ohio State University
 * Afsaneh Fazly, University of Toronto
+* Bob Frank, Yale University
 * Michael C. Frank, Stanford University
 * Robert Frank, Yale University
 * Stella Frank, Edinburgh University
 * Thomas Graf, Stony Brook University
 * John T. Hale, Cornell University
+* Jeffrey Heinz, University of Delaware
 * Tim Hunter, UCLA
 * Shalom Lappin, King's College
 * Pavel Logacev, Bogazici University
@@ -96,11 +99,12 @@ Submissions are especially welcomed that combine computational modeling work wit
 * Steven Piantadosi, University of Rochester
 * Roi Reichart, Technion University
 * Brian Roark, Google
+* Ingeborg Roete, Max Planck Institute for Psycholinguistics
 * William Schuler, The Ohio State University
 * Cory Shain, The Ohio State University
 * Suzanne Stevenson, University of Toronto
 * Titus von der Malsburg, UCSD
-
+* Colin Wilson, Johns Hopkins University
 
 ## Workshop Organizers
 * Cassandra Jacobs, Stitch Fix
