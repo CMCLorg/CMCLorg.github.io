@@ -48,13 +48,15 @@ Submissions are especially welcomed that combine computational modeling work wit
 
  We solicit three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format submitted to our EasyChair page:
 
- https://easychair.org/conferences/?conf=cmcl2018
+ [https://easychair.org/conferences/?conf=cmcl2018](https://easychair.org/conferences/?conf=cmcl2018)
 
  To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors.
 
- Submissions are limited to 8 content pages (plus unlimited pages for references) and should follow the two-column ACL format.
+ Submissions are limited to 8 content pages (plus unlimited pages for references) and should follow the two-column ACL format. We strongly recommend the use of the official ACL 2017 style templates:
 
-  Style templates are available from the NAACL website: http://naacl.org/naacl-pubs/
+  LaTeX: [http://acl2017.org/downloads/acl17-latex.zip](http://acl2017.org/downloads/acl17-latex.zip)
+
+  Microsoft Word: [http://acl2017.org/downloads/acl17-word.zip](http://acl2017.org/downloads/acl17-word.zip)
 
  If essentially identical papers are submitted to multiple conferences or workshops, this fact must be indicated at submission time. Please do not submit the same work to both CMCL and SCiL or to both LSA and SCiL - these meetings are being held jointly, and your submission will be returned without review.
 
