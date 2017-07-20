@@ -46,7 +46,9 @@ Submissions are especially welcomed that combine computational modeling work wit
 
 ## Submissions
 
- We solicit three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format. We will begin accepting submissions closer to the deadline.
+ We solicit three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format submitted to our EasyChair page:
+
+ https://easychair.org/conferences/?conf=cmcl2018
 
  To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors.
 
