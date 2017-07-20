@@ -72,7 +72,7 @@ Submissions are especially welcomed that combine computational modeling work wit
  The best regular workshop paper whose first author is a student will receive the Best Student Paper award.
 
 ## Student Travel Grants
- Thanks to the generosity of the Johns Hopkins University Department of Cognitive Science, CMCL is able to provide a small number of student travel awards ($200 each) for accepted, first-authored student papers this year. To be considered for a student travel grant, the student first author should email the organizers a request for consideration and a list of other funding sources available to the student at [cmclworkshop2018@gmail.com](mailto://cmclworkshop2018@gmail.com).
+ Thanks to the generosity of the Johns Hopkins University Department of Cognitive Science, CMCL is able to provide a small number of student travel awards ($200 each) for accepted, first-authored student papers this year. To be considered for a student travel grant, the student first author should [email](mailto://cmclworkshop2018@gmail.com) the organizers a request for consideration and a list of other funding sources available to the student.
 
 ## Program Committee
 * Omri Abend, Hebrew University of Jerusalem
