@@ -7,7 +7,7 @@ permalink: /call-for-papers
 ## Cognitive Modeling and Computational Linguistics (CMCL) 2018
 
 [https://cmclorg.github.io](https://cmclorg.github.io)
-[mailto://cmclworkshop2018@gmail.com](cmclworkshop2018@gmail.com)
+[cmclworkshop2018@gmail.com](mailto://cmclworkshop2018@gmail.com)
 +1.443.303.7692
 
 ## Workshop Description
