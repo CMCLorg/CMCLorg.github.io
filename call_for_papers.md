@@ -66,13 +66,13 @@ Submissions are especially welcomed that combine computational modeling work wit
  Preliminary but interesting ideas or results that have not been published before may be submitted as extended abstracts, with length of 2 to 4 pages plus references, following the ACL 2017 formatting requirements. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymized. Accepted abstracts will be presented as posters, but will not be included in the workshop proceedings.
 
 ### Cross-Submissions
- In addition to unpublished work, we also solicit papers on related topics that have appeared in a non-NLP venue (e.g., papers at CogSci). These papers will be presented as posters, but do not count as CMCL workshop papers and will not be included in the proceedings.  Interested authors need to submit their papers in PDF format through the same Softconf website with a note on the original venue. Papers in this category do not need to follow the ACL format and the selection is solely determined by the organizing committee.
+ In addition to unpublished work, we also solicit papers on related topics that have appeared in a non-NLP venue (e.g., papers at CogSci). These papers will be presented as posters, but do not count as CMCL workshop papers and will not be included in the proceedings.  Interested authors need to submit their papers in PDF format through the same EasyChair website and should [email](mailto://cmclworkshop2018@gmail.com) the organizers a note with the submission title and the original venue. Papers in this category do not need to follow the ACL format and the selection is solely determined by the organizing committee.
 
 ## Best Student Paper
  The best regular workshop paper whose first author is a student will receive the Best Student Paper award.
 
 ## Student Travel Grants
- Thanks to the generosity of the Johns Hopkins University Department of Cognitive Science, CMCL is able to provide a small number of student travel awards ($200 each) for accepted, first-authored student papers this year.
+ Thanks to the generosity of the Johns Hopkins University Department of Cognitive Science, CMCL is able to provide a small number of student travel awards ($200 each) for accepted, first-authored student papers this year. To be considered for a student travel grant, the student first author should email the organizers a request for consideration and a list of other funding sources available to the student at [cmclworkshop2018@gmail.com](mailto://cmclworkshop2018@gmail.com).
 
 ## Program Committee
 * Omri Abend, Hebrew University of Jerusalem
