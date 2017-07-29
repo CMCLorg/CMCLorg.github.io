@@ -115,7 +115,7 @@ Submissions are especially welcomed that combine computational modeling work wit
 * Colin Wilson, Johns Hopkins University
 
 ## Workshop Organizers
-* Cassandra Jacobs, Stitch Fix
+* Cassandra Jacobs, University of California at Davis & Stitch Fix
 * Tal Linzen, Johns Hopkins University
 * Asad Sayeed, University of Gothenburg
 * Marten van Schijndel, Johns Hopkins University
