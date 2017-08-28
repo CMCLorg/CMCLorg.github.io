@@ -19,7 +19,7 @@ CMCL 2018 will be co-located with the new [Society for Computation in Linguistic
 
 ## Important Dates
 
-* Submission deadline: ~~3~~ 10 September 2017
+* Submission deadline: ~3~ 10 September 2017
 
 * Reviews due: 24 September 2017
 
@@ -62,7 +62,7 @@ Submissions are especially welcomed that combine computational modeling work wit
 
  If essentially identical papers are submitted to multiple conferences or workshops, this fact must be indicated at submission time. Please do not submit the same work to both CMCL and SCiL or to both LSA and SCiL - these meetings are being held jointly, and your submission will be returned without review.
 
- The submission deadline is 11:59PM Pacific Time on September 3, 2017.
+ The submission deadline is 11:59PM Pacific Time on September ~3~10, 2017.
 
 ### Regular Workshop Papers
 
