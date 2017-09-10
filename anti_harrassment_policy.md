@@ -28,12 +28,12 @@ Organizers may take action to redress anything designed to, or with the clear im
 
 We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too!
 
-<!--Reporting
+Reporting
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Conference staff can be identified by red stickers on their conference badges. Harassment and other code of conduct violations reduce the value of our event for everyone. People like you make our scientific community a better place, and we want you to be happy here.
 
-You can make a report either personally or anonymously.
--->
+You can make a report either personally or anonymously. We will have the anonymous reporting system ready soon.
+
 <!--Anonymous Report
 
 You can make an anonymous report here: 
@@ -43,18 +43,21 @@ https://cuny2017.wufoo.com/forms/report-form/
 We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
 -->
 
-<!--Personal Report
+Personal Report
 
 You can make a personal report by:
 
-Emailing the conference organizers at cuny2017.mit@gmail.com. This address will be continuously monitored during the event.
-Contacting a staff member, identified by red stickers on their badges.
-When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone and we won't tell anyone who you are.
+1. Emailing the conference organizers at cmclworkshop2018@gmail.com. This address will be continuously monitored during the event.
+2. Contacting a staff member, identified by red stickers on their badges.
+
+When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. 
+
+Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone and we won't tell anyone who you are.
 
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
--->
-<!--Our email: cuny2017.mit@gmail.com
--->
+
+Our email: cmclworkshop2018@gmail.com
+
 Local law enforcement: Salt Lake City Police Department, 1-801-799-3000 (Non-emergency number, dial 911 in an emergency)
 
 Sexual assault hotline (RAINN): 1-800-656-HOPE or 1-800-656-4673
