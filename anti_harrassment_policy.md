@@ -6,7 +6,7 @@ permalink: /anti-harrassment-policy
 
 Code of Conduct
 
-CUNY 2017 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+CMCL 2018 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 Harassment includes, but is not limited to:
 
@@ -22,7 +22,7 @@ Harassment includes, but is not limited to:
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep CUNY Sentence Processing a welcoming environment for all participants. This includes warning the offender or expulsion from the conference with no refund.
+If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep CMCL a welcoming environment for all participants. This includes warning the offender or expulsion from the conference with no refund.
 
 Organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
