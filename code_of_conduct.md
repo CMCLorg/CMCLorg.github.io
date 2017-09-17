@@ -41,7 +41,7 @@ https://cuny2017.wufoo.com/forms/report-form/
 We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
 -->
 
-## Personal Report
+# Personal Report
 
 You can make a personal report by:
 
