@@ -19,13 +19,15 @@ CMCL 2018 will be co-located with the new [Society for Computation in Linguistic
 
 ## Important Dates
 
-* Submission deadline: 10 September 2017 (was 3 September 2017)
+* Submission deadline: 10 September 2017
 
-* Reviews due: 24 September 2017
+* Numeric reviews due: 30 September 2017
 
-* Notification of acceptance: 1 October 2017
+* Final reviews due: 8 October 2017
 
-* Camera-ready versions due: 1 November 2017
+* Notification of acceptance: 10 October 2017
+
+* Camera-ready versions due: 10 November 2017
 
 * Workshop: 7 January 2018
 
