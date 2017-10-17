@@ -68,7 +68,11 @@ Submissions are especially welcomed that combine computational modeling work wit
 
 ### Regular Workshop Papers
 
- This call solicits full papers (8 content + 2 bibliography pages) and short papers (4 content + 2 bibliography pages) reporting original and unpublished research that combines cognitive modeling and computational linguistics. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should emphasize obtained results rather than intended work, and should indicate clearly the state of completion of the reported results. A paper accepted for presentation at the workshop must not be presented or have been presented at any other meeting with publicly available proceedings (previous inclusion in an abstract proceedings as for the CUNY Conference on Human Sentence Processing is acceptable).
+ This call solicits full papers (8 content + unlimited bibliography pages) and short papers (4 content + unlimited bibliography pages) reporting original and unpublished research that combines cognitive modeling and computational linguistics. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings. They should emphasize obtained results rather than intended work, and should indicate clearly the state of completion of the reported results. A paper accepted for presentation at the workshop must not be presented or have been presented at any other meeting with publicly available proceedings (previous inclusion in an abstract proceedings as for the CUNY Conference on Human Sentence Processing is acceptable).
+
+#### Camera-Ready Format
+
+ Papers accepted for inclusion in the CMCL proceedings can have up to 9 pages of content and unlimited pages for references. Since the proceedings will be published in the ACL anthology, camera-ready papers must adhere to the ACL LaTeX styles linked to above.
 
 ### Extended Abstracts
  Preliminary but interesting ideas or results that have not been published before may be submitted as extended abstracts, with length of 2 to 4 pages plus references, following the ACL 2017 formatting requirements. Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference that identifies the authors should be avoided or anonymized. Accepted abstracts will be presented as posters, but will not be included in the workshop proceedings.
