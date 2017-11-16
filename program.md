@@ -6,15 +6,13 @@ permalink: /program
 
 ## Cognitive Modeling and Computational Linguistics (CMCL) 2018
 
-CMCL 2018 will have both oral presentations and poster presentations.
+CMCL 2018 will have both oral presentations and poster presentations. Posters will be presented during one of the SCiL poster sessions and during a short session after the oral presentations. 
 
-Posters presented at CMCL 2018 will be presented twice: once during the second SCiL poster session and once after the oral presentations. 
+Friday, January 05, 2-2:30: SCiL/CMCL Joint Poster Session  
+Sunday, January 07, 9-12:00: CMCL Oral Presentations  
+Sunday, January 07, 12-12:30: CMCL Poster Presentations
 
-### SCiL/CMCL Joint Poster Session (Friday, January 05, 2-3:30)
-
-See below for poster abstracts
-
-### CMCL Oral Presentations (Sunday, January 07, 9-12:00)
+### CMCL Oral Presentations
 
 9:00  
 *Coreference and Focus in Reading Times*  
@@ -31,7 +29,7 @@ This paper presents evidence of an attentional focus effect on coreference resol
 
 Words with low probability in context take longer to read. This relationship has been quantified using information-theoretic surprisal, the amount of information a word conveys. Here, we compare surprisal estimates derived from a range of language models including n-gram models and state-of-the-art deep learning models. We show that the predictive power of surprisal for reading times improves as a tight linear function of the linguistic quality of the language model used to derive it. Further, the size of the surprisal effect is estimated consistently across all language models, pointing toward a lack of bias and striking robustness of surprisal estimates.
 
-10:00
+10:00  
 *Dynamic encoding of structural uncertainty in gradient symbols*  
 **Pyeong Whan Cho** (Johns Hopkins University)  
 **Matthew Goldrick** (Northwestern University)  
@@ -40,7 +38,7 @@ Words with low probability in context take longer to read. This relationship has
 
 A key insight into language processing is the discovery of the relationship between processing difficulty and surprisal. We provide a mechanistic account of this effect, bridging symbolic and subsymbolic connectionist models. Gradient Symbolic Computation is a continuous-time, continuous-state stochastic dynamical systems framework that computes the representation of a discrete structure gradually. We apply this to incremental parsing and show it can dynamically encode and update structural uncertainty via the gradient activation of symbolic constituents. We show that in this model surprisal is closely related to the amount of change in the optimal activation state driven by a new word input.
 
-10:30
+10:30  
 *Phonological (un)certainty weights lexical activation*  
 **Laura Gwilliams** (New York University)  
 **Tal Linzen** (Johns Hopkins University)  
@@ -65,7 +63,7 @@ Recent work has attempted to characterize the structure of semantic memory and t
 
 Word associations are a common tool in research on the mental lexicon. Bilinguals tend to produce different associations in their non-native language than monolinguals do, and three mechanisms have been proposed for this difference: relying on native associations (through translation), on collocational patterns, and on phonological similarity between words. We show that the observed difference is significant, and present a computational model of bilingual word associations, implemented as a semantic network with a retrieval mechanism. Our model predicts bilingual responses better than monolingual baselines. Its success is mainly explained by translation; collocational and phonological associations do not improve the model.
 
-### CMCL Poster Presentations (Sunday, January 07, 12-12:30)
+### CMCL Poster Presentations
 
 *Distributional and Dependency-based Word Embeddings have Complementary Roles in Decoding Brain Activity*  
 **Samira Abnar** (University of Tehran)  
@@ -75,10 +73,10 @@ Word associations are a common tool in research on the mental lexicon. Bilingual
 
 We evaluate different word embeddings on their usefulness for predicting the neural activation patterns associated with concrete nouns. Our goal is to assess the cognitive plausibility of these models, and understand how we can improve the methods for interpreting brain imaging data. We show that neural word embeddings exhibit superior performance beating experiential word representations. Interestingly, the error patterns of these models are markedly different. This may support the idea that the brain uses different systems for processing different kinds of words. We suggest that taking the relative strengths of different embedding models into account will lead to better models.
 
-*Uniform Information Density (UID) Effects on Syntactic Choice in Hindi and English*
-**Ayush Jain** (Indian Institute of Technology Delhi)
-**Vishal Singh** (Indian Institute of Technology Delhi)
-**Sumeet Agarwal** (Indian Institute of Technology Delhi)
+*Uniform Information Density (UID) Effects on Syntactic Choice in Hindi and English*  
+**Ayush Jain** (Indian Institute of Technology Delhi)  
+**Vishal Singh** (Indian Institute of Technology Delhi)  
+**Sumeet Agarwal** (Indian Institute of Technology Delhi)  
 **Rajakrishnan Rajkumar** (Indian Institute of Technology Delhi)
 
 In this work, we investigate the extent to which syntactic choice is influenced by the drive to minimize the variance of information across the linguistic signal, as predicted by the UID hypothesis. We propose multiple measures to capture the uniform spread of information over entire sentences. Subsequently, we incorporate these measures in machine learning models aimed to distinguish between naturally occurring corpus sentences and their grammatical variants. Our results indicate that for this task, our UID measures are not a significant factor in the case of Hindi and have a very small impact for English.
