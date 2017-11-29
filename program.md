@@ -15,7 +15,7 @@ Sunday, January 07, 12-12:30: CMCL Poster Presentations
 ### CMCL Oral Presentations
 
 9:00  
-*Coreference and Focus in Reading Times*  
+*Coreference and Focus in Reading Times* [pdf](files/jaffe_etal.pdf)  
 **Evan Jaffe** (The Ohio State University)  
 **Cory Shain** (The Ohio State University)  
 **William Schuler** (The Ohio State University)
@@ -23,14 +23,14 @@ Sunday, January 07, 12-12:30: CMCL Poster Presentations
 This paper presents evidence of an attentional focus effect on coreference resolution in broad-coverage human sentence processing. While previous work has explored the role of attentional focus in coreference resolution (Almor, 1999; Foraker and McElree, 2007), these studies use constructed stimuli and estimate attentional focus using specific syntactic patterns (e.g. cleft constructions). This paper explores the generalizability of this focus effect on coreference resolution to the broad-coverage setting. In particular, the current work proposes several new estimators of attentional focus appropriate for broad-coverage sentence processing and evaluates them as predictors of reading behavior in the Natural Stories corpus.
 
 9:30  
-*Predictive power of word surprisal for reading times is a linear function of language model quality*  
+*Predictive power of word surprisal for reading times is a linear function of language model quality* [pdf](files/goodkind_bicknell.pdf)  
 **Adam Goodkind** (Northwestern University)  
 **Klinton Bicknel** (Northwestern University)
 
 Words with low probability in context take longer to read. This relationship has been quantified using information-theoretic surprisal, the amount of information a word conveys. Here, we compare surprisal estimates derived from a range of language models including n-gram models and state-of-the-art deep learning models. We show that the predictive power of surprisal for reading times improves as a tight linear function of the linguistic quality of the language model used to derive it. Further, the size of the surprisal effect is estimated consistently across all language models, pointing toward a lack of bias and striking robustness of surprisal estimates.
 
 10:00  
-*Dynamic encoding of structural uncertainty in gradient symbols*  
+*Dynamic encoding of structural uncertainty in gradient symbols* [pdf](files/cho_etal.pdf)  
 **Pyeong Whan Cho** (Johns Hopkins University)  
 **Matthew Goldrick** (Northwestern University)  
 **Richard L. Lewis** (University of Michigan)  
@@ -39,7 +39,7 @@ Words with low probability in context take longer to read. This relationship has
 A key insight into language processing is the discovery of the relationship between processing difficulty and surprisal. We provide a mechanistic account of this effect, bridging symbolic and subsymbolic connectionist models. Gradient Symbolic Computation is a continuous-time, continuous-state stochastic dynamical systems framework that computes the representation of a discrete structure gradually. We apply this to incremental parsing and show it can dynamically encode and update structural uncertainty via the gradient activation of symbolic constituents. We show that in this model surprisal is closely related to the amount of change in the optimal activation state driven by a new word input.
 
 10:30  
-*Phonological (un)certainty weights lexical activation*  
+*Phonological (un)certainty weights lexical activation* [pdf](files/gwilliams_etal.pdf)  
 **Laura Gwilliams** (New York University)  
 **Tal Linzen** (Johns Hopkins University)  
 **David Poeppel** (New York University)  
@@ -48,7 +48,7 @@ A key insight into language processing is the discovery of the relationship betw
 Spoken word recognition involves: i) matching acoustic input to phonological categories (e.g. /b/, /p/), ii) activating words consistent with those phonological categories. Here we test the hypothesis that activation of a lexical candidate is weighted both by certainty of phonological discretisation and word frequency. Neural responses were recorded from auditory cortex using magneto-encephalography, and modelled as a function of the size and relative activation of lexical candidates. Our findings indicate that towards the beginning of a word, the processing system weights lexical candidates by both phonological certainty and lexical frequency; later into the word, activation is weighted by frequency alone.
 
 11:00  
-*Predicting and Explaining Human Semantic Search in a Cognitive Model*  
+*Predicting and Explaining Human Semantic Search in a Cognitive Model* [pdf](files/miscevic_etal.pdf)  
 **Filip Miscevic** (Indiana University, Bloomington)  
 **Aida Nematzadeh** (University of California, Berkeley)  
 **Suzanne Stevenson** (University of Toronto)
@@ -56,7 +56,7 @@ Spoken word recognition involves: i) matching acoustic input to phonological cat
 Recent work has attempted to characterize the structure of semantic memory and the search algorithms which, together, best approximate human patterns of search revealed in a semantic fluency task. However, these models vary in the degree of their cognitive plausibility and neglect the constraints that the incremental process of language acquisition place on the structure of semantic memory. We present a model that incrementally updates a semantic network with limited computational steps, and replicates patterns found in human semantic fluency using a random walk. We also show that both structural and semantic features are requisite for replicating human performance patterns.
 
 11:30  
-*Modeling bilingual word associations as connected monolingual networks*  
+*Modeling bilingual word associations as connected monolingual networks* [pdf](files/matusevych_etal.pdf)  
 **Yevgen Matusevych** (University of Toronto)  
 **Amir Ardalan Kalantari Dehaghi** (University of Toronto)  
 **Suzanne Stevenson** (University of Toronto)
@@ -65,7 +65,7 @@ Word associations are a common tool in research on the mental lexicon. Bilingual
 
 ### CMCL Poster Presentations
 
-*Distributional and Dependency-based Word Embeddings have Complementary Roles in Decoding Brain Activity*  
+*Distributional and Dependency-based Word Embeddings have Complementary Roles in Decoding Brain Activity* [pdf](files/abnar_etal.pdf)   
 **Samira Abnar** (University of Tehran)  
 **Max Mijnheer** (University of Amsterdam)  
 **Rasyan Ahmed** (University of Amsterdam)  
@@ -73,7 +73,8 @@ Word associations are a common tool in research on the mental lexicon. Bilingual
 
 We evaluate different word embeddings on their usefulness for predicting the neural activation patterns associated with concrete nouns. Our goal is to assess the cognitive plausibility of these models, and understand how we can improve the methods for interpreting brain imaging data. We show that neural word embeddings exhibit superior performance beating experiential word representations. Interestingly, the error patterns of these models are markedly different. This may support the idea that the brain uses different systems for processing different kinds of words. We suggest that taking the relative strengths of different embedding models into account will lead to better models.
 
-*Uniform Information Density (UID) Effects on Syntactic Choice in Hindi and English*  
+*Uniform Information Density (UID) Effects on Syntactic Choice in Hindi and English*
+[non-archival pdf](files/jaffe_etal.pdf)
 **Ayush Jain** (Indian Institute of Technology Delhi)  
 **Vishal Singh** (Indian Institute of Technology Delhi)  
 **Sumeet Agarwal** (Indian Institute of Technology Delhi)  
@@ -81,7 +82,7 @@ We evaluate different word embeddings on their usefulness for predicting the neu
 
 In this work, we investigate the extent to which syntactic choice is influenced by the drive to minimize the variance of information across the linguistic signal, as predicted by the UID hypothesis. We propose multiple measures to capture the uniform spread of information over entire sentences. Subsequently, we incorporate these measures in machine learning models aimed to distinguish between naturally occurring corpus sentences and their grammatical variants. Our results indicate that for this task, our UID measures are not a significant factor in the case of Hindi and have a very small impact for English.
 
-*Exactly two things to learn from modeling scope ambiguity resolution: Developmental continuity and numeral semantics*  
+*Exactly two things to learn from modeling scope ambiguity resolution: Developmental continuity and numeral semantics* [pdf](files/savinelli_etal.pdf)  
 **K.J. Savinelli** (University of California, Irvine)  
 **Greg Scontras** (University of California, Irvine)  
 **Lisa Pearl** (University of California, Irvine)
