@@ -81,7 +81,7 @@ Word associations are a common tool in research on the mental lexicon. Bilingual
 We evaluate different word embeddings on their usefulness for predicting the neural activation patterns associated with concrete nouns. Our goal is to assess the cognitive plausibility of these models, and understand how we can improve the methods for interpreting brain imaging data. We show that neural word embeddings exhibit superior performance beating experiential word representations. Interestingly, the error patterns of these models are markedly different. This may support the idea that the brain uses different systems for processing different kinds of words. We suggest that taking the relative strengths of different embedding models into account will lead to better models.
 
 *Uniform Information Density (UID) Effects on Syntactic Choice in Hindi and English*  
-[non-archival pdf](files/jain_etal.pdf)
+[extended abstract pdf](files/jain_etal.pdf)  
 **Ayush Jain** (Indian Institute of Technology Delhi)  
 **Vishal Singh** (Indian Institute of Technology Delhi)  
 **Sumeet Agarwal** (Indian Institute of Technology Delhi)  
