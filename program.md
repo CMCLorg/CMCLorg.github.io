@@ -6,7 +6,7 @@ permalink: /program
 
 ## Cognitive Modeling and Computational Linguistics (CMCL) 2018
 
-CMCL 2018 will have both oral presentations and poster presentations. Posters will be presented during one of the SCiL poster sessions and during a short session after the oral presentations. 
+CMCL 2018 will have both oral presentations and poster presentations. Posters will be presented during one of the SCiL poster sessions and during a short session after the oral CMCL presentations. 
 
 Friday, January 05, 2-2:30: SCiL/CMCL Joint Poster Session  
 Sunday, January 07, 9-12:00: CMCL Oral Presentations  
