@@ -80,8 +80,8 @@ Word associations are a common tool in research on the mental lexicon. Bilingual
 
 We evaluate different word embeddings on their usefulness for predicting the neural activation patterns associated with concrete nouns. Our goal is to assess the cognitive plausibility of these models, and understand how we can improve the methods for interpreting brain imaging data. We show that neural word embeddings exhibit superior performance beating experiential word representations. Interestingly, the error patterns of these models are markedly different. This may support the idea that the brain uses different systems for processing different kinds of words. We suggest that taking the relative strengths of different embedding models into account will lead to better models.
 
-*Uniform Information Density (UID) Effects on Syntactic Choice in Hindi and English*  
-[extended abstract pdf](files/jain_etal.pdf)  
+[*Uniform Information Density (UID) Effects on Syntactic Choice in Hindi and English*](files/jain_etal.pdf)  
+`[Non-archival Extended Abstract`]  
 **Ayush Jain** (Indian Institute of Technology Delhi)  
 **Vishal Singh** (Indian Institute of Technology Delhi)  
 **Sumeet Agarwal** (Indian Institute of Technology Delhi)  
@@ -89,8 +89,7 @@ We evaluate different word embeddings on their usefulness for predicting the neu
 
 In this work, we investigate the extent to which syntactic choice is influenced by the drive to minimize the variance of information across the linguistic signal, as predicted by the UID hypothesis. We propose multiple measures to capture the uniform spread of information over entire sentences. Subsequently, we incorporate these measures in machine learning models aimed to distinguish between naturally occurring corpus sentences and their grammatical variants. Our results indicate that for this task, our UID measures are not a significant factor in the case of Hindi and have a very small impact for English.
 
-*Exactly two things to learn from modeling scope ambiguity resolution: Developmental continuity and numeral semantics*  
-[pdf](files/savinelli_etal.pdf)  
+[*Exactly two things to learn from modeling scope ambiguity resolution: Developmental continuity and numeral semantics*](files/savinelli_etal.pdf)  
 **K.J. Savinelli** (University of California, Irvine)  
 **Greg Scontras** (University of California, Irvine)  
 **Lisa Pearl** (University of California, Irvine)
