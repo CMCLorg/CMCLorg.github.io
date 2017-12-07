@@ -14,6 +14,8 @@ Sunday, January 07, 12-12:30: CMCL Poster Presentations
 
 ### CMCL Oral Presentations
 
+Oral presentations will be 18 minutes long followed by 7 minutes for questions. 
+
 9:00  
 [*Coreference and Focus in Reading Times*](files/jaffe_etal.pdf)  
 **Evan Jaffe** (The Ohio State University)  
