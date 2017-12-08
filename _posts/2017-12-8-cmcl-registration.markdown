@@ -4,7 +4,7 @@ title:  "Reduced CMCL 2018 Registration"
 date:   2017-12-08 13:00:00 +0200
 ---
 
-CMCL 2018 attendees are eligible for reduced registration for LSA. If you are not an LSA member, enter one of these codes during registration to get LSA member rates during registration:
+LSA has now announced that CMCL 2018 (and SCiL) attendees are eligible for reduced registration for LSA. If you are not an LSA member, enter one of these codes during registration to get LSA member rates during registration:
 
 SISTER2018STUDENT for students    
 SISTER2018REGULAR for nonstudents
