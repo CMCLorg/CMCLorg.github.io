@@ -12,6 +12,13 @@ Friday, January 05, 2-3:30: SCiL/CMCL Joint Poster Session
 Sunday, January 07, 9-12:00: CMCL Oral Presentations  
 Sunday, January 07, 12-12:30: CMCL Poster Presentations
 
+### Location
+
+All presentations will be held at [Grand America Salt Lake City](http://www.grandamerica.com/).
+
+555 South Main Street //
+Salt Lake City, Utah // 84111
+
 ### CMCL Oral Presentations
 
 Oral presentations will be 18 minutes long followed by 7 minutes for questions. 
