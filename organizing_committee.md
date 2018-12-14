@@ -4,7 +4,7 @@ title: Organizing Committee
 permalink: /organizing_committee
 ---
 
-<ul>
+
 <li><b>Emmanuele Chersoni</b>
 Dep. of Chinese and Bilingual Studies, The Hong Kong Polytechnic University
 Email: emmanuelechersoni [at] gmail.com
@@ -28,4 +28,3 @@ Email: laurent.prevot@univ-amu.fr
 <li><b>Enrico Santus</b>
 Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology
 Email: esantus@mit.edu 
-</ul>
