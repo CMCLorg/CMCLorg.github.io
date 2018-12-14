@@ -6,10 +6,8 @@ permalink: /organizing_committee
 
 
 <li><b>Emmanuele Chersoni</b>
-<ul>
 	<li>Dep. of Chinese and Bilingual Studies, The Hong Kong Polytechnic University
 	<li>Email: emmanuelechersoni [at] gmail.com
-</ul>
 
 <li><b>Cassandra Jacobs</b>
 Dep. of Psychology, University of Toronto
