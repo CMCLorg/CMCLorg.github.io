@@ -15,16 +15,16 @@ Email: jacobs.cassandra.l [at] gmail.com
 
 <li><b>Alessandro Lenci</b>
 Dep. of Philology, Literature and Linguistics, University of Pisa
-Email: alessandro.lenci@unipi.it
+Email: alessandro.lenci [at] unipi.it
 
 <li><b>Tal Linzen</b>
 Dep. of Cognitive Science, Johns Hopkins University
-Email: tal.linzen@jhu.edu
+Email: tal.linzen [at] jhu.edu
 
 <li><b>Laurent Prévot</b>
 Laboratoire Parole et Langage, Aix-Marseille University
-Email: laurent.prevot@univ-amu.fr
+Email: laurent.prevot [at] univ-amu.fr
 
 <li><b>Enrico Santus</b>
 Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology
-Email: esantus@mit.edu 
+Email: esantus [at] mit.edu 
