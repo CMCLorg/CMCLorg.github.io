@@ -5,7 +5,7 @@ permalink: /organizers
 ---
 
 
-- <b>Emmanuele Chersoni</b>, Dep. of Chinese and Bilingual Studies, The Hong Kong Polytechnic University
+- <b>Emmanuele Chersoni</b>, Dep. of CBS, The Hong Kong Polytechnic University
   * Emmanuele is a postdoctoral researcher in the Department of Chinese and Bilingual Studies of the Hong Kong Polytechnic University. His main research interests include distributional semantic models, thematic fit modeling, automatic discovery of semantic relations and sentence processing.
   * Email: emmanuelechersoni [at] gmail.com
 
@@ -25,6 +25,7 @@ permalink: /organizers
   * Laurent Prévot is a professor in Language Sciences at Aix Marseille Université and the director of Laboratoire Parole et Langage and a junior member of the Institut Universitaire de France (IUF). His specialties are linguistics (in particular semantic and pragmatic questions) and Natural Language Processing, with a focus on the computational modeling of discourse and interaction phenomena in spontaneous conversations. He is the a Program Co-chair and Local Organizer of The 22nd Workshop on Semantics and Pragmatics of Dialogue (SEMDIAL) ; an organization committee member of TALN 2014 conference; former Program Manager for Humanities and Social Sciences, France-Taiwan Frontiers of Science and Co-organizer of Workshops Logics and Semantics of Natural Language from 2008 to 2010.
   * Email: laurent.prevot [at] univ-amu.fr
 
-- <b>Enrico Santus</b>, Computer Science and Artificial Intelligence Lab, Massachusetts Institute of Technology
+- <b>Enrico Santus</b>, CSAIL, Massachusetts Institute of Technology
   * Enrico Santus is postdoctoral researcher at the Massachusetts Institute of Technology. His current research is focused on Information Extraction and Question Answering. His previous research has investigated lexical distributional semantics, with attention to similarity and relation identification, as well as thematic fit estimation. He has been co-chair in ESSLLI 2016 and *SEM 2018, and he organized numerous shared tasks, including SemEval-2018 Task 9 on Hypernymy Discovery and the CogALex-V Shared Task on the Corpus-Based Identification of Semantic Relations.
+  * [Website](http://web.mit.edu/esantus/www/)
   * Email: esantus [at] mit.edu
