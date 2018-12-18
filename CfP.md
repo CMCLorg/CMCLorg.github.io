@@ -65,7 +65,7 @@ We will also accept Cross-submissions (from 2 to 4 pages + references) for paper
 
 ## Workshop Organizers
 * Emmanuele Chersoni, The Hong Kong Polytechnic University
-* Cassandra Jacobs, University of California at Davis & Stitch Fix
+* Cassandra Jacobs, University of Toronto
 * Alessandro Lenci, University of Pisa
 * Tal Linzen, Johns Hopkins University
 * Laurent Prévot, Aix-Marseille University
