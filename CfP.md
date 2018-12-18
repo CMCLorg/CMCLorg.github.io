@@ -4,7 +4,8 @@ title: CfP
 permalink: /CfP
 ---
 
-## Cognitive Modeling and Computational Linguistics (CMCL) 2018
+## Cognitive Modeling and Computational Linguistics (CMCL) 2019
+
 
 [https://cmclorg.github.io](https://cmclorg.github.io)
 
