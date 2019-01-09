@@ -74,46 +74,86 @@ We will also accept Cross-submissions (from 2 to 4 pages + references) for paper
 
 ## Programme Committee
 
-Steven Abney (University of Michigan),
-Raquel Garrido Alhama (University of Basque Country),
-Philippe Blache (Aix-Marseille Université),
-Marc Brysbaert (Ghent University),
-Francesca Carota (Max Planck Institute for Psycholinguistics),
-Christos Christodoulopoulos (Amazon),
-Robert Daland (Apple),
-Barry Devereux (Queen's University Belfast),
-Brian Dillon (University of Massachusetts),
-Micha Elsner (Ohio State University),
-Afsaneh Fazly (University of Toronto),
-Thomas Francois (Université Catholique de Louvain),
-Michael Frank (Stanford University),
-Robert Frank (Yale University),
-Stefan Frank (Rabdoud University of Nijmegen),
-Stella Frank (University of Edinburgh),
-Thomas Graf (Stony Brook University),
-John Hale (University of Georgia),
-Tim Hunter (UCLA),
-Gaja Jarosz (University of Massachusetts Amherst),
-Shalom Lappin (King's College London),
-Gianluca Lebani (University of Utrecht),
-Pavel Logacev (Bogazici University),
-Alessandro Lopopolo (Radboud University of Nijmegen),
-Karl David Neergaard (Aix-Marseille University),
-Timothy John O'Donnell (McGill University),
-Luca Onnis (Nanyang Technological University of Singapore),
-Sebastian Padó (University of Stuttgart),
-Vito Pirrelli (ILC-CNR Pisa),
-Carlos Ramisch (Aix-Marseille University),
-Roi Reichart (Technion University),
-Asad Sayeed (University of Gothenburg),
-William Schuler (Ohio State University),
-Olga Seminck (Université Paris-Sorbonne – Paris IV),
-Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa),
-Cory Shain (Ohio State University),
-Aline Villavicencio (University of Essex),
-Titus Von Der Malsburg (University of Potsdam),
-Victoria Yaneva (University of Wolverhampton),
-Frances Yung (Saarland University),
+Steven Abney (University of Michigan)
+
+Raquel Garrido Alhama (Max Planck Institute for Psycholinguistics)
+
+Philippe Blache (Aix-Marseille Université)
+
+Marc Brysbaert (Ghent University)
+
+Francesca Carota (Max Planck Institute for Psycholinguistics)
+
+Christos Christodoulopoulos (Amazon)
+
+Robert Daland (Apple)
+
+Barry Devereux (Queen's University Belfast)
+
+Brian Dillon (University of Massachusetts)
+
+Micha Elsner (Ohio State University)
+
+Afsaneh Fazly (University of Toronto)
+
+Thomas Francois (Université Catholique de Louvain)
+
+Michael Frank (Stanford University)
+
+Robert Frank (Yale University)
+
+Stefan Frank (Rabdoud University of Nijmegen)
+
+Stella Frank (University of Edinburgh)
+
+Thomas Graf (Stony Brook University)
+
+John Hale (University of Georgia)
+
+Tim Hunter (UCLA)
+
+Gaja Jarosz (University of Massachusetts Amherst)
+
+Shalom Lappin (King's College London)
+
+Gianluca Lebani (University of Utrecht)
+
+Pavel Logacev (Bogazici University)
+
+Alessandro Lopopolo (Radboud University of Nijmegen)
+
+Karl David Neergaard (Aix-Marseille University)
+
+Timothy John O'Donnell (McGill University)
+
+Luca Onnis (Nanyang Technological University of Singapore)
+
+Sebastian Padó (University of Stuttgart)
+
+Vito Pirrelli (ILC-CNR Pisa)
+
+Carlos Ramisch (Aix-Marseille University)
+
+Roi Reichart (Technion University)
+
+Asad Sayeed (University of Gothenburg)
+
+William Schuler (Ohio State University)
+
+Olga Seminck (Université Paris-Sorbonne – Paris IV)
+
+Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa)
+
+Cory Shain (Ohio State University)
+
+Aline Villavicencio (University of Essex)
+
+Titus Von Der Malsburg (University of Potsdam)
+
+Victoria Yaneva (University of Wolverhampton)
+
+Frances Yung (Saarland University)
+
 Alessandra Zarcone (Frauenhofer IIS Erlangen)
 
 
