@@ -9,7 +9,7 @@ permalink: /CfP
 
 [https://cmclorg.github.io](https://cmclorg.github.io)
 
-[cmclworkshop2019@gmail.com](mailto://cmclworkshop2018@gmail.com)
+[cmcl2019@gmail.com](mailto://cmclworkshop2018@gmail.com)
 
 
 ## Workshop Description
