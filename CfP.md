@@ -94,19 +94,15 @@ Brian Dillon (University of Massachusetts)
 
 Micha Elsner (Ohio State University)
 
-Afsaneh Fazly (University of Toronto)
-
 Thomas Francois (Université Catholique de Louvain)
 
 Michael Frank (Stanford University)
 
 Robert Frank (Yale University)
 
-Stefan Frank (Rabdoud University of Nijmegen)
-
-Stella Frank (University of Edinburgh)
-
 Thomas Graf (Stony Brook University)
+
+Jeffrey Heinz (Stony Brook University)
 
 John Hale (University of Georgia)
 
@@ -125,8 +121,6 @@ Alessandro Lopopolo (Radboud University of Nijmegen)
 Karl David Neergaard (Aix-Marseille University)
 
 Timothy John O'Donnell (McGill University)
-
-Luca Onnis (Nanyang Technological University of Singapore)
 
 Sebastian Padó (University of Stuttgart)
 
