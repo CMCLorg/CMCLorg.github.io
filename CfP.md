@@ -100,6 +100,8 @@ Michael Frank (Stanford University)
 
 Robert Frank (Yale University)
 
+Stella Frank (University of Edinburgh)
+
 Thomas Graf (Stony Brook University)
 
 Jeffrey Heinz (Stony Brook University)
