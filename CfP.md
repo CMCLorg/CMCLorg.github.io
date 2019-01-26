@@ -141,8 +141,6 @@ Olga Seminck (Université Paris-Sorbonne – Paris IV)
 
 Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa)
 
-Asad Sayeed (University of Gothenburg)
-
 Cory Shain (Ohio State University)
 
 Aline Villavicencio (University of Essex)
