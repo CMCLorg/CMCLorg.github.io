@@ -42,7 +42,7 @@ The topics of interest include, but are not limited to:
 
 ## Workshop Submissions
 
-We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website: [https://www.softconf.com/naacl2019/cmcl/](https://www.softconf.com/naacl2019/cmcl/)
+We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website: [https://www.softconf.com/naacl2019/cmcl/](https://www.softconf.com/naacl2019/cmcl/).
 To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors.
 
 Submissions must be formatted using NAACL 2019 templates, available at: [https://naacl2019.org/calls/papers/](https://naacl2019.org/calls/papers/).
@@ -57,13 +57,14 @@ We will also accept Cross-submissions (from 2 to 4 pages + references) for paper
 
 ## Important Dates
 
-- Submission deadline: February 27, 2019 (11.59pm, UTC-12h)
+- **Submission deadline**: February 27, 2019 (11.59pm, UTC-12h)
 - Notification of acceptance: March 27, 2019
 - Camera-ready version due: April 5, 2019
-- Workshop date: TBA
+- Workshop date: **June 7, 2019**
 
 
 ## Workshop Organizers
+
 * Emmanuele Chersoni, The Hong Kong Polytechnic University
 * Cassandra Jacobs, University of Toronto
 * Alessandro Lenci, University of Pisa
@@ -86,6 +87,8 @@ Francesca Carota (Max Planck Institute for Psycholinguistics)
 
 Christos Christodoulopoulos (Amazon)
 
+Alexander Clark (King’s College London)
+
 Robert Daland (Apple)
 
 Barry Devereux (Queen's University Belfast)
@@ -96,17 +99,15 @@ Micha Elsner (Ohio State University)
 
 Thomas Francois (Université Catholique de Louvain)
 
-Michael Frank (Stanford University)
-
 Robert Frank (Yale University)
 
 Stella Frank (University of Edinburgh)
 
 Thomas Graf (Stony Brook University)
 
-Jeffrey Heinz (Stony Brook University)
-
 John Hale (University of Georgia)
+
+Jeffrey Heinz (Stony Brook University)
 
 Tim Hunter (UCLA)
 
@@ -120,7 +121,7 @@ Pavel Logacev (Bogazici University)
 
 Alessandro Lopopolo (Radboud University of Nijmegen)
 
-Karl David Neergaard (Aix-Marseille University)
+Karl David Neergaard (Aix-Marseille Université)
 
 Timothy John O'Donnell (McGill University)
 
@@ -128,7 +129,7 @@ Sebastian Padó (University of Stuttgart)
 
 Vito Pirrelli (ILC-CNR Pisa)
 
-Carlos Ramisch (Aix-Marseille University)
+Carlos Ramisch (Aix-Marseille Université)
 
 Roi Reichart (Technion University)
 
@@ -139,6 +140,8 @@ William Schuler (Ohio State University)
 Olga Seminck (Université Paris-Sorbonne – Paris IV)
 
 Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa)
+
+Asad Sayeed (University of Gothenburg)
 
 Cory Shain (Ohio State University)
 
@@ -153,6 +156,25 @@ Frances Yung (Saarland University)
 Alessandra Zarcone (Frauenhofer IIS Erlangen)
 
 
-## Sponsor
+## Invited Speakers
 
-To be announced
+We are pleased to announce that Leila Wehbe (Carnegie Mellon University) and Klinton Bicknell (Duolingo AI Research) have accepted to be the invited speakers for CMCL 2019.
+
+
+## Travel Support 
+
+Thanks to the generosity of our sponsors, there will be a limited amount of travel awards for students who are the first authors of accepted papers.
+
+
+## Sponsoring Institutions
+
+We gratefully acknowledge support from:
+- Institute of Language, Communication and Brain (ILCB), Marseille;
+- Laboratoire Parole et Langage (LPL), Aix-en-Provence;
+- Computational Linguistics Laboratory (Coling Lab), Pisa.
+
+
+## Contact Email
+
+cmcl2019@gmail.com
+
