@@ -4,7 +4,7 @@ title: Code of Conduct
 permalink: /code-of-conduct
 ---
 
-CMCL 2018 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+CMCL 2019 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 Harassment includes, but is not limited to:
 
@@ -32,20 +32,11 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 
 You can make a report either personally or anonymously. We will have the anonymous reporting system ready soon.
 
-<!--Anonymous Report
-
-You can make an anonymous report here: 
-
-https://cuny2017.wufoo.com/forms/report-form/
-
-We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
--->
-
 # Personal Report
 
 You can make a personal report by:
 
-1. Emailing the conference organizers at cmclworkshop2018@gmail.com. This address will be continuously monitored during the event.
+1. Emailing the conference organizers at cmcl2019@gmail.com. This address will be continuously monitored during the event.
 2. Contacting a staff member, identified by red stickers on their badges.
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. 
@@ -54,8 +45,8 @@ Once safe, we'll ask you to tell us about what happened. This can be upsetting, 
 
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
 
-Our email: cmclworkshop2018@gmail.com
+Our email: cmcl2019@gmail.com
 
-Local law enforcement: Salt Lake City Police Department, 1-801-799-3000 (Non-emergency number, dial 911 in an emergency)
+Local law enforcement: [Minneapolis Police Department](http://www.ci.minneapolis.mn.us/police/report/index.htm), (311, for non-emergency criminal reports; dial 911 in an emergency)
 
 Sexual assault hotline (RAINN): 1-800-656-HOPE or 1-800-656-4673
