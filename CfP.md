@@ -55,6 +55,12 @@ If essentially identical papers are submitted to multiple conferences / workshop
 We will also accept Cross-submissions (from 2 to 4 pages + references) for papers on related topics that have already appeared in a non-NLP venue (e.g. CogSci). These papers will be presented as posters, but will not be included in the proceedings. Interested authors are asked to add a note on the original venue in the submission.
 
 
+## Dual Submission Policy (only for Regular Workshop Papers)
+
+If a workshop paper has been submitted elsewhere, the authors have to declare it a submission time.
+Papers to be presented at CMCL 2019 must be withdrawn from other venues.
+
+
 ## Important Dates
 
 - **Submission deadline**: February 27, 2019 (11.59pm, UTC-12h)
