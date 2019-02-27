@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to CMCL 2019!"
-date:   2018-12-14 12:38:12 +0200
+date:   2019-01-14 12:38:12 +0200
 ---
 
 Welcome to Cognitive Modeling and Computational Linguistics (CMCL) 2019.

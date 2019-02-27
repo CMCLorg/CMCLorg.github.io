@@ -63,7 +63,7 @@ Papers to be presented at CMCL 2019 must be withdrawn from other venues.
 
 ## Important Dates
 
-- **Submission deadline**: February 27, 2019 (11.59pm, UTC-12h)
+- **Submission deadline**: ~~February 27, 2019~~ March 4, 2019 (11.59pm, UTC-12h)
 - Notification of acceptance: March 27, 2019
 - Camera-ready version due: April 5, 2019
 - Workshop date: **June 7, 2019**
