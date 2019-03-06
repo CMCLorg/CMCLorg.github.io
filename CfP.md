@@ -93,6 +93,8 @@ Francesca Carota (Max Planck Institute for Psycholinguistics)
 
 Christos Christodoulopoulos (Amazon)
 
+Eunjin Chun (The Hong Kong Polytechnic University)
+
 Alexander Clark (King’s College London)
 
 Robert Daland (Apple)
@@ -115,6 +117,10 @@ John Hale (University of Georgia)
 
 Jeffrey Heinz (Stony Brook University)
 
+Joshua Herring (Periodic Inc.)
+
+Yu-Yin Hsu (The Hong Kong Polytechnic University)
+
 Tim Hunter (UCLA)
 
 Gaja Jarosz (University of Massachusetts Amherst)
@@ -134,6 +140,8 @@ Timothy John O'Donnell (McGill University)
 Sebastian Padó (University of Stuttgart)
 
 Vito Pirrelli (ILC-CNR Pisa)
+
+Zhen Qin (The Hong Kong Polytechnic University)
 
 Carlos Ramisch (Aix-Marseille Université)
 
