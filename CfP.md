@@ -123,6 +123,8 @@ Yu-Yin Hsu (The Hong Kong Polytechnic University)
 
 Tim Hunter (UCLA)
 
+Samar Husain (Indian Institute of Technology Delhi)
+
 Gaja Jarosz (University of Massachusetts Amherst)
 
 Shalom Lappin (King's College London)
@@ -143,6 +145,8 @@ Vito Pirrelli (ILC-CNR Pisa)
 
 Zhen Qin (The Hong Kong Polytechnic University)
 
+Giulia Rambelli (University of Pisa)
+
 Carlos Ramisch (Aix-Marseille Université)
 
 Roi Reichart (Technion University)
@@ -156,6 +160,8 @@ Olga Seminck (Université Paris-Sorbonne – Paris IV)
 Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa)
 
 Cory Shain (Ohio State University)
+
+Shravan Vasishth (University of Potsdam)
 
 Aline Villavicencio (University of Essex)
 
