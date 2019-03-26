@@ -81,8 +81,6 @@ Papers to be presented at CMCL 2019 must be withdrawn from other venues.
 
 ## Programme Committee
 
-Steven Abney (University of Michigan)
-
 Raquel Garrido Alhama (Max Planck Institute for Psycholinguistics)
 
 Philippe Blache (Aix-Marseille Université)
@@ -137,11 +135,13 @@ Alessandro Lopopolo (Radboud University of Nijmegen)
 
 Karl David Neergaard (Aix-Marseille Université)
 
-Timothy John O'Donnell (McGill University)
-
 Sebastian Padó (University of Stuttgart)
 
 Vito Pirrelli (ILC-CNR Pisa)
+
+Stephen Politzer-Ahles (The Hong Kong Polytechnic University)
+
+Jean-Philippe Prost (Université Montpellier 2)
 
 Zhen Qin (The Hong Kong Polytechnic University)
 
