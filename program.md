@@ -28,7 +28,7 @@ June 7, 2019 at Hyatt Regency, Minneapolis (USA)
 10:15–10:45 *The active-filler strategy in a move-eager left-corner Minimalist Grammar parser.* Tim Hunter, Miloš Stanojević and Edward Stabler
 
 
-#### 10:45–11:00 Coffee Break
+#### **10:45–11:00 Coffee Break**
 
 
 ### Session 3: Talks (11:00–12:00) 
@@ -37,7 +37,7 @@ June 7, 2019 at Hyatt Regency, Minneapolis (USA)
 11:30–12:00 *Simulating Spanish-English Code-Switching: El Modelo Está Generating Code-Switches.* Chara Tsoukala, Stefan L. Frank, Antal van den Bosch, Jorge Valdes Kroff and Mirjam Broersma
 
 
-#### 12:00–13:00 Lunch Break
+#### **12:00–13:00 Lunch Break**
 
 
 ### Session 4: Talks (13:00–14:30)
@@ -71,7 +71,7 @@ June 7, 2019 at Hyatt Regency, Minneapolis (USA)
 *Neural Models of the Psychosemantics of ‘Most’.* Lewis O’Sullivan and Shane Steinert-Threlkeld
 
 
-#### 15:30–15:45 Coffee Break
+#### **15:30–15:45 Coffee Break**
 
 
 ### Session 6: Talks (15:45–16:45)
@@ -80,7 +80,7 @@ June 7, 2019 at Hyatt Regency, Minneapolis (USA)
 16:15–16:45 *Using Grounded Word Representations to Study Theories of Lexical Concepts.* Dylan Ebert and Ellie Pavlick
 
 
-### Session 7: Invited Talk
+### Session 7: Invited Talk (16:45–17:45)
 16:45–17:45 Leila Wehbe
 
 
