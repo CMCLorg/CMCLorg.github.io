@@ -70,6 +70,10 @@ June 7, 2019 at Hyatt Regency, Minneapolis (USA)
 
 - *Neural Models of the Psychosemantics of ‘Most’.* Lewis O’Sullivan and Shane Steinert-Threlkeld
 
+- *Comparing Human and DNN-Ensemble Response Patterns for Item Response Theory Model Fitting.* John Lalor, Hao Wu and Hong Yu
+
+- *A computational model of listener adaptation to variable use of uncertainty expressions.* Sebastian Schuster and Judith Degen
+
 
 #### **15:30–15:45 Coffee Break**
 
