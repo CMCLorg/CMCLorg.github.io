@@ -6,7 +6,7 @@ permalink: /program
 
 # Cognitive Modeling and Computational Linguistics (CMCL) 2019
 
-CMCL 2019 will have both oral presentations and poster presentations.
+CMCL 2019 will have both oral presentations and poster presentations. The complete program (subject to change) may be read [here](https://github.com/CMCLorg/CMCLorg.github.io/raw/master/CMCL_draft_proceedings.pdf).
 
 
 ## Location and Date
