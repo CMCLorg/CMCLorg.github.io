@@ -11,8 +11,11 @@ CMCL 2019 will have both oral presentations and poster presentations. The comple
 
 ## Location and Date
 
-June 7, 2019 at Hyatt Regency, Minneapolis (USA)
+June 7, 2019 at Hyatt Regency, Minneapolis (1300 Nicollet Mall, Minneapolis, MN 55403).
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2822.672883711794!2d-93.28055348445899!3d44.97064027909824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b332bfb62b48a1%3A0x644885c9a8ad0562!2sHyatt+Regency+Minneapolis!5e0!3m2!1sen!2sus!4v1558447267967!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+The talks will take place in Nicollet D2 and the poster session will take place in the Hyatt Exhibit Hall.
 
 ## Programme
 
