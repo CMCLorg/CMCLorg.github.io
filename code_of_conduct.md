@@ -47,4 +47,4 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 Our email: (cmcl2020@gmail.com)[mailto:cmcl2020@gmail.com]
 
-Local law enforcement: [Police Department](http://www.policianacional.gob.do/), (dial 911 in an emergency)
+Local law enforcement: [Police Department](http://www.policianacional.gob.do/) (dial 911 in an emergency)
