@@ -4,7 +4,12 @@ title: Previous CMCLs
 permalink: /previous_cmcls
 ---
 
-2019 is the nineth installation of CMCL. Previous workshops:
+2020 is the tenth installation of CMCL.
+
+
+Previous editions:
+
+[CMCL 2019](https://cmclorg.github.io/2019/) (Minneapolis, Minnesota): Proceedings
 
 [CMCL 2018](https://cmclorg.github.io/2018/index.html) (Salt Lake City): [Proceedings](https://aclanthology.info/events/cmcl-2018).
 
