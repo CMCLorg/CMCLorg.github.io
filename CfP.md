@@ -4,24 +4,23 @@ title: CfP
 permalink: /CfP
 ---
 
-## Cognitive Modeling and Computational Linguistics (CMCL) 2019
+## Cognitive Modeling and Computational Linguistics (CMCL) 2020
 
 
 [https://cmclorg.github.io](https://cmclorg.github.io)
 
-[cmcl2019@gmail.com](mailto://cmclworkshop2018@gmail.com)
+[cmcl2020@gmail.com](mailto://cmclworkshop2020@gmail.com)
 
 
 ## Workshop Description
 
-Cognitive Modeling and Computational Linguistics (CMCL) 2019 is a one-day workshop held in conjunction with the Annual Conference of the North American chapter of the Association for Computational Linguistics (NAACL), Minneapolis, June 2-7 2019. 
-The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. 
-The 2019 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, and LSA 2018.
+Cognitive Modeling and Computational Linguistics (CMCL) provides a venue for computational research on cognitive theories of language processing, representation and acquisition. Language, fundamentally, is used by humans, who have variable linguistic backgrounds, cultures, and knowledge. Being able to capture the cognitive bases of human knowledge of their language using computational methods is an often unstated but fundamental goal of NLP. The aim of this workshop is to better relate computational approaches to language to human cognition, and vice versa, and is applicable to a wide range of fields within NLP, psycholinguistics, and cognitive science.
 
 
 ## Scope and Topics
 
-The topics of interest include, but are not limited to:
+Topics of interest for the workshop include:
+
 - Stochastic models of factors influencing a speaker’s production or comprehension decisions
 - Models of semantic interpretation, including psychologically realistic notions of word and phrase meaning and composition
 - Incremental parsers for diverse grammar formalisms and their psychological plausibility
@@ -37,15 +36,14 @@ The topics of interest include, but are not limited to:
 - Models of language comprehension difficulty
 - Models of language learning and generalization
 - Models of linguistic information propagation and language evolution in communities
-- Network science and language processing
 
 
 ## Workshop Submissions
 
-We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website: [https://www.softconf.com/naacl2019/cmcl/](https://www.softconf.com/naacl2019/cmcl/).
+We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website: <b> TO BE ANNOUNCED </b>.
 To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors.
 
-Submissions must be formatted using NAACL 2019 templates, available at: [https://naacl2019.org/calls/papers/](https://naacl2019.org/calls/papers/).
+Submissions must be formatted using EMNLP 2020 templates, available at: <b> TO BE ANNOUNCED </b>.
 If essentially identical papers are submitted to multiple conferences / workshops, the authors are asked to indicate this fact at submission time.
 
 - Regular Submissions Papers can be either full (8 pages of content + references) or short papers (4 pages + references) reporting original and unpublished research that combines cognitive modeling and computational linguistics. Accepted papers are expected to be presented at the workshop (oral presentation or poster) and will be published in the workshop proceedings.
@@ -58,125 +56,106 @@ We will also accept Cross-submissions (from 2 to 4 pages + references) for paper
 ### Dual Submission Policy (only for Regular Workshop Papers)
 
 If a workshop paper has been submitted elsewhere, the authors have to declare it a submission time.
-Papers to be presented at CMCL 2019 must be withdrawn from other venues.
+Papers to be presented at CMCL 2020 must be withdrawn from other venues.
 
 
 ## Important Dates
 
-- **Submission deadline**: ~~February 27, 2019~~ March 4, 2019 (11.59pm, UTC-12h)
-- Notification of acceptance: March 27, 2019
-- Camera-ready version due: April 5, 2019
-- Workshop date: **June 7, 2019**
+- To be announced soon.
 
 
 ## Workshop Organizers
 
 * Emmanuele Chersoni, The Hong Kong Polytechnic University
 * Cassandra Jacobs, University of Toronto
-* Alessandro Lenci, University of Pisa
-* Tal Linzen, Johns Hopkins University
-* Laurent Prévot, Aix-Marseille University
+* Yohei Oseki, Waseda University
 * Enrico Santus, MIT
 
 
 ## Programme Committee
 
+Laura Aina (Pompeu Fabre University of Barcelona)
+
 Raquel Garrido Alhama (Max Planck Institute for Psycholinguistics)
 
-Philippe Blache (Aix-Marseille Université)
+Afra Alishahi (Tilburg University)
 
-Marc Brysbaert (Ghent University)
-
-Francesca Carota (Max Planck Institute for Psycholinguistics)
+Philippe Blache (Aix-Marseille University)
 
 Christos Christodoulopoulos (Amazon)
 
-Eunjin Chun (The Hong Kong Polytechnic University)
+Aniello De Santo (Stony Brook University)
 
-Alexander Clark (King’s College London)
+Barry Devereux (Queen’s University Belfast)
 
-Robert Daland (Apple)
-
-Barry Devereux (Queen's University Belfast)
-
-Brian Dillon (University of Massachusetts)
+Brian Dillon (University of Massachusetts Amherst)
 
 Micha Elsner (Ohio State University)
 
-Thomas Francois (Université Catholique de Louvain)
+Afsaneh Fazly (University of Toronto)
+
+Raquel Fernandez (University of Amsterdam)
+
+Thomas Francois (Catholic University of Louvain)
 
 Robert Frank (Yale University)
 
-Stella Frank (University of Edinburgh)
-
-Thomas Graf (Stony Brook University)
-
 John Hale (University of Georgia)
-
-Jeffrey Heinz (Stony Brook University)
-
-Joshua Herring (Periodic Inc.)
 
 Yu-Yin Hsu (The Hong Kong Polytechnic University)
 
 Tim Hunter (UCLA)
 
-Samar Husain (Indian Institute of Technology Delhi)
+Samar Husain (IIT Delhi)
 
-Gaja Jarosz (University of Massachusetts Amherst)
+Shalom Lappin (University of Gothenburg)
 
-Shalom Lappin (King's College London)
-
-Gianluca Lebani (University of Utrecht)
+Gianluca Lebani (University Ca’ Foscari Venezia)
 
 Pavel Logacev (Bogazici University)
 
-Alessandro Lopopolo (Radboud University of Nijmegen)
+Syrielle Montariol (University of Paris Sud – LIMSI CNRS)
 
-Karl David Neergaard (Aix-Marseille Université)
+Karl Neergaard (Aix-Marseille University)
 
-Sebastian Padó (University of Stuttgart)
-
-Vito Pirrelli (ILC-CNR Pisa)
+Sebastian Pado (University of Stuttgart)
 
 Stephen Politzer-Ahles (The Hong Kong Polytechnic University)
 
-Jean-Philippe Prost (Université Montpellier 2)
+Vito Pirrelli (ILC-CNR Pisa), Carlos Ramisch (Aix-Marseille University)
 
-Zhen Qin (The Hong Kong Polytechnic University)
+Roi Reichart (Technion – Israel Institute of Technology)
 
-Giulia Rambelli (University of Pisa)
-
-Carlos Ramisch (Aix-Marseille Université)
-
-Roi Reichart (Technion University)
-
-Asad Sayeed (University of Gothenburg)
+Rachel A Ryskin (MIT)
 
 William Schuler (Ohio State University)
 
-Olga Seminck (Université Paris-Sorbonne – Paris IV)
+Marina Sedinkina (University of Munich)
 
 Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa)
 
 Cory Shain (Ohio State University)
 
+Yana Strakatova (University of Tuebingen)
+
+Lonneke Van Der Plas (University of Malta)
+
 Shravan Vasishth (University of Potsdam)
 
 Aline Villavicencio (University of Essex)
 
-Titus Von Der Malsburg (University of Potsdam)
+Leila Wehbe (Carnegie Mellon University)
 
 Victoria Yaneva (University of Wolverhampton)
 
-Frances Yung (Saarland University)
+Yao Yao (The Hong Kong Polytechnic University)
 
-Alessandra Zarcone (Frauenhofer IIS Erlangen)
+Frances Yung (Saarland University)
 
 
 ## Invited Speakers
 
-We are pleased to announce that Leila Wehbe (Carnegie Mellon University) and Klinton Bicknell (Duolingo AI Research) have accepted to be the invited speakers for CMCL 2019.
+We are pleased to announce that Richard Futrell (University of California Irvine) and Suzanne Stevenson (University of Toronto) are our invited speakers for CMCL 2020.
 
 
 ## Travel Support 
@@ -186,13 +165,10 @@ Thanks to the generosity of our sponsors, there will be a limited amount of trav
 
 ## Sponsoring Institutions
 
-We gratefully acknowledge support from:
-- Institute of Language, Communication and Brain (ILCB), Marseille;
-- Laboratoire Parole et Langage (LPL), Aix-en-Provence;
-- Computational Linguistics Laboratory (Coling Lab), Pisa.
+Working on it for you!
 
 
 ## Contact Email
 
-cmcl2019@gmail.com
+[cmcl2020@gmail.com](mailto://cmclworkshop2020@gmail.com)
 
