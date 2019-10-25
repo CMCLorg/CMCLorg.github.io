@@ -4,7 +4,7 @@ title: Code of Conduct
 permalink: /code-of-conduct
 ---
 
-CMCL 2019 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+CMCL 2020 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 Harassment includes, but is not limited to:
 
@@ -36,7 +36,7 @@ You can make a report either personally or anonymously. We will have the anonymo
 
 You can make a personal report by:
 
-1. Emailing the conference organizers at cmcl2019@gmail.com. This address will be continuously monitored during the event.
+1. Emailing the conference organizers at (cmcl2020@gmail.com)[mailto:cmcl2020@gmail.com]. This address will be continuously monitored during the event.
 2. Contacting a staff member, identified by red stickers on their badges.
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. 
@@ -45,8 +45,6 @@ Once safe, we'll ask you to tell us about what happened. This can be upsetting, 
 
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
 
-Our email: cmcl2019@gmail.com
+Our email: (cmcl2020@gmail.com)[mailto:cmcl2020@gmail.com]
 
-Local law enforcement: [Minneapolis Police Department](http://www.ci.minneapolis.mn.us/police/report/index.htm), (311, for non-emergency criminal reports; dial 911 in an emergency)
-
-Sexual assault hotline (RAINN): 1-800-656-HOPE or 1-800-656-4673
+Local law enforcement: [Police Department](http://www.policianacional.gob.do/), (dial 911 in an emergency)
