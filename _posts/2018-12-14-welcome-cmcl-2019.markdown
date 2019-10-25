@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to CMCL 2019!"
-date:   2019-01-14 12:38:12 +0200
+title:  "Welcome to CMCL 2020!"
+date:   2019-11-01 12:38:12 +0200
 ---
 
-Welcome to Cognitive Modeling and Computational Linguistics (CMCL) 2019.
+Welcome to Cognitive Modeling and Computational Linguistics (CMCL) 2020.
 
-This year CMCL will be co-located with [NAACL 2019](https://naacl2019.org/), in Minneapolis. 
+This year CMCL will be co-located with [EMNLP 2020](https://www.emnlp-ijcnlp2019.org/), in Punta Cana, Dominican Republic, on November 8-12, 2020. 
 
 The workshop provides a venue for work in computational psycholinguistics, including computational and mathematical modeling of linguistic representations, development and processing.
 
