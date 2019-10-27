@@ -69,6 +69,7 @@ Papers to be presented at CMCL 2020 must be withdrawn from other venues.
 * Emmanuele Chersoni, The Hong Kong Polytechnic University
 * Cassandra Jacobs, University of Toronto
 * Yohei Oseki, Waseda University
+* Laurent Prévot, Aix-Marseille University
 * Enrico Santus, MIT
 
 
