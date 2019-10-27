@@ -17,7 +17,7 @@ permalink: /organizers
   * Cassandra studies the intersection between human memory and linguistic experience. She has used a mixture of Bayesian and neural network models trained on natural language corpora to simulate how people learn language, how they represent the meanings of words and multiword expressions, and how they remember what others say. She has particular expertise in predicting spoken language prosody and models of distributional semantics. She served as an organizer of the 2018 meeting of CMCL in Salt Lake City, has organized symposia within the field of cognitive psychology on interdisciplinary questions in psycholinguistics, and served on the 2019 Diversity and Inclusion Committee for NAACL 2019.
   * Email: jacobs.cassandra.l [at] gmail.com
 
-- <b>Laurent Prévot</b>, Laboratoire Parole et Langage, Aix-Marseille University
+- <b>Laurent Prévot</b>, Aix-Marseille University
   * Laurent Prévot is a professor in Language Sciences at Aix Marseille Université and the director of Laboratoire Parole et Langage. He is also a junior member of the Institut Universitaire de France (IUF). His specialties are linguistics (in particular semantic and pragmatic questions) and Natural Language Processing, with a focus on the computational modeling of discourse and interaction phenomena in spontaneous conversations. He had been the a Program Co-chair and Local Organizer of The 22nd Workshop on Semantics and Pragmatics of Dialogue (SEMDIAL); an organization committee member of TALN 2014 conference; former Program Manager for Humanities and Social Sciences, France-Taiwan Frontiers of Science and Co-organizer of Workshops Logics and Semantics of Natural Language from 2008 to 2010.
   * Email: laurent.prevot [at] univ-amu.fr
 
