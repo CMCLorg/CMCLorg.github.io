@@ -124,6 +124,8 @@ Stephen Politzer-Ahles (The Hong Kong Polytechnic University)
 
 Vito Pirrelli (ILC-CNR Pisa), Carlos Ramisch (Aix-Marseille University)
 
+Giulia Rambelli (University of Pisa)
+
 Roi Reichart (Technion – Israel Institute of Technology)
 
 Rachel A Ryskin (MIT)
@@ -131,6 +133,8 @@ Rachel A Ryskin (MIT)
 William Schuler (Ohio State University)
 
 Marina Sedinkina (University of Munich)
+
+Olga Seminck (Catholic University of Louvain)
 
 Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa)
 
