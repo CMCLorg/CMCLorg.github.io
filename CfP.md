@@ -4,17 +4,18 @@ title: CfP
 permalink: /CfP
 ---
 
-## Cognitive Modeling and Computational Linguistics (CMCL) 2020
-
+## The Workshop on Cognitive Modeling and Computational Linguistics, November 11 2020
+Co-located with EMNLP 2020 in Punta Cana, Dominican Republic
 
 [https://cmclorg.github.io](https://cmclorg.github.io)
 
-[cmcl2020@gmail.com](mailto://cmclworkshop2020@gmail.com)
+[cmclorganizers2020@gmail.com](mailto://cmclorganizers2020@gmail.com)
 
 
 ## Workshop Description
 
-Cognitive Modeling and Computational Linguistics (CMCL) provides a venue for computational research on cognitive theories of language processing, representation and acquisition. Language, fundamentally, is used by humans, who have variable linguistic backgrounds, cultures, and knowledge. Being able to capture the cognitive bases of human knowledge of their language using computational methods is an often unstated but fundamental goal of NLP. The aim of this workshop is to better relate computational approaches to language to human cognition, and vice versa, and is applicable to a wide range of fields within NLP, psycholinguistics, and cognitive science.
+Cognitive Modeling and Computational Linguistics (CMCL) 2020 is a one-day workshop held in conjunction with the Annual Conference on Empirical Methods for Natural Language Processing (EMNLP), Punta Cana (Dominican Republic), November 8-12 2020. The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2020 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018 and NAACL 2019.
+
 
 
 ## Scope and Topics
@@ -40,17 +41,14 @@ Topics of interest for the workshop include:
 
 ## Workshop Submissions
 
-We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website: <b> TO BE ANNOUNCED </b>.
-To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors.
+We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website: [https://www.softconf.com/emnlp2020/cmcl2020/](https://www.softconf.com/emnlp2020/cmcl2020/). To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. 
+Submissions must be formatted using EMNLP 2020 templates, available at: [https://2020.emnlp.org/call-for-papers](https://2020.emnlp.org/call-for-papers).
 
-Submissions must be formatted using EMNLP 2020 templates, available at: <b> TO BE ANNOUNCED </b>.
-If essentially identical papers are submitted to multiple conferences / workshops, the authors are asked to indicate this fact at submission time.
+Regular Workshop Papers can be either full (8 pages of content + references) or short papers (4 pages + references) reporting original and unpublished research that combines cognitive modeling and computational linguistics. Accepted papers are expected to be presented at the workshop (oral presentation or poster) and will be published in the workshop proceedings. If a workshop paper has been submitted elsewhere, the authors have to declare it at submission time. Papers to be presented at CMCL 2020 must be withdrawn from other venues.
 
-- Regular Submissions Papers can be either full (8 pages of content + references) or short papers (4 pages + references) reporting original and unpublished research that combines cognitive modeling and computational linguistics. Accepted papers are expected to be presented at the workshop (oral presentation or poster) and will be published in the workshop proceedings.
+Extended Abstracts (from 2 to 4 pages + references) describe preliminary work or results that have not been published before. Accepted abstracts will be presented as posters, but will not be included in the workshop proceedings.
 
-- Extended Abstracts (from 2 to 4 pages + references) describe preliminary work or results that have not been published before. Accepted abstracts will be presented as posters, but will not be included in the workshop proceedings.
-
-We will also accept Cross-submissions (from 2 to 4 pages + references) for papers on related topics that have already appeared in a non-NLP venue (e.g. CogSci). These papers will be presented as posters, but will not be included in the proceedings. Interested authors are asked to add a note on the original venue in the submission.
+We will also accept cross-submissions (from 2 to 4 pages + references) for papers on related topics that have already appeared in a non-NLP venue (e.g. CogSci). These papers will be presented as posters, but will not be included in the proceedings. Interested authors are asked to add a note on the original venue in the submission.
 
 
 ### Dual Submission Policy (only for Regular Workshop Papers)
@@ -61,16 +59,21 @@ Papers to be presented at CMCL 2020 must be withdrawn from other venues.
 
 ## Important Dates
 
-- To be announced soon.
+- Submission deadline: July 8, 2020 
+- Notification of acceptance: August 17, 2020
+- Camera-ready version due: August 31, 2020
+- Workshop date: November 11, 2020
+
+All deadlines are 11:59 PM (UTC-12:00)
 
 
 ## Workshop Organizers
 
 * Emmanuele Chersoni, The Hong Kong Polytechnic University
 * Cassandra Jacobs, University of Toronto
-* Yohei Oseki, Waseda University
+* Yohei Oseki, Waseda University & RIKEN Center for Advanced Intelligence Project
 * Laurent Prévot, Aix-Marseille University
-* Enrico Santus, MIT
+* Enrico Santus, Bayer
 
 
 ## Programme Committee
@@ -119,8 +122,6 @@ Syrielle Montariol (University of Paris Sud – LIMSI CNRS)
 
 Karl Neergaard (Aix-Marseille University)
 
-Sebastian Pado (University of Stuttgart)
-
 Stephen Politzer-Ahles (The Hong Kong Polytechnic University)
 
 Vito Pirrelli (ILC-CNR Pisa), Carlos Ramisch (Aix-Marseille University)
@@ -141,15 +142,13 @@ Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa)
 
 Cory Shain (Ohio State University)
 
-Yana Strakatova (University of Tuebingen)
-
 Lonneke Van Der Plas (University of Malta)
-
-Shravan Vasishth (University of Potsdam)
 
 Aline Villavicencio (University of Essex)
 
 Leila Wehbe (Carnegie Mellon University)
+
+Aaron Steven White (University of Rochester)
 
 Victoria Yaneva (University of Wolverhampton)
 
@@ -163,11 +162,6 @@ Frances Yung (Saarland University)
 We are pleased to announce that Richard Futrell (University of California Irvine) and Suzanne Stevenson (University of Toronto) are our invited speakers for CMCL 2020.
 
 
-## Travel Support 
-
-Thanks to the generosity of our sponsors, there will be a limited amount of travel awards for students who are the first authors of accepted papers.
-
-
 ## Sponsoring Institutions
 
 Working on it for you!
@@ -175,5 +169,5 @@ Working on it for you!
 
 ## Contact Email
 
-[cmcl2020@gmail.com](mailto://cmclworkshop2020@gmail.com)
+[cmclorganizers2020@gmail.com](mailto://cmclorganizers2020@gmail.com)
 
