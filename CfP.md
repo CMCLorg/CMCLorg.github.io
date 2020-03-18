@@ -71,7 +71,7 @@ All deadlines are 11:59 PM (UTC-12:00)
 ## Workshop Organizers
 
 * Emmanuele Chersoni, The Hong Kong Polytechnic University
-* Cassandra Jacobs, University of Toronto
+* Cassandra Jacobs, University of Wisconsin
 * Yohei Oseki, Waseda University & RIKEN Center for Advanced Intelligence Project
 * Laurent Prévot, Aix-Marseille University
 * Enrico Santus, Bayer
