@@ -121,11 +121,13 @@ Pavel Logacev (Bogazici University)
 
 Syrielle Montariol (University of Paris Sud – LIMSI CNRS)
 
-Karl Neergaard (Aix-Marseille University)
+Karl Neergaard (University of Macau)
 
 Stephen Politzer-Ahles (The Hong Kong Polytechnic University)
 
-Vito Pirrelli (ILC-CNR Pisa), Carlos Ramisch (Aix-Marseille University)
+Vito Pirrelli (ILC-CNR Pisa)
+
+Carlos Ramisch (Aix-Marseille University)
 
 Giulia Rambelli (University of Pisa)
 
