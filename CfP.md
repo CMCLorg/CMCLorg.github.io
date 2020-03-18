@@ -37,6 +37,7 @@ Topics of interest for the workshop include:
 - Models of language comprehension difficulty
 - Models of language learning and generalization
 - Models of linguistic information propagation and language evolution in communities
+- Network Science and Language Processing
 
 
 ## Workshop Submissions
