@@ -107,6 +107,8 @@ Robert Frank (Yale University)
 
 John Hale (University of Georgia)
 
+Anna Ivanova (MIT)
+
 Yu-Yin Hsu (The Hong Kong Polytechnic University)
 
 Tim Hunter (UCLA)
