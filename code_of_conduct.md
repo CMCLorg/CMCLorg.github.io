@@ -36,7 +36,7 @@ You can make a report either personally or anonymously. We will have the anonymo
 
 You can make a personal report by:
 
-1. Emailing the conference organizers at (cmcl2020@gmail.com)[mailto:cmcl2020@gmail.com]. This address will be continuously monitored during the event.
+1. Emailing the conference organizers at [cmclorganizers2020@gmail.com](mailto://cmclorganizers2020@gmail.com). This address will be continuously monitored during the event.
 2. Contacting a staff member, identified by red stickers on their badges.
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. 
@@ -45,6 +45,6 @@ Once safe, we'll ask you to tell us about what happened. This can be upsetting, 
 
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.
 
-Our email: (cmcl2020@gmail.com)[mailto:cmcl2020@gmail.com]
+Our email: [cmclorganizers2020@gmail.com](mailto://cmclorganizers2020@gmail.com)
 
 Local law enforcement: [Police Department](http://www.policianacional.gob.do/) (dial 911 in an emergency)
