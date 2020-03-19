@@ -115,6 +115,8 @@ Tim Hunter (UCLA)
 
 Samar Husain (IIT Delhi)
 
+Carina Kauf (MIT)
+
 Shalom Lappin (University of Gothenburg)
 
 Gianluca Lebani (University Ca’ Foscari Venezia)
