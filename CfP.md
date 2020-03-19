@@ -12,6 +12,11 @@ Co-located with EMNLP 2020 in Punta Cana, Dominican Republic
 [cmclorganizers2020@gmail.com](mailto://cmclorganizers2020@gmail.com)
 
 
+## Invited Speakers
+
+We are pleased to announce that Richard Futrell (University of California Irvine) and Suzanne Stevenson (University of Toronto) are our invited speakers for CMCL 2020.
+
+
 ## Workshop Description
 
 Cognitive Modeling and Computational Linguistics (CMCL) 2020 is a one-day workshop held in conjunction with the Annual Conference on Empirical Methods for Natural Language Processing (EMNLP), Punta Cana (Dominican Republic), November 8-12 2020. The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2020 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018 and NAACL 2019.
@@ -162,11 +167,6 @@ Victoria Yaneva (University of Wolverhampton)
 Yao Yao (The Hong Kong Polytechnic University)
 
 Frances Yung (Saarland University)
-
-
-## Invited Speakers
-
-We are pleased to announce that Richard Futrell (University of California Irvine) and Suzanne Stevenson (University of Toronto) are our invited speakers for CMCL 2020.
 
 
 ## Sponsoring Institutions
