@@ -15,7 +15,7 @@ permalink: /organizers
   
 - <b>Yohei Oseki</b>, University of Tokyo
   * Yohei Oseki is an Assistant Professor in the Department of Language and Information Sciences at University of Tokyo and a visiting scholar at RIKEN Center for Advanced Intelligence Project (AIP). Before joining University of Tokyo, he received a Ph.D. from the Department of Linguistics at New York University in 2018 and was a visiting scholar at the Department of Linguistics at the University of Massachusetts Amherst and the Cold Spring Harbor Laboratory. His research integrates natural language processing with cognitive science of language and attempts to reverse-engineer the most “human-like” language model. He founded Computational Psycholinguistics Tokyo (CPT) and also organized workshops on computational psycholinguistics and neuroscience.
-  * Email: oseki [at] aoni.waseda.jp
+  * Email: oseki [at] g.ecc.u-tokyo.ac.jp
 
 - <b>Laurent Prévot</b>, Aix-Marseille University
   * Laurent Prévot is a professor in Language Sciences at Aix Marseille Université and the director of Laboratoire Parole et Langage. He is also a junior member of the Institut Universitaire de France (IUF). His specialties are linguistics (in particular semantic and pragmatic questions) and Natural Language Processing, with a focus on the computational modeling of discourse and interaction phenomena in spontaneous conversations. He had been the a Program Co-chair and Local Organizer of The 22nd Workshop on Semantics and Pragmatics of Dialogue (SEMDIAL); an organization committee member of TALN 2014 conference; former Program Manager for Humanities and Social Sciences, France-Taiwan Frontiers of Science and Co-organizer of Workshops Logics and Semantics of Natural Language from 2008 to 2010.
