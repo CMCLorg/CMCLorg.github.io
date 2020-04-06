@@ -77,7 +77,7 @@ All deadlines are 11:59 PM (UTC-12:00)
 
 * Emmanuele Chersoni, The Hong Kong Polytechnic University
 * Cassandra Jacobs, University of Wisconsin
-* Yohei Oseki, Waseda University & RIKEN Center for Advanced Intelligence Project
+* Yohei Oseki, University of Tokyo & RIKEN Center for Advanced Intelligence Project
 * Laurent Prévot, Aix-Marseille University
 * Enrico Santus, Bayer
 
