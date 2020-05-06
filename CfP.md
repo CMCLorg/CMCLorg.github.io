@@ -4,7 +4,7 @@ title: CfP
 permalink: /CfP
 ---
 
-## The Workshop on Cognitive Modeling and Computational Linguistics, November 11 2020
+## The Workshop on Cognitive Modeling and Computational Linguistics, November 19 2020
 Co-located with EMNLP 2020 in Punta Cana, Dominican Republic
 
 [https://cmclorg.github.io](https://cmclorg.github.io)
@@ -19,7 +19,7 @@ We are pleased to announce that Richard Futrell (University of California Irvine
 
 ## Workshop Description
 
-Cognitive Modeling and Computational Linguistics (CMCL) 2020 is a one-day workshop held in conjunction with the Annual Conference on Empirical Methods for Natural Language Processing (EMNLP), Punta Cana (Dominican Republic), November 8-12 2020. The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2020 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018 and NAACL 2019.
+Cognitive Modeling and Computational Linguistics (CMCL) 2020 is a one-day workshop held in conjunction with the Annual Conference on Empirical Methods for Natural Language Processing (EMNLP), Punta Cana (Dominican Republic), November 16-20 2020. The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2020 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018 and NAACL 2019.
 
 
 
@@ -68,7 +68,7 @@ Papers to be presented at CMCL 2020 must be withdrawn from other venues.
 - Submission deadline: July 8, 2020 
 - Notification of acceptance: August 17, 2020
 - Camera-ready version due: August 31, 2020
-- Workshop date: November 11, 2020
+- Workshop date: November 19, 2020
 
 All deadlines are 11:59 PM (UTC-12:00)
 
