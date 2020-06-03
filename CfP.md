@@ -5,7 +5,7 @@ permalink: /CfP
 ---
 
 ## The Workshop on Cognitive Modeling and Computational Linguistics, November 19 2020
-Co-located with EMNLP 2020 in Punta Cana, Dominican Republic
+Co-located with EMNLP 2020. Location has changed due to COVID-19.
 
 [https://cmclorg.github.io](https://cmclorg.github.io)
 
