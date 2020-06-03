@@ -12,6 +12,10 @@ Co-located with EMNLP 2020 in Punta Cana, Dominican Republic
 [cmclorganizers2020@gmail.com](mailto://cmclorganizers2020@gmail.com)
 
 
+## Location
+EMNLP 2020 and all its workshops will now be held entirely online, rather than in the Dominican Republic as previously announced, to avoid the need for international travel and risk of further spread of COVID-19. Refer to EMNLP 2020 website for details: [https://2020.emnlp.org](https://2020.emnlp.org).
+
+
 ## Invited Speakers
 
 We are pleased to announce that Richard Futrell (University of California Irvine) and Suzanne Stevenson (University of Toronto) are our invited speakers for CMCL 2020.
