@@ -173,7 +173,7 @@ Frances Yung (Saarland University)
 
 ## Sponsoring Institutions
 
-Working on it for you!
+Japan Society for the Promotion of Science
 
 
 ## Contact Email
