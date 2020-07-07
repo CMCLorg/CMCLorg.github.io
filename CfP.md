@@ -69,9 +69,9 @@ Papers to be presented at CMCL 2020 must be withdrawn from other venues.
 
 ## Important Dates
 
-- Submission deadline: July 8, 2020 
-- Notification of acceptance: August 17, 2020
-- Camera-ready version due: August 31, 2020
+- Submission deadline: ~~July 8, 2020~~ July 26, 2020
+- Notification of acceptance: ~~August 17, 2020~~ August 24, 2020
+- Camera-ready version due: ~~August 31, 2020~~ September 7, 2020
 - Workshop date: November 19, 2020
 
 All deadlines are 11:59 PM (UTC-12:00)
