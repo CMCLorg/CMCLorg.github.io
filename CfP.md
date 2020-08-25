@@ -130,6 +130,8 @@ Gianluca Lebani (University Ca’ Foscari Venezia)
 
 Pavel Logacev (Bogazici University)
 
+Fred Mailhot (DialPad)
+
 Syrielle Montariol (University of Paris Sud – LIMSI CNRS)
 
 Karl Neergaard (University of Macau)
