@@ -20,6 +20,9 @@ EMNLP 2020 and all its workshops will now be held entirely online, rather than i
 
 We are pleased to announce that Richard Futrell (University of California Irvine) and Suzanne Stevenson (University of Toronto) are our invited speakers for CMCL 2020.
 
+- Richard Futrell (University of California Irvine) will present the talk "Information processing, communication, and word order": Why is human language the way it is?  I argue that human languages can be modeled as codes that maximize information transfer subject to constraints on the cognitive resources used during language production and comprehension. I apply this efficiency-based framework to formulate quantitative theories of word order, aiming to explain the typological universals of word order as documented by linguists, as well as the statistical distribution of word orders in massively cross-linguistic corpus studies. I show empirical results, based on Universal Dependencies treebanks, pertaining to dependency length, adjective order, and a subset of the Greenbergian word order universals, and show how these results can be derived from an information-theoretic model of language processing difficulty.
+- Suzanne Stevenson (University of Toronto) will presente the talk "To-be-decided": To-be-decided.
+
 
 ## Workshop Description
 
