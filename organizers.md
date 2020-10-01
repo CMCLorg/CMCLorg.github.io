@@ -22,6 +22,6 @@ permalink: /organizers
   * Email: laurent.prevot [at] univ-amu.fr
 
 - <b>Enrico Santus</b>, CSAIL, Massachusetts Institute of Technology
-  * Enrico Santus is postdoctoral researcher at the Massachusetts Institute of Technology. His current research is focused on Information Extraction and Question Answering. His previous research has investigated lexical distributional semantics, with attention to similarity and relation identification, as well as thematic fit estimation. He has been co-chair in ESSLLI 2016 and *SEM 2018, and he organized numerous shared tasks, including SemEval-2018 Task 9 on Hypernymy Discovery and the CogALex-V Shared Task on the Corpus-Based Identification of Semantic Relations.
+  * Enrico Santus is a senior data scientist at Bayer. His academic career includes a postdoc at MIT, in the group of Regina Barzilay, and numerous years spent between Asian (Hong Kong and Singapore) and European (Italy, UK and Germany) universities, working on topics such as NLP in Oncology, Cardiology and Palliative Care. Enrico has also worked on Fake News Detection, Sentiment Analysis and Lexical Semantics. He has published numerous papers in top tier conferences and journals, and several of his works were featured in mass media. He has been invited to talk at the White House and he is the first author of a fact sheet about AI for the American Congress: [Belfer Center](https://www.belfercenter.org/publication/technology-factsheet-artificial-intelligence).
   * [Website](http://web.mit.edu/esantus/www/)
   * Email: esantus [at] mit.edu
