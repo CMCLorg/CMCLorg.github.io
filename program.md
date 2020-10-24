@@ -22,69 +22,64 @@ Time zone of Dominican Republic: Atlantic Standard Time (GMT -4)
 
 November 19, 2020
 
-9:30–9:45 Introduction
+**9:30–9:45 Introduction**
 
-*9:45–10:45 Keynote Talk: Suzanne Stevenson*
-How Languages Carve Up the World: Cognitive Explanation through Computational Modeling
+***9:45–10:45 Keynote Talk: Suzanne Stevenson***
+- How Languages Carve Up the World: Cognitive Explanation through Computational Modeling
 
-10:45–11:15 Break
+**10:45–11:15 Break**
 
-11:15–12:15 Session 1: Oral Presentations
+**11:15–12:15 Session 1: Oral Presentations**
 
-- What Determines the Order of Verbal Dependents in Hindi? Effects of Efficiency in
-Comprehension and Production
-Kartik Sharma, Richard Futrell and Samar Husain
+- What Determines the Order of Verbal Dependents in Hindi? Effects of Efficiency in Comprehension and Production
+-- Kartik Sharma, Richard Futrell and Samar Husain
 
-- Images and Imagination: Automated Analysis of Priming Effects Related to Autism
-Spectrum Disorder and Developmental Language Disorder
-Michaela Regneri, Diane King, Fahreen Walji and Olympia Palikara
+- Images and Imagination: Automated Analysis of Priming Effects Related to Autism Spectrum Disorder and Developmental Language Disorder
+-- Michaela Regneri, Diane King, Fahreen Walji and Olympia Palikara
 
-12:15–13:30 Lunch Break
+**12:15–13:30 Lunch Break**
 
-13:30–13:45 Poster Booster
+**13:30–13:45 Poster Booster**
 
-13:45–14:45 Poster Session
+**13:45–14:45 Poster Session**
 
 - Production-based Cognitive Models as a Test Suite for Reinforcement Learning Algorithms
-Adrian Brasoveanu and Jakub Dotlacil
+-- Adrian Brasoveanu and Jakub Dotlacil
 
 - Evaluating Word Embeddings for Language Acquisition
-Raquel G. Alhama, Caroline Rowland and Evan Kidd
+-- Raquel G. Alhama, Caroline Rowland and Evan Kidd
 
 - Guessing the Age of Acquisition of Italian Lemmas through Linear Regression
-Irene Russo
+-- Irene Russo
 
 - Word Co-occurrence in Child-directed Speech Predicts Children’s Free Word Associations
-Abdellah Fourtassi
+-- Abdellah Fourtassi
 
 - Development of Multi-level Linguistic Alignment in Child-adult Conversations
-Thomas Misiek, Benoit Favre and Abdellah Fourtassi
+-- Thomas Misiek, Benoit Favre and Abdellah Fourtassi
 
-- Conditioning, but on Which Distribution? Grammatical Gender in German Plural
-Inflection
-Kate McCurdy, Adam Lopez and Sharon Goldwater
+- Conditioning, but on Which Distribution? Grammatical Gender in German Plural Inflection
+-- Kate McCurdy, Adam Lopez and Sharon Goldwater
 
 - Probabilistic Weighting of Perspectives in Dyadic Communication (cross-submission)
-Rachel A Ryskin, Suzanne Stevenson, Daphna Heller
+-- Rachel A Ryskin, Suzanne Stevenson, Daphna Heller
 
 - Pressure on Language Emergence: Least Effort, Object Constancy and Frequency (Findings of EMNLP)
-Diana Rodriguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes, Elia Bruni
+-- Diana Rodriguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes, Elia Bruni
 
 - Inferring Symmetry in Natural Language (Findings of EMNLP)
-Chelsea Tanchip, Lei Yu, Aotao Xu, Yang Xu
+-- Chelsea Tanchip, Lei Yu, Aotao Xu, Yang Xu
 
 
-14:45–15:45 Session 2: Oral Presentations
+**14:45–15:45 Session 2: Oral Presentations**
 
 - Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition
-Xiaomeng Ma, Martin Chodorow and Virginia Valian
+-- Xiaomeng Ma, Martin Chodorow and Virginia Valian
 
-- Probabilistic Predictions of People Perusing: Evaluating Metrics of Language
-Model Performance for Psycholinguistic Modeling
-Yiding Hao, Simon Mendelsohn, Rachel Sterneck, Randi Martinez and Robert
-Frank
+- Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling
+-- Yiding Hao, Simon Mendelsohn, Rachel Sterneck, Randi Martinez and Robert Frank
 
-*15:45–16:45 Keynote Talk: Richard Futrell*
-Information Processing, Communication, and Word Order
+***15:45–16:45 Keynote Talk: Richard Futrell***
+- Information Processing, Communication, and Word Order
 
-16:45–17:00 Closing Remarks
+**16:45–17:00 Closing Remarks**
