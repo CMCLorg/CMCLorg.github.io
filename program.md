@@ -65,9 +65,6 @@ Punta Cana, Dominican Republic ***[moved to Virtual Location because of COVID-19
 - Probabilistic Weighting of Perspectives in Dyadic Communication (cross-submission)
 -- Rachel A Ryskin, Suzanne Stevenson, Daphna Heller
 
-- Pressure on Language Emergence: Least Effort, Object Constancy and Frequency (Findings of EMNLP)
--- Diana Rodriguez Luna, Edoardo Maria Ponti, Dieuwke Hupkes, Elia Bruni
-
 - Inferring Symmetry in Natural Language (Findings of EMNLP)
 -- Chelsea Tanchip, Lei Yu, Aotao Xu, Yang Xu
 
