@@ -23,14 +23,14 @@ Punta Cana, Dominican Republic ***[moved to Virtual Location because of COVID-19
 
 ## Programme
 
-**9:30–9:45 Introduction**
+**9:30–9:45 Introduction** (GATHER.TOWN)
 
-***9:45–10:45 Keynote Talk: Suzanne Stevenson***
+***9:45–10:45 Keynote Talk: Suzanne Stevenson*** (ZOOM)
 - How Languages Carve Up the World: Cognitive Explanation through Computational Modeling
 
 **10:45–11:15 Break**
 
-**11:15–12:15 Session 1: Oral Presentations**
+**11:15–12:15 Session 1: Oral Presentations** (ZOOM)
 
 - What Determines the Order of Verbal Dependents in Hindi? Effects of Efficiency in Comprehension and Production
 -- Kartik Sharma, Richard Futrell and Samar Husain
@@ -40,9 +40,9 @@ Punta Cana, Dominican Republic ***[moved to Virtual Location because of COVID-19
 
 **12:15–13:30 Lunch Break**
 
-**13:30–13:45 Poster Booster**
+**13:30–13:45 Poster Booster** (GATHER.TOWN)
 
-**13:45–14:45 Poster Session**
+**13:45–14:45 Poster Session** (GATHER.TOWN)
 
 - Production-based Cognitive Models as a Test Suite for Reinforcement Learning Algorithms
 -- Adrian Brasoveanu and Jakub Dotlacil
@@ -69,7 +69,7 @@ Punta Cana, Dominican Republic ***[moved to Virtual Location because of COVID-19
 -- Chelsea Tanchip, Lei Yu, Aotao Xu, Yang Xu
 
 
-**14:45–15:45 Session 2: Oral Presentations**
+**14:45–15:45 Session 2: Oral Presentations** (ZOOM)
 
 - Learning Pronoun Case from Distributional Cues: Flexible Frames for Case Acquisition
 -- Xiaomeng Ma, Martin Chodorow and Virginia Valian
@@ -77,7 +77,7 @@ Punta Cana, Dominican Republic ***[moved to Virtual Location because of COVID-19
 - Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling
 -- Yiding Hao, Simon Mendelsohn, Rachel Sterneck, Randi Martinez and Robert Frank
 
-***15:45–16:45 Keynote Talk: Richard Futrell***
+***15:45–16:45 Keynote Talk: Richard Futrell*** (ZOOM)
 - Information Processing, Communication, and Word Order
 
-**16:45–17:00 Closing Remarks**
+**16:45–17:00 Closing Remarks** (GATHER.TOWN)
