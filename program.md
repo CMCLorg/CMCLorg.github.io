@@ -80,4 +80,4 @@ Punta Cana, Dominican Republic ***[moved to Virtual Location because of COVID-19
 ***15:45–16:45 Keynote Talk: Richard Futrell*** (ZOOM)
 - Information Processing, Communication, and Word Order
 
-**16:45–17:00 Closing Remarks** (GATHER.TOWN)
+**16:45–17:00 Closing Remarks** (ZOOM)
