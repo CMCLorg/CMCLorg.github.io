@@ -77,7 +77,7 @@ Punta Cana, Dominican Republic ***[moved to Virtual Location because of COVID-19
 - Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling
 -- Yiding Hao, Simon Mendelsohn, Rachel Sterneck, Randi Martinez and Robert Frank
 
-***15:45–16:45 Keynote Talk: Richard Futrell*** (ZOOM)
+(***15:45–16:45 Keynote Talk: Richard Futrell***)[http://socsci.uci.edu/~rfutrell/presentations/cmcl2020-11-19.pdf] (ZOOM)
 - Information Processing, Communication, and Word Order
 
 **16:45–17:00 Closing Remarks** (ZOOM)
