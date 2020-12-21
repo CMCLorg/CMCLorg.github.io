@@ -4,7 +4,7 @@ title: Program
 permalink: /program
 ---
 
-# Cognitive Modeling and Computational Linguistics (CMCL) 2020
+# Cognitive Modeling and Computational Linguistics (CMCL) 2021
 
 CMCL 2020 will have both oral presentations and poster presentations. The complete program is under definition.
 
