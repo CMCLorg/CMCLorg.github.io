@@ -5,13 +5,17 @@ permalink: /CfP
 ---
 
 ## The Workshop on Cognitive Modeling and Computational Linguistics
-### CMCL – CfP and Shared Task on Eye-Tracking Data Prediction
 
-Co-located with NAACL 2021 at Mexico City, Mexico, on the 10th of June 2021.
+### CfP and Shared Task on Eye-Tracking Data Prediction
+
+Co-located with NAACL 2021 in Mexico City, Mexico, on the 10th of June 2021.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d481728.804584038!2d-99.42380635078402!3d19.390519038362424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0026db097507%3A0x54061076265ee841!2sMexico%20City%2C%20CDMX%2C%20Mexico!5e0!3m2!1sen!2sit!4v1608594663380!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 For info:
 - [https://cmclorg.github.io](https://cmclorg.github.io)
 - [cmclorganizers2021@gmail.com](mailto://cmclorganizers2021@gmail.com)
+
 
 
 ## Workshop Description
@@ -61,7 +65,7 @@ Extended Abstracts (from 2 to 4 pages + references) describe preliminary work or
 We will also accept cross-submissions (from 2 to 4 pages + references) for papers on related topics that have already appeared in a non-NLP venue (e.g. CogSci). These papers will be presented at the workshop, but will not be included in the proceedings. Interested authors are asked to add a note on the original venue in the submission.
 
 
-## NEWS: SHARED TASK ON EYE-TRACKING DATA PREDICTION*
+### SHARED TASK ON EYE-TRACKING DATA PREDICTION
 Eye-tracking provides millisecond-accurate records on where humans look when they are reading and are useful in explanatory research of language processing. Being able to accurately predict eye-tracking features will advance the field's understanding of language processing. The use of a standardized dataset will facilitate comparisons between models and the analysis of their varying capabilities.
 In this shared task, we present the challenge of predicting eye tracking-based metrics recorded during English sentence processing. We are interested in both cognitive modelling approaches as well as linguistically motivated approaches (e.g., language models) for submission. The shared task will be formulated as a regression task to predict 5 eye-tracking features from the ZuCo corpus: number of fixations, first fixation duration, total reading, go-past time, and fixation proportion. 
 More details will be available soon on the CMCL website. The trial data will be released on January 15, 2021.
