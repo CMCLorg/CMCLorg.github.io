@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Welcome to CMCL 2020!"
+title:  "Welcome to CMCL 2021!"
 date:   2019-11-01 12:38:12 +0200
 ---
 
-Welcome to Cognitive Modeling and Computational Linguistics (CMCL) 2020.
+Welcome to Cognitive Modeling and Computational Linguistics (CMCL) 2021.
 
-This year CMCL will be co-located with [EMNLP 2020](https://www.emnlp-ijcnlp2019.org/), in Punta Cana, Dominican Republic, on November 8-12, 2020. 
+This year CMCL will be co-located with [NAACL 2021](https://2021.naacl.org/), in Mexico City, Mexico, on June 10, 2021. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d481728.804584038!2d-99.42380635078402!3d19.390519038362424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0026db097507%3A0x54061076265ee841!2sMexico%20City%2C%20CDMX%2C%20Mexico!5e0!3m2!1sen!2sit!4v1608594663380!5m2!1sen!2sit" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 The workshop provides a venue for work in computational psycholinguistics, including computational and mathematical modeling of linguistic representations, development and processing.
 
