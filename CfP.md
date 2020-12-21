@@ -4,30 +4,26 @@ title: CfP
 permalink: /CfP
 ---
 
-## The Workshop on Cognitive Modeling and Computational Linguistics, November 19 2020
-Co-located with EMNLP 2020. Location has changed due to COVID-19.
+## The Workshop on Cognitive Modeling and Computational Linguistics
+### CMCL – CfP and Shared Task on Eye-Tracking Data Prediction
 
-[https://cmclorg.github.io](https://cmclorg.github.io)
+Co-located with NAACL 2021 at Mexico City, Mexico, on the 10th of June 2021.
 
-[cmclorganizers2020@gmail.com](mailto://cmclorganizers2020@gmail.com)
+For info:
+- [https://cmclorg.github.io](https://cmclorg.github.io)
+- [cmclorganizers2021@gmail.com](mailto://cmclorganizers2021@gmail.com)
 
 
-## Location
-EMNLP 2020 and all its workshops will now be held entirely online, rather than in the Dominican Republic as previously announced, to avoid the need for international travel and risk of further spread of COVID-19. Refer to EMNLP 2020 website for details: [https://2020.emnlp.org](https://2020.emnlp.org).
+## Workshop Description
+Cognitive Modeling and Computational Linguistics (CMCL) 2021 is a one-day workshop held in conjunction with the conference of the North American Chapter of the Association for Computational Linguistics (NAACL). The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2020 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019 and EMNLP 2020.
 
 
 ## Invited Speakers
 
-We are pleased to announce that Richard Futrell (University of California Irvine) and Suzanne Stevenson (University of Toronto) are our invited speakers for CMCL 2020.
+We are pleased to announce the following invited speakers for the 2021 edition:
 
-- Richard Futrell (University of California Irvine) will present the talk ["Information processing, communication, and word order"](http://socsci.uci.edu/~rfutrell/presentations/cmcl2020-11-19.pdf): Why is human language the way it is?  I argue that human languages can be modeled as codes that maximize information transfer subject to constraints on the cognitive resources used during language production and comprehension. I apply this efficiency-based framework to formulate quantitative theories of word order, aiming to explain the typological universals of word order as documented by linguists, as well as the statistical distribution of word orders in massively cross-linguistic corpus studies. I show empirical results, based on Universal Dependencies treebanks, pertaining to dependency length, adjective order, and a subset of the Greenbergian word order universals, and show how these results can be derived from an information-theoretic model of language processing difficulty.
-- Suzanne Stevenson (University of Toronto) will present the talk "How Languages Carve Up the World: Cognitive Explanation through Computational Modeling": Languages vary greatly in how they structure the terms for a semantic domain, such as colors or spatial relations. For example, in English we say “the cup is on the table”, “the ring is on the finger”, and “the painting is on the wall”, while Dutch speakers use a different preposition in each situation, and other languages use one preposition for the first two and a different one for the third. This kind of crosslinguistic variation raises important cognitive questions: Are all such lexical semantic systems equally easy to learn, and if not, what factors are at play? Does acquiring a particular system influence other parts of cognition – a position known as linguistic relativity? We study these issues using a computational cognitive model of word learning. We show that a novel vector-based meaning representation – based on crosslinguistic data over a domain – can be used to approximate a “universal” semantic space that captures cognitive biases. This approach to semantic representation can provide an explanation for both the developmental trajectory of words in a domain and subsequent behavior on a non-verbal task in the domain, as well as informing practical approaches in NLP.
-
-
-## Workshop Description
-
-Cognitive Modeling and Computational Linguistics (CMCL) 2020 is a one-day workshop held in conjunction with the Annual Conference on Empirical Methods for Natural Language Processing (EMNLP), Punta Cana (Dominican Republic), November 16-20 2020. The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2020 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018 and NAACL 2019.
-
+- Marco Baroni (Facebook AI – Pompeu Fabra University of Barcelona)
+- Zoya Bylinskii (Adobe Research)
 
 
 ## Scope and Topics
@@ -49,33 +45,35 @@ Topics of interest for the workshop include:
 - Models of language comprehension difficulty
 - Models of language learning and generalization
 - Models of linguistic information propagation and language evolution in communities
+- Cognitively-motivated models of discourse and dialogue 
 - Network Science and Language Processing
 
 
 ## Workshop Submissions
 
-We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website: [https://www.softconf.com/emnlp2020/cmcl2020/](https://www.softconf.com/emnlp2020/cmcl2020/). To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. 
-Submissions must be formatted using EMNLP 2020 templates, available at: [https://2020.emnlp.org/call-for-papers](https://2020.emnlp.org/call-for-papers).
+We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website (link not available yet). To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. 
+Submissions must be formatted using NAACL 2021 templates, available at:  [https://2021.naacl.org/calls/style-and-formatting/](https://2021.naacl.org/calls/style-and-formatting/).
 
-Regular Workshop Papers can be either full (8 pages of content + references) or short papers (4 pages + references) reporting original and unpublished research that combines cognitive modeling and computational linguistics. Accepted papers are expected to be presented at the workshop (oral presentation or poster) and will be published in the workshop proceedings. If a workshop paper has been submitted elsewhere, the authors have to declare it at submission time. Papers to be presented at CMCL 2020 must be withdrawn from other venues.
+Regular Workshop Papers can be either full (8 pages of content + references) or short papers (4 pages + references) reporting original and unpublished research that combines cognitive modeling and computational linguistics. If a workshop paper has been submitted elsewhere, the authors have to declare it at submission time. Papers to be presented at CMCL 2021 must be withdrawn from other venues.
 
-Extended Abstracts (from 2 to 4 pages + references) describe preliminary work or results that have not been published before. Accepted abstracts will be presented as posters, but will not be included in the workshop proceedings.
+Extended Abstracts (from 2 to 4 pages + references) describe preliminary work or results that have not been published before. Accepted abstracts will be presented at the workshop, but will not be included in the workshop proceedings.
 
-We will also accept cross-submissions (from 2 to 4 pages + references) for papers on related topics that have already appeared in a non-NLP venue (e.g. CogSci). These papers will be presented as posters, but will not be included in the proceedings. Interested authors are asked to add a note on the original venue in the submission.
+We will also accept cross-submissions (from 2 to 4 pages + references) for papers on related topics that have already appeared in a non-NLP venue (e.g. CogSci). These papers will be presented at the workshop, but will not be included in the proceedings. Interested authors are asked to add a note on the original venue in the submission.
 
 
-### Dual Submission Policy (only for Regular Workshop Papers)
-
-If a workshop paper has been submitted elsewhere, the authors have to declare it a submission time.
-Papers to be presented at CMCL 2020 must be withdrawn from other venues.
+## NEWS: SHARED TASK ON EYE-TRACKING DATA PREDICTION*
+Eye-tracking provides millisecond-accurate records on where humans look when they are reading and are useful in explanatory research of language processing. Being able to accurately predict eye-tracking features will advance the field's understanding of language processing. The use of a standardized dataset will facilitate comparisons between models and the analysis of their varying capabilities.
+In this shared task, we present the challenge of predicting eye tracking-based metrics recorded during English sentence processing. We are interested in both cognitive modelling approaches as well as linguistically motivated approaches (e.g., language models) for submission. The shared task will be formulated as a regression task to predict 5 eye-tracking features from the ZuCo corpus: number of fixations, first fixation duration, total reading, go-past time, and fixation proportion. 
+More details will be available soon on the CMCL website. The trial data will be released on January 15, 2021.
+For more info on the shared task: [cmcl2021sharedtask@gmail.com](mailto://cmcl2021sharedtask@gmail.com)
 
 
 ## Important Dates
 
-- Submission deadline: ~~July 8, 2020~~ July 26, 2020
-- Notification of acceptance: ~~August 17, 2020~~ August 24, 2020
-- Camera-ready version due: ~~August 31, 2020~~ September 7, 2020
-- Workshop date: November 19, 2020
+- Submission deadline: March 9, 2021
+- Notification of acceptance: April 12, 2021
+- Camera-ready version due: April 26, 2021
+- Workshop date: June 10, 2021
 
 All deadlines are 11:59 PM (UTC-12:00)
 
@@ -83,6 +81,7 @@ All deadlines are 11:59 PM (UTC-12:00)
 ## Workshop Organizers
 
 * Emmanuele Chersoni, The Hong Kong Polytechnic University
+* Nora Hollenstein (ETH Zurich)
 * Cassandra Jacobs, University of Wisconsin
 * Yohei Oseki, University of Tokyo
 * Laurent Prévot, Aix-Marseille University
@@ -97,19 +96,23 @@ Raquel Garrido Alhama (Max Planck Institute for Psycholinguistics)
 
 Afra Alishahi (Tilburg University)
 
+Klinton Bicknell (Duolingo)
+
 Philippe Blache (Aix-Marseille University)
+
+Marc Brysbaert (Ghent University)
 
 Christos Christodoulopoulos (Amazon)
 
-Aniello De Santo (Stony Brook University)
+Aniello De Santo (University of Utah)
 
-Barry Devereux (Queen’s University Belfast)
+Judith Degen (Stanford University)
 
 Brian Dillon (University of Massachusetts Amherst)
 
-Micha Elsner (Ohio State University)
+Vesna Djokic (University of Amsterdam)
 
-Afsaneh Fazly (University of Toronto)
+Micha Elsner (Ohio State University)
 
 Raquel Fernandez (University of Amsterdam)
 
@@ -117,15 +120,21 @@ Thomas Francois (Catholic University of Louvain)
 
 Robert Frank (Yale University)
 
+Stella Frank (University of Edinburgh)
+
+Abdellah Fourtassi (Aix-Marseille University)
+
 John Hale (University of Georgia)
 
-Anna Ivanova (MIT)
-
-Yu-Yin Hsu (The Hong Kong Polytechnic University)
+Yu-Yin Hsu (Hong Kong Polytechnic University)
 
 Tim Hunter (UCLA)
 
 Samar Husain (IIT Delhi)
+
+Jordan Kodner (Stony Brook University)
+
+Sandra Kuebler (Indiana University)
 
 Shalom Lappin (University of Gothenburg)
 
@@ -133,13 +142,13 @@ Gianluca Lebani (University Ca’ Foscari Venezia)
 
 Pavel Logacev (Bogazici University)
 
-Fred Mailhot (DialPad)
-
-Syrielle Montariol (University of Paris Sud – LIMSI CNRS)
-
 Karl Neergaard (University of Macau)
 
-Stephen Politzer-Ahles (The Hong Kong Polytechnic University)
+Sebastian Padó (University of Stuttgart)
+
+Ludovica Pannitto (University of Trento)
+
+Stephen Politzer-Ahles (Hong Kong Polytechnic University)
 
 Vito Pirrelli (ILC-CNR Pisa)
 
@@ -149,39 +158,27 @@ Giulia Rambelli (University of Pisa)
 
 Roi Reichart (Technion – Israel Institute of Technology)
 
-Rachel A Ryskin (MIT)
+Rachel A Ryskin (University of California Merced)
+
+Lavinia Salicchi (Hong Kong Polytechnic University)
 
 William Schuler (Ohio State University)
-
-Marina Sedinkina (University of Munich)
-
-Olga Seminck (Catholic University of Louvain)
-
-Marco Silvio Giuseppe Senaldi (Scuola Normale Superiore di Pisa)
 
 Cory Shain (Ohio State University)
 
 Lonneke Van Der Plas (University of Malta)
 
-Aline Villavicencio (University of Essex)
-
-Leila Wehbe (Carnegie Mellon University)
-
-Aaron Steven White (University of Rochester)
-
-Victoria Yaneva (University of Wolverhampton)
-
 Yao Yao (The Hong Kong Polytechnic University)
-
-Frances Yung (Saarland University)
 
 
 ## Sponsoring Institutions
 
 Japan Society for the Promotion of Science
 
+Laboratoire Parole et Langage, CNRS, France
+
 
 ## Contact Email
 
-[cmclorganizers2020@gmail.com](mailto://cmclorganizers2020@gmail.com)
+[cmclorganizers2021@gmail.com](mailto://cmclorganizers2021@gmail.com)
 
