@@ -19,7 +19,7 @@ For info:
 
 
 ## Workshop Description
-Cognitive Modeling and Computational Linguistics (CMCL) 2021 is a one-day workshop held in conjunction with the conference of the North American Chapter of the Association for Computational Linguistics (NAACL). The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2020 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019 and EMNLP 2020.
+Cognitive Modeling and Computational Linguistics (CMCL) 2021 is a one-day workshop held in conjunction with the conference of the North American Chapter of the Association for Computational Linguistics (NAACL). The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2021 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019 and EMNLP 2020.
 
 
 ## Invited Speakers
