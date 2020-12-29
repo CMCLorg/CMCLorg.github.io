@@ -8,6 +8,10 @@ permalink: /organizers
 - <b>Emmanuele Chersoni</b>, The Hong Kong Polytechnic University 
   * Emmanuele is a postdoctoral researcher in the Department of Chinese and Bilingual Studies of the Hong Kong Polytechnic University. His main research interests include distributional semantic models, thematic fit modeling, automatic discovery of semantic relations and sentence processing. He served as a co-organizer of the CMCL workshop in Minneapolis in 2019, and as a member of the Local Organizing Committee for EMNLP 2019 in Hong Kong.
   * Email: emmanuelechersoni [at] gmail.com
+  
+- <b>Nora Hollenstein</b>, ETH Zurich
+  * Nora is a PhD candidate at ETH Zurich interested in cognitively-inspired NLP. The focus of her work lies in enhancing and evaluating NLP applications with cognitive processing signals such as eye-tracking and brain activity recordings. Before her PhD, she worked at IBM on multiple NLP projects on information extraction. She newly joined the CMCL workshop organisation in 2021. 
+  * Email: noraho [at] inf.ethz.ch
 
 - <b>Cassandra Jacobs</b>, University of Wisconsin 
   * Cassandra studies the intersection between human memory and linguistic experience. She has used a mixture of Bayesian and neural network models trained on natural language corpora to simulate how people learn language, how they represent the meanings of words and multiword expressions, and how they remember what others say. She has particular expertise in predicting spoken language prosody and models of distributional semantics. She served as an organizer of the 2018 meeting of CMCL in Salt Lake City, has organized symposia within the field of cognitive psychology on interdisciplinary questions in psycholinguistics, and served on the 2019 Diversity and Inclusion Committee for NAACL 2019.
