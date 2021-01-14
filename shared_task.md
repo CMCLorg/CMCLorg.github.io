@@ -11,6 +11,7 @@ Thanks to the recent introduction of a standardized dataset, it is finally possi
 
 
 ### Task
+
 The shared task if formulated as a regression task to predict 5 eye-tracking features:
 1. number of fixations (nFix), total number of fixations on the current word; 
 2. first fixation duration (FFD), the duration of the first fixation on the prevailing word; 
@@ -19,7 +20,26 @@ The shared task if formulated as a regression task to predict 5 eye-tracking fea
 5. fixation proportion (fixProp), the proportion of participants that fixated the current word (proxy for how likely a word is to be fixated).
 
 
+## Links and Contacts
+
+- For data and submission details, visit: [CODALAB, https://competitions.codalab.org/competitions/28176](https://competitions.codalab.org/competitions/28176)
+- For questions, contact: [cmcl2021sharedtask@gmail.com](mailto:cmcl2021sharedtask@gmail.com)
+
+
+## Timeline
+
+- January 15, 2021: Trial data release
+- January 29, 2021: Participant registration deadline & training data release
+- February 23, 2021: Test data release 
+- March 2, 2021: Submission deadline
+- March 9, 2021: Results release
+- March 22: Paper submission deadline
+- April 15: Reviews released to participants
+- April 26: Camera-ready papers due
+
+
 ## Data
+
 We will use the ZuCo eye-tracking dataset recorded during normal reading (1000 sentences). The training data will contain approx. 800 sentences, and the test set 200 sentences. The data provided will contain normalized features (feature values between 0 and 100 to facilitate evaluation via MAE) averaged over all participants.
 
 Example:
@@ -37,32 +57,11 @@ Note: Any additional data source is allowed, as long as it is freely available t
 
 
 ## Evaluation
+
 We will evaluate the prediction against the ground truth using the mean absolute error (MAE).
 The winning system will be the one with the best average MAE across all 5 eye-tracking features.
 
 
-## Platform
-The data download and submission with be handle via CodaLab.
-
-- [CODALAB](https://competitions.codalab.org/)
-
-The link to the competition will be shared together with the trial data.
-
-
-## Timeline
-- January 15, 2021: Trial data release
-- January 29, 2021: Participant registration deadline & training data release
-- February 23, 2021: Test data release 
-- March 2, 2021: Submission deadline
-- March 9, 2021: Results release
-- March 22: Paper submission deadline
-- April 15: Reviews released to participants
-- April 26: Camera-ready papers due
-
-
 ## Papers
+
 System description papers will be short papers (4 pages + references) describing the approach used for the eye-tracking prediction.
-
-
-## Contact
-[cmcl2021sharedtask@gmail.com](cmcl2021sharedtask@gmail.com)
