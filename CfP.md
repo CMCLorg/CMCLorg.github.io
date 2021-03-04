@@ -55,7 +55,7 @@ Topics of interest for the workshop include:
 
 ## Workshop Submissions
 
-We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website (link not available yet). To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. 
+We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format and made through the Softconf website ([https://www.softconf.com/naacl2021/cmcl2021/](https://www.softconf.com/naacl2021/cmcl2021/)). To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. 
 Submissions must be formatted using NAACL 2021 templates, available at:  [https://2021.naacl.org/calls/style-and-formatting/](https://2021.naacl.org/calls/style-and-formatting/).
 
 Regular Workshop Papers can be either full (8 pages of content + references) or short papers (4 pages + references) reporting original and unpublished research that combines cognitive modeling and computational linguistics. If a workshop paper has been submitted elsewhere, the authors have to declare it at submission time. Papers to be presented at CMCL 2021 must be withdrawn from other venues.
