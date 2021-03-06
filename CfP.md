@@ -74,7 +74,7 @@ For more info on the shared task: [cmcl2021sharedtask@gmail.com](mailto://cmcl20
 
 ## Important Dates
 
-- Submission deadline: March 9, 2021
+- Submission deadline: ~~March 9, 2021~~ March 22, 2021
 - Notification of acceptance: April 12, 2021
 - Camera-ready version due: April 26, 2021
 - Workshop date: June 10, 2021
