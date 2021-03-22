@@ -94,8 +94,6 @@ All deadlines are 11:59 PM (UTC-12:00)
 
 ## Programme Committee
 
-Laura Aina (Pompeu Fabre University of Barcelona)
-
 Raquel Garrido Alhama (Max Planck Institute for Psycholinguistics)
 
 Afra Alishahi (Tilburg University)
@@ -109,10 +107,6 @@ Marc Brysbaert (Ghent University)
 Christos Christodoulopoulos (Amazon)
 
 Aniello De Santo (University of Utah)
-
-Judith Degen (Stanford University)
-
-Brian Dillon (University of Massachusetts Amherst)
 
 Vesna Djokic (University of Amsterdam)
 
@@ -138,17 +132,11 @@ Samar Husain (IIT Delhi)
 
 Jordan Kodner (Stony Brook University)
 
-Sandra Kuebler (Indiana University)
-
-Shalom Lappin (University of Gothenburg)
-
 Gianluca Lebani (University Ca’ Foscari Venezia)
 
-Pavel Logacev (Bogazici University)
+Mohammad Momenian (Hong Kong Polytechnic University)
 
 Karl Neergaard (University of Macau)
-
-Sebastian Padó (University of Stuttgart)
 
 Ludovica Pannitto (University of Trento)
 
