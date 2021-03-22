@@ -96,13 +96,9 @@ All deadlines are 11:59 PM (UTC-12:00)
 
 Raquel Garrido Alhama (Max Planck Institute for Psycholinguistics)
 
-Afra Alishahi (Tilburg University)
-
 Klinton Bicknell (Duolingo)
 
 Philippe Blache (Aix-Marseille University)
-
-Marc Brysbaert (Ghent University)
 
 Christos Christodoulopoulos (Amazon)
 
@@ -117,6 +113,8 @@ Raquel Fernandez (University of Amsterdam)
 Thomas Francois (Catholic University of Louvain)
 
 Robert Frank (Yale University)
+
+Stefan Frank (Radboud University of Nijmegen)
 
 Stella Frank (University of Edinburgh)
 
