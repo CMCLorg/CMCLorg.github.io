@@ -26,8 +26,10 @@ Cognitive Modeling and Computational Linguistics (CMCL) 2021 is a one-day worksh
 
 We are pleased to announce the following invited speakers for the 2021 edition:
 
-- Marco Baroni (Facebook AI – Pompeu Fabra University of Barcelona)
+- ~~Marco Baroni (Facebook AI – Pompeu Fabra University of Barcelona)~~* Afra Alishahi (Tilburg University)
 - Zoya Bylinskii (Adobe Research)
+
+* We would like to thank Marco Baroni (Facebook AI – Pompeu Fabra University of Barcelona) for his support to CMCL.
 
 
 ## Scope and Topics
