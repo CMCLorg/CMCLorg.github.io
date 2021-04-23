@@ -97,11 +97,17 @@ All deadlines are 11:59 PM (UTC-12:00)
 
 ## Programme Committee
 
+Laura Aina (Pompeu Fabre University of Barcelona)
+
 Raquel Garrido Alhama (Max Planck Institute for Psycholinguistics)
+
+Louise Gillian Bautista (University of the Philippines)
 
 Klinton Bicknell (Duolingo)
 
 Philippe Blache (Aix-Marseille University)
+
+Lucia Busso (Aston University)
 
 Christos Christodoulopoulos (Amazon)
 
@@ -121,6 +127,8 @@ Stefan Frank (Radboud University of Nijmegen)
 
 Stella Frank (University of Edinburgh)
 
+Diego Frassinelli (University of Kostanz)
+
 Abdellah Fourtassi (Aix-Marseille University)
 
 John Hale (University of Georgia)
@@ -135,13 +143,25 @@ Jordan Kodner (Stony Brook University)
 
 Gianluca Lebani (University Ca’ Foscari Venezia)
 
+Alessandro Lenci (University of Pisa)
+
+Ping Li (The Hong Kong Polytechnic University)
+
+Fred Mailhot (DialPad)
+
 Mohammad Momenian (Hong Kong Polytechnic University)
 
 Karl Neergaard (University of Macau)
 
 Ludovica Pannitto (University of Trento)
 
+Bo Peng (Yunnan University)
+
+Sandro Pezzelle (University of Amsterdam)
+
 Stephen Politzer-Ahles (Hong Kong Polytechnic University)
+
+Jakob Prange (Georgetown University)
 
 Vito Pirrelli (ILC-CNR Pisa)
 
@@ -156,6 +176,10 @@ Rachel A Ryskin (University of California Merced)
 Lavinia Salicchi (Hong Kong Polytechnic University)
 
 William Schuler (Ohio State University)
+
+Marco Senaldi (McGill University)
+
+Friederike Seyfried (The Hong Kong Polytechnic University)
 
 Cory Shain (Ohio State University)
 
