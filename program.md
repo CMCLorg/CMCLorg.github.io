@@ -28,19 +28,15 @@ June 10, 2021, Mexico City (GMT-5)
 
 - 10:30–12:00 **Oral Presentations 1**
 
-    *Non-Complementarity of Information in Word-Embedding and Brain Representations in Distinguishing between Concrete and Abstract Words*
-    
+    *Non-Complementarity of Information in Word-Embedding and Brain Representations in Distinguishing between Concrete and Abstract Words*. 
     Kalyan Ramakrishnan and Fatma Deniz
 
-
-    *Human Sentence Processing: Recurrence or Attention?*
-    
+    *Human Sentence Processing: Recurrence or Attention?*. 
     Danny Merkx and Stefan L. Frank
 
-
-    *Modeling Incremental Language Comprehension in the Brain with Combinatory Categorial Grammar*
-    
+    *Modeling Incremental Language Comprehension in the Brain with Combinatory Categorial Grammar*. 
     Miloš Stanojevi´c, Shohini Bhattasali, Donald Dunagan, Luca Campanelli, Mark Steedman, Jonathan Brennan and John Hale
+
 
 
 - 12:00–13:00 **Lunch break**
