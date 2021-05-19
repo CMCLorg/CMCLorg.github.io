@@ -62,37 +62,35 @@ June 10, 2021, Mexico City (GMT-5)
 
 - 15:00–16:30 **Poster Session**
 
-    *LangResearchLab_NC at CMCL2021 Shared Task: Predicting Gaze Behaviour Using Linguistic Features and Tree Regressors*
+    ***LangResearchLab_NC at CMCL2021 Shared Task:** Predicting Gaze Behaviour Using Linguistic Features and Tree Regressors*
     Raksha Agarwal and Niladri Chatterjee
 
-    *TorontoCL at CMCL 2021 Shared Task: RoBERTa with Multi-Stage Fine-Tuning*
+    ***TorontoCL at CMCL 2021 Shared Task:** RoBERTa with Multi-Stage Fine-Tuning*
     for Eye-Tracking Prediction Bai Li and Frank Rudzicz
 
-    *LAST at CMCL 2021 Shared Task: Predicting Gaze Data During Reading with a Gradient Boosting Decision Tree Approach*
+    ***LAST at CMCL 2021 Shared Task:** Predicting Gaze Data During Reading with a Gradient Boosting Decision Tree Approach*
     Yves Bestgen
 
-    *Team Ohio State at CMCL 2021 Shared Task: Fine-Tuned RoBERTa for Eye-Tracking Data Prediction*
+    ***Team Ohio State at CMCL 2021 Shared Task:** Fine-Tuned RoBERTa for Eye-Tracking Data Prediction*
     Byung-Doh Oh
 
-    *PIHKers at CMCL 2021 Shared Task: Cosine Similarity and Surprisal to Predict Human Reading Patterns*
+    ***PIHKers at CMCL 2021 Shared Task:** Cosine Similarity and Surprisal to Predict Human Reading Patterns*
     Lavinia Salicchi and Alessandro Lenci
 
-    *TALEP at CMCL 2021 Shared Task: Non Linear Combination of Low and High-Level Features for Predicting Eye-Tracking Data*
+    ***TALEP at CMCL 2021 Shared Task:** Non Linear Combination of Low and High-Level Features for Predicting Eye-Tracking Data*
     Franck Dary, Alexis Nasr and Abdellah Fourtassi
 
-    *MTL782_IITD at CMCL 2021 Shared Task: Prediction of Eye-Tracking Features Using BERT Embeddings and Linguistic Features*
+    ***MTL782_IITD at CMCL 2021 Shared Task:** Prediction of Eye-Tracking Features Using BERT Embeddings and Linguistic Features*
     Shivani Choudhary, Kushagri Tandon, Raksha Agarwal and Niladri Chatterjee
 
-    *KonTra at CMCL 2021 Shared Task: Predicting Eye Movements by Combining BERT with Surface, Linguistic and Behavioral Information*
+    ***KonTra at CMCL 2021 Shared Task:** Predicting Eye Movements by Combining BERT with Surface, Linguistic and Behavioral Information*
     Qi Yu, Aikaterini-Lida Kalouli and Diego Frassinelli
 
-    *CogNLP-Sheffield at CMCL 2021 Shared Task: Blending Cognitively Inspired Features with Transformer-based Language Models for Predicting Eye Tracking Patterns*
+    ***CogNLP-Sheffield at CMCL 2021 Shared Task:** Blending Cognitively Inspired Features with Transformer-based Language Models for Predicting Eye Tracking Patterns*
     Peter Vickers, Rosa Wainwright, Harish Tayyar Madabushi and Aline Villavicencio
 
-    *Team ReadMe at CMCL 2021 Shared Task: Predicting Human Reading Patterns by Traditional Oculomotor Control Models and Machine Learning*
+    ***Team ReadMe at CMCL 2021 Shared Task:** Predicting Human Reading Patterns by Traditional Oculomotor Control Models and Machine Learning*
     Alisan Balkoca, Abdullah Algan, Cengiz Acarturk and Ça˘grı Çöltekin
-
-***
 
     *Enhancing Cognitive Models of Emotions with Representation Learning*
     Yuting Guo and Jinho D. Choi
