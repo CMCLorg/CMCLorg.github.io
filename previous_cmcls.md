@@ -4,12 +4,16 @@ title: Previous CMCLs
 permalink: /previous_cmcls
 ---
 
-2020 is the tenth installation of CMCL.
+2022 is the twelfth installation of CMCL.
 
 
 Previous editions:
 
-[CMCL 2019](https://cmclorg.github.io/2019/) (Minneapolis, Minnesota): Proceedings
+[CMCL 2021](https://cmclorg.github.io/2021/) (NAACL): [Proceeedings](https://aclanthology.org/volumes/2021.cmcl-1/)
+
+[CMCL 2020](https://cmclorg.github.io/2020/) (EMNLP): [Proceedings](https://aclanthology.org/volumes/2020.cmcl-1/)
+
+[CMCL 2019](https://cmclorg.github.io/2019/) (Minneapolis, Minnesota): [Proceedings](https://aclanthology.org/volumes/W19-29/)
 
 [CMCL 2018](https://cmclorg.github.io/2018/index.html) (Salt Lake City): [Proceedings](https://aclanthology.info/events/cmcl-2018).
 

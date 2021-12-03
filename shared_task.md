@@ -4,56 +4,58 @@ title: Shared Task
 permalink: /shared_task
 ---
 
-## Shared Task: Predicting human reading patterns
+## Shared Task: Cross-linguistic Prediction of Human Reading Behavior
 
-The ability of accurately modeling eye-tracking features is crucial to advance the understanding of language processing. Eye tracking provides millisecond-accurate records on where humans look when they are reading, shedding lights on where humans pay attention during their reading and comprehension phase. The benefits of utilizing eye movement data have been noticed in various domains, including natural language processing and computer vision.
-Thanks to the recent introduction of a standardized dataset, it is finally possible to compare the capabilities of machine learning approaches to model and analyze human patterns of reading. In this shared task, we present the challenge of predicting eye tracking-based metrics recorded during English sentence processing. We are interested in submissions concerning both cognitive modelling approaches and linguistically motivated approaches (e.g., language models).
-
+The benefits of eye movement data for machine learning have been assessed in various domains, including NLP and computer vision. Eye tracking provides millisecond-accurate records on where humans look when they are reading and are useful in explanatory research of language processing. Eye movements depend on the stimulus and are therefore language-specific but there are universal tendencies which remain stable across languages (Liversedge et al., 2016). Modelling human reading has been researched extensively in psycholinguistics (e.g., Reichle et al., 1998; Matthies & Søgaard, 2013; Hahn & Keller, 2016; Sood et al., 2008). Being able to accurately predict eye-tracking features across languages will advance this field and will facilitate comparisons between models and the analysis of their varying capabilities.
 
 ### Task
 
-The shared task if formulated as a regression task to predict 5 eye-tracking features:
-1. number of fixations (nFix), total number of fixations on the current word; 
-2. first fixation duration (FFD), the duration of the first fixation on the prevailing word; 
-3. total reading time (TRT), the sum of all fixation durations on the current word, including regressions; 
-4. go-past time (GPT), the sum of all fixations prior to progressing to the right of the current word, including regressions to previous words that originated from the current word;
-5. fixation proportion (fixProp), the proportion of participants that fixated the current word (proxy for how likely a word is to be fixated).
+In this shared task we address the challenge of predicting eye-tracking features recorded during sentence processing of multiple languages. We are interested in both cognitive modelling approaches as well as linguistically motivated approaches (i.e., language models). All teams are encouraged to write a short system description paper after the evaluation to present their models and results (see timeline below).
+
+There are two major changes compared to the CMCL 2021 Shared Task on eye-tracking prediction:
+
+    Multilingual data: We provide an eye movement dataset with sentences from six languages (Chinese, Dutch, English, German, Hindi, Russian).
+    Eye-tracking features: To take into account the individual differences between readers, the task is not limited to predict the mean eye tracking features across readers, but also the standard deviation of the feature values.
+
+
+### Task objective
+
+The shared task if formulated as a regression task to predict 2 eye-tracking features and the corresponding standard deviation across readers:
+
+    first fixation duration (FFD), the duration of the first fixation on the prevailing word;
+    standard deviation of FFD across readers;
+    total reading time (TRT), the sum of all fixation durations on the current word, including regressions;
+    standard deviation of TRT across readers.
+
+### Subtasks
+
+    Subtask 1: Predict eye-tracking features for sentences of the 6 provided languages
+    Subtask 2: Predict eye-tracking features for sentences from a new surprise language
 
 
 ## Links and Contacts
 
-- For data and submission details, visit: [CODALAB, https://competitions.codalab.org/competitions/28176](https://competitions.codalab.org/competitions/28176)
+- For data and submission details, visit: [CODALAB, https://competitions.codalab.org/competitions/36415](https://competitions.codalab.org/competitions/36415)
 - For questions, contact: [cmcl2021sharedtask@gmail.com](mailto:cmcl2021sharedtask@gmail.com)
 
 
-## Timeline
+Timeline
 
-- January 15, 2021: Trial data release
-- January 29, 2021: Participant registration deadline & training data release
-- February 23, 2021: Test data release 
-- March 2, 2021: Submission deadline
-- March 9, 2021: Results release
-- March 22: Paper submission deadline
-- April 15: Reviews released to participants
-- April 26: Camera-ready papers due
+    December 6, 2021: Trial data release
+    December 20, 2021: Participant registration opens & training data (& dev data) release
+    January 10, 2023: Participant registration deadline
+    January 19, 2022: Test data release
+    February 1, 2022: Submission deadline for system predictions
+    February 6, 2022: Results release
+    February 28, 2022: Submission deadline for systems description papers
+    March 26, 2022: Notification of Acceptance
+    April 10, 2022: Camera-ready papers due
+    May 26-28, 2022: CMCL Workshop (@ACL)
 
 
-## Data
+### Data
 
-We will use the ZuCo eye-tracking dataset recorded during normal reading (1000 sentences). The training data will contain approx. 800 sentences, and the test set 200 sentences. The data provided will contain normalized features (feature values between 0 and 100 to facilitate evaluation via MAE) averaged over all participants.
-
-Example:
-
-```
-word_id	sentence_id	word	nFix	FFD	GPT	TRT 	fixProp
-0	1	After	6.47	23.47	11.61	7.48	47.06
-1	1	the	7.19	20.79	10.39	6.70	52.94
-2	1	show	12.22	35.61	16.42	13.84	76.47
-3	1	was	7.19	20.87	9.62	6.21	58.82
-4	1	cancelled,	12.94	27.61	13.94	12.20	70.59
-```
-
-Note: Any additional data source is allowed, as long as it is freely available to the research community. For example, additional eye tracking corpora, additional features such as brain activity signals, pre-trained language models, etc.
+We will use the eye-tracking data recorded during natural reading from 8 datasets in 6 languages (see "Data" for details). The training data contains 1703 sentences, the development set contains 104 sentences, and the test set 324 sentences. The data provided will contain scaled features in the range between 0 and 100 to facilitate evaluation via the mean absolute average (MAE). The eye-tracking feature values are averaged over all readers.
 
 
 ## Evaluation
