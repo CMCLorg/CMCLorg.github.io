@@ -4,7 +4,7 @@ title: Shared Task
 permalink: /shared_task
 ---
 
-## Shared Task: Cross-linguistic Prediction of Human Reading Behavior
+## Shared Task: Multilingual and crosslingual prediction of human reading behavior
 
 The benefits of eye movement data for machine learning have been assessed in various domains, including NLP and computer vision. Eye tracking provides millisecond-accurate records on where humans look when they are reading and are useful in explanatory research of language processing. Eye movements depend on the stimulus and are therefore language-specific but there are universal tendencies which remain stable across languages (Liversedge et al., 2016). Modelling human reading has been researched extensively in psycholinguistics (e.g., Reichle et al., 1998; Matthies & Søgaard, 2013; Hahn & Keller, 2016; Sood et al., 2008). Being able to accurately predict eye-tracking features across languages will advance this field and will facilitate comparisons between models and the analysis of their varying capabilities.
 
@@ -42,9 +42,8 @@ The shared task if formulated as a regression task to predict 2 eye-tracking fea
 Timeline
 
     December 6, 2021: Trial data release
-    December 20, 2021: Participant registration opens & training data (& dev data) release
-    January 10, 2023: Participant registration deadline
-    January 19, 2022: Test data release
+    December 20, 2021: Training data (& dev data) release
+    January 19, 2022: Participant registration deadline & Test data release
     February 1, 2022: Submission deadline for system predictions
     February 6, 2022: Results release
     February 28, 2022: Submission deadline for systems description papers
