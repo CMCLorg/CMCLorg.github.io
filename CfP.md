@@ -87,7 +87,7 @@ All deadlines are 11:59 PM (UTC-12:00) (i.e., anywhere on earth)
 
 ## Programme Committee
 
-
+Laura Aina (Pompeu Fabre University of Barcelona), Raquel Garrido Alhama (Tilburg University), Afra Alishahi (Tilburg University), Philippe Blache (Aix-Marseille University), Christos Christodoulopoulos (Amazon), Aniello De Santo (University of Utah), Vesna Djokic (University of Amsterdam), Micha Elsner (Ohio State University), Raquel Fernandez (University of Amsterdam), Abdellah Fourtassi (Aix-Marseille University), Michael Frank (Stanford University), Robert Frank (Yale University), Stella Frank (University of Trento), Diego Frassinelli (University of Konstanz), John Hale (University of Georgia), Yu-Yin Hsu (The Hong Kong Polytechnic University), Tim Hunter (UCLA), Samar Husain (IIT Delhi), Anna Ivanova (MIT), Jordan Kodner (Stony Brook University), Gianluca Lebani (University Ca’ Foscari Venezia), Fred Mailhot (Dialpad), Karl Neergaard (University of Macau), Ludovica Pannitto (University of Trento), Stephen Politzer-Ahles (The Hong Kong Polytechnic University), Vito Pirrelli (ILC-CNR Pisa), Giulia Rambelli (University of Pisa), Roi Reichart (Technion – Israel Institute of Technology), Rachel A Ryskin (University of California Merced), Lavinia Salicchi (The Hong Kong Polytechnic University), William Schuler (Ohio State University), Marco Silvio Giuseppe Senaldi (McGill University), Cory Shain (MIT), Friederike Seyfried (The Hong Kong Polytechnic University), Ece Takmaz (University of Amsterdam), Lonneke Van Der Plas (Idiap Research Institute), Yao Yao (The Hong Kong Polytechnic University), Frances Yung (Saarland University).
 
 ## Sponsoring Institutions
 
