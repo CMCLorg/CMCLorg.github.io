@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to CMCL 2021!"
+title:  "Welcome to CMCL 2022!"
 date:   2019-11-01 12:38:12 +0200
 ---
 
