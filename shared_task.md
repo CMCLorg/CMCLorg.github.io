@@ -36,7 +36,7 @@ The shared task if formulated as a regression task to predict 2 eye-tracking fea
 ## Links and Contacts
 
 - For data and submission details, visit: [CODALAB, https://competitions.codalab.org/competitions/36415](https://competitions.codalab.org/competitions/36415)
-- For questions, contact: [cmcl2021sharedtask@gmail.com](mailto:cmcl2021sharedtask@gmail.com)
+- For questions, contact: [cmcl2021sharedtask@gmail.com](mailto:cmcl2022sharedtask@gmail.com)
 
 
 Timeline
