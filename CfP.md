@@ -8,7 +8,7 @@ permalink: /CfP
 
 ### CfP and Shared Task on Eye-Tracking Data Prediction
 
-Co-located with ACL 2022 in Dublin, Ireland (and virtually!), on the 22-27th of May 2022.
+Co-located with ACL 2022 in Dublin, Ireland (and virtually!), on the 26th of May 2022.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d152515.25333408735!2d-6.385787383888776!3d53.32444313848332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e80ea27ac2f%3A0xa00c7a9973171a0!2sDublin%2C%20Ireland!5e0!3m2!1sen!2sus!4v1638508842460!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -70,7 +70,7 @@ For more info on the shared task: [cmcl2021sharedtask@gmail.com](mailto:cmcl2022
 - Submission deadline: February 28, 2022
 - Notification of acceptance: March 26, 2022
 - Camera-ready version due: April 10, 2022
-- Workshop date: May 26-28, 2022 (TBD)
+- Workshop date: May 26, 2022 (TBD)
 
 All deadlines are 11:59 PM (UTC-12:00) (i.e., anywhere on earth)
 
