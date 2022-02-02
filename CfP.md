@@ -14,7 +14,7 @@ Co-located with ACL 2022 in Dublin, Ireland (and virtually!), on the 26th of May
 
 For info:
 - [https://cmclorg.github.io](https://cmclorg.github.io)
-- [cmclorganizers2021@gmail.com](mailto:cmclorganizers2022@gmail.com)
+- [cmclorganizers2022@gmail.com](mailto:cmclorganizers2022@gmail.com)
 
 
 ## Workshop Description
@@ -62,7 +62,7 @@ We will also accept **CROSS-SUBMISSIONS** (from 2 to 4 pages + references) for p
 
 This year, we have prepared a shared task on multilingual eye-tracking data prediction. Full details have been included at the shared task website [here: https://competitions.codalab.org/competitions/36415](https://competitions.codalab.org/competitions/36415).
 
-For more info on the shared task: [cmcl2021sharedtask@gmail.com](mailto:cmcl2022sharedtask@gmail.com)
+For more info on the shared task: [cmcl2022sharedtask@gmail.com](mailto:cmcl2022sharedtask@gmail.com)
 
 
 ## Important Dates
@@ -98,5 +98,5 @@ Laboratoire Parole et Langage, CNRS, France
 
 ## Contact Email
 
-[cmclorganizers2021@gmail.com](mailto:cmclorganizers2022@gmail.com)
+[cmclorganizers2022@gmail.com](mailto:cmclorganizers2022@gmail.com)
 
