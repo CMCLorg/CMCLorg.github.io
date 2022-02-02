@@ -62,7 +62,7 @@ We will also accept **CROSS-SUBMISSIONS** (from 2 to 4 pages + references) for p
 
 This year, we have prepared a shared task on multilingual eye-tracking data prediction. Full details have been included at the shared task website [here: https://competitions.codalab.org/competitions/36415](https://competitions.codalab.org/competitions/36415).
 
-For more info on the shared task: [cmcl2022sharedtask@gmail.com](mailto:cmcl2022sharedtask@gmail.com)
+For more info on the shared task: [cmclsharedtask@gmail.com](mailto:cmclsharedtask@gmail.com)
 
 
 ## Important Dates
