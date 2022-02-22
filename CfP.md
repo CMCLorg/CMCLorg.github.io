@@ -49,12 +49,16 @@ Topics of interest for the workshop include:
 - Cognitively-motivated models of discourse and dialogue
 - Network science and language processing
 
+
 ## Workshop Submissions
 
-We accept three categories of papers: regular workshop papers, extended abstracts and cross- submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format (the link for submission will be made available soon). To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. Submissions must be formatted using ACL 2022 templates, available at: https://aclrollingreview.org/cfp.
+We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format: https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/CMCL.
+To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. Submissions must be formatted using ACL 2022 templates, available at: https://aclrollingreview.org/cfp.
 
 **REGULAR WORKSHOP PAPERS** can be either full (8 pages of content + references) or short papers (4 pages + references) reporting original and unpublished research that combines cognitive modeling and computational linguistics. *If a workshop paper has been submitted elsewhere, the authors have to declare it at submission time. Papers to be presented at CMCL 2022 must be withdrawn from other venues.*
+
 **EXTENDED ABSTRACTS** (from 2 to 4 pages + references) describe preliminary work or results that have not been published before. Accepted abstracts will be presented at the workshop, but will *not* be included in the workshop proceedings.
+
 We will also accept **CROSS-SUBMISSIONS** (from 2 to 4 pages + references) for papers on related topics that have already appeared in a non-NLP venue (e.g. CogSci). These papers will be presented at the workshop, but will *not* be included in the proceedings. Interested authors are asked to add a note on the original venue in the submission.
 
 
@@ -67,7 +71,7 @@ For more info on the shared task: [cmclsharedtask@gmail.com](mailto:cmclsharedta
 
 ## Important Dates
 
-- Submission deadline: February 28, 2022
+- Submission deadline: ~~February 28, 2022~~ March 7, 2022 (including shared-task papers)
 - Notification of acceptance: March 26, 2022
 - Camera-ready version due: April 10, 2022
 - Workshop date: May 26, 2022 (TBD)
