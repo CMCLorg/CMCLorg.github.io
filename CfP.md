@@ -54,6 +54,7 @@ Topics of interest for the workshop include:
 
 We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format: https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/CMCL.
 To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. Submissions must be formatted using ACL 2022 templates, available at: https://aclrollingreview.org/cfp.
+We accept papers that have been committed to ACL 2022: they will have to be submitted through the workshop website by Mar 18, 2022. Notice that the authors will be asked to describe how they addressed the ACL reviewers' comments.
 
 **REGULAR WORKSHOP PAPERS** can be either full (8 pages of content + references) or short papers (4 pages + references) reporting original and unpublished research that combines cognitive modeling and computational linguistics. *If a workshop paper has been submitted elsewhere, the authors have to declare it at submission time. Papers to be presented at CMCL 2022 must be withdrawn from other venues.*
 
@@ -72,6 +73,7 @@ For more info on the shared task: [cmclsharedtask@gmail.com](mailto:cmclsharedta
 ## Important Dates
 
 - Submission deadline: ~~February 28, 2022~~ March 7, 2022 (including shared-task papers)
+- Deadline for Submission of ACL-committed papers: March 18, 2022
 - Notification of acceptance: March 26, 2022
 - Camera-ready version due: April 10, 2022
 - Workshop date: May 26, 2022 (TBD)
