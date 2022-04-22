@@ -38,9 +38,8 @@ Tuesday, July 26, 2022, Standard Irish Time
 
 15:00 - 15:15 Coffee Break
 15:15 - 15:30 Shared Task Presentation
-
-- CMCL 2022 Shared Task on Multilingual and Crosslingual Prediction of Human
-- Reading Behavior. Nora Hollenstein, Emmanuele Chersoni, Cassandra L Jacobs, Yohei Oseki, Laurent Prevot and Enrico Santus
+CMCL 2022 Shared Task on Multilingual and Crosslingual Prediction of Human
+Reading Behavior. Nora Hollenstein, Emmanuele Chersoni, Cassandra L Jacobs, Yohei Oseki, Laurent Prevot and Enrico Santus
 
 15:30 - 17:00 Poster Session
 
