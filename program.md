@@ -21,8 +21,11 @@ Dublin, Ireland and on Zoom!
 Tuesday, July 26, 2022, Standard Irish Time
 
 09:30 - 09:45 Opening Remarks
+
 09:45 - 10:45 Keynote Talk by Andrea E. Martin
+
 10:45 - 11:00 Coffee Break
+
 11:00 - 12:30 Session 1 (Oral Presentations)
 
 - Eye Gaze and Self-attention: How Humans and Transformers Attend Words in Sentences. Joshua Bensemann, Alex Yuxuan Peng, Diana Benavides Prado, Yang Chen, Neset Tan, Paul Michael Corballis, Patricia Riddle and Michael Witbrock
@@ -30,6 +33,7 @@ Tuesday, July 26, 2022, Standard Irish Time
 - Visually Grounded Interpretation of Noun-Noun Compounds in English. Inga Lang, Lonneke Van Der Plas, Malvina Nissim and Albert Gatt
 
 12:30 - 13:30 Lunch Break
+
 13:30 - 15:00 Session 2 (Oral Presentations)
 
 - A Neural Model for Compositional Word Embeddings and Sentence Processing. Shalom Lappin and Jean-Philippe Bernardy
@@ -37,6 +41,7 @@ Tuesday, July 26, 2022, Standard Irish Time
 - About Time: Do Transformers Learn Temporal Verbal Aspect? Eleni Metheniti, Tim Van De Cruys and Nabil Hathout
 
 15:00 - 15:15 Coffee Break
+
 15:15 - 15:30 Shared Task Presentation
 
 CMCL 2022 Shared Task on Multilingual and Crosslingual Prediction of Human
@@ -59,5 +64,6 @@ Reading Behavior. Nora Hollenstein, Emmanuele Chersoni, Cassandra L Jacobs, Yohe
 - Learning Non-Local Phonological Alternations via Automatic Creation of Tiers. Caleb Belth. (extended abstract presentation)
 
 17:00 - 18:00 Keynote Talk by Vera Demberg
+
 18:00 - 18:15 Closing Remarks
 
