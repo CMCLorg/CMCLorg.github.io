@@ -23,7 +23,7 @@ Dublin, Ireland and on Zoom!
 
 **09:30 - 09:45 Opening Remarks**
 
-**09:45 - 10:45 Keynote Talk by Andrea E. Martin**
+**09:45 - 10:45 Keynote Talk by Andrea E. Martin**: "Explananda in cognitive models of language processing"
 
 **10:45 - 11:00 Coffee Break**
 
@@ -64,7 +64,7 @@ CMCL 2022 Shared Task on Multilingual and Crosslingual Prediction of Human
 - *A Bayesian approach to phases for frequency-tagged encephalography in the cognitive neuroscience of language.* Sydney Dimmock, Cian O'Donnell, Conor Houghton (extended abstract presentation)
 - *Learning Non-Local Phonological Alternations via Automatic Creation of Tiers.* Caleb Belth. (extended abstract presentation)
 
-**17:00 - 18:00 Keynote Talk by Vera Demberg**
+**17:00 - 18:00 Keynote Talk by Vera Demberg**: "Recent findings in pragmatic processing and their implications for computational modelling"
 
 **18:00 - 18:15 Closing Remarks**
 
