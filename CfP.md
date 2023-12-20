@@ -2,30 +2,31 @@
 layout: page
 title: CfP
 permalink: /CfP
+order: 1
 ---
 
 ## The Workshop on Cognitive Modeling and Computational Linguistics
 
-### CfP and Shared Task on Eye-Tracking Data Prediction
+### Call of Paper (announced soon)
 
-Co-located with ACL 2022 in Dublin, Ireland (and virtually!), on the 26th of May 2022.
+Co-located with ACL 2024 in Bankok, Thailand.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d152515.25333408735!2d-6.385787383888776!3d53.32444313848332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e80ea27ac2f%3A0xa00c7a9973171a0!2sDublin%2C%20Ireland!5e0!3m2!1sen!2sus!4v1638508842460!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d992233.6942053817!2d99.97363989628013!3d13.723724826940103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d6032280d61f3%3A0x10100b25de24820!2sBangkok%2C%20Thailandia!5e0!3m2!1sit!2sit!4v1703056488349!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 For info:
 - [https://cmclorg.github.io](https://cmclorg.github.io)
-- [cmclorganizers2022@gmail.com](mailto:cmclorganizers2022@gmail.com)
+- [cmclorganizers2024@gmail.com](mailto:cmclorganizers2024@gmail.com)
 
 
-## Workshop Description
+<!---## Workshop Description
 Cognitive Modeling and Computational Linguistics (CMCL) 2022 is a one-day workshop held in conjunction with the conference of the Association for Computational Linguistics (ACL). The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2022 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019, EMNLP 2020 and NAACL 2021.
 
 ## Invited Speakers
 
-We are pleased to announce the following invited speakers for the 2022 edition:
+We are pleased to announce the following invited speakers for the 2024 edition:
 
-- Vera Demberg (Saarland University)
-- Andrea E. Martin (Max Planck Institute for Psycholinguistics)
+- Aida Nematzadeh} (DeepMind)
+- Frank Keller (University of Edinburgh) 
 
 ## Scope and Topics
 
@@ -104,5 +105,5 @@ Laboratoire Parole et Langage, CNRS, France
 
 ## Contact Email
 
-[cmclorganizers2022@gmail.com](mailto:cmclorganizers2022@gmail.com)
+[cmclorganizers2022@gmail.com](mailto:cmclorganizers2022@gmail.com)--->
 

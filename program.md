@@ -2,9 +2,14 @@
 layout: page
 title: Program
 permalink: /program
+order: 6
 ---
 
-# Cognitive Modeling and Computational Linguistics (CMCL) 2022
+# Cognitive Modeling and Computational Linguistics (CMCL) 2024
+
+To be determined
+
+<!---
 
 CMCL 2022 will have both oral presentations and poster presentations. The complete program is under definition.
 
@@ -68,3 +73,4 @@ CMCL 2022 Shared Task on Multilingual and Crosslingual Prediction of Human
 
 **18:00 - 18:15 Closing Remarks**
 
+--->
