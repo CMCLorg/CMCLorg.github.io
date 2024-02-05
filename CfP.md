@@ -7,51 +7,108 @@ order: 1
 
 ## The Workshop on Cognitive Modeling and Computational Linguistics
 
-### Call of Paper (announced soon)
+CMCL 2024 will be co-located with ACL 2024 in Bankok (Thailand) on August, 15 2024.
+
+
+<!--
+## Call of Paper
 
 Co-located with ACL 2024 in Bankok, Thailand.
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d992233.6942053817!2d99.97363989628013!3d13.723724826940103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d6032280d61f3%3A0x10100b25de24820!2sBangkok%2C%20Thailandia!5e0!3m2!1sit!2sit!4v1703056488349!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 For info:
 - [https://cmclorg.github.io](https://cmclorg.github.io)
 - [cmclorganizers2024@gmail.com](mailto:cmclorganizers2024@gmail.com)
+-->
 
+### Workshop Description
+CMCL 2024 is a one-day workshop held in conjunction with ACL 2024. CMCL invites papers about cognitive modeling, cognitively-inspired natural language processing, and more broadly, alignment of language models with human cognition/perception. The 2024 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019, EMNLP 2020, NAACL 2021, and ACL 2022.
 
-<!---## Workshop Description
-Cognitive Modeling and Computational Linguistics (CMCL) 2022 is a one-day workshop held in conjunction with the conference of the Association for Computational Linguistics (ACL). The goal of CMCL is providing a venue for computational research on cognitive theories of language processing, representation and acquisition. The 2022 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019, EMNLP 2020 and NAACL 2021.
+### Scope and Topics
+The research interests/questions include, but are not limited to:
+- Human-like language acquisition/learning---How (dis)similar are LMs' and human's language acquisition, and why?
+- Contrasting/aligning computational models with human reading behavior data---What do humans compute during language comprehension/production, and how/why?
+- Linguistic probing of NLP models---How well do current language models understand/represent/generalize language (behaviorally/internally)?
+- Linguistically-motivated data modeling/analysis---How can one quantify a particular aspect of language?
+- Emergent communication/language---What are the sufficient conditions for the emergence of language?
 
-## Invited Speakers
+A more formal description of the workshop scope is:
+- Stochastic models of factors influencing a speaker's production or comprehension decisions.
+- Models of semantic interpretation, including psychologically realistic notions of word and phrase meaning and composition.
+- Incremental parsers for diverse grammar formalisms and their psychological plausibility.
+- Models of speaker-specific linguistic adaptation and/or generalization.
+- Models of first and second language acquisition and bilingual language processing.
+- Behavioral tasks for better understanding neural models of linguistic representation.
+- Models and empirical analysis of the relationship between mechanistic psycholinguistic principles and pragmatics or semantics.
+- Models of lexical acquisition, including phonology, morphology, and semantics.
+- Psychologically motivated models of grammar induction.
+- Psychologically plausible models of lexical or conceptual representations.
+- Models of language disorders, such as aphasia, dyslexia, or dysgraphia.
+- Behavioral datasets or resources for modeling language processing or production in languages other than English.
+- Models of language comprehension difficulty.
+- Models of language learning and generalization.
+- Models of linguistic information propagation and language evolution in communities.
+- Cognitively-motivated models of discourse and dialogue.
+
+### Invited Speakers
 
 We are pleased to announce the following invited speakers for the 2024 edition:
 
-- Aida Nematzadeh} (DeepMind)
-- Frank Keller (University of Edinburgh) 
-
-## Scope and Topics
-
-Topics of interest for the workshop include:
-
-- Stochastic models of factors influencing a speaker’s production or comprehension decisions
-- Models of semantic interpretation, including psychologically realistic notions of word and phrase meaning and composition
-- Incremental parsers for diverse grammar formalisms and their psychological plausibility
-- Models of speaker-specific linguistic adaptation and/or generalization
-- Models of first and second language acquisition and bilingual language processing
-- Behavioral tasks for better understanding neural models of linguistic representation
-- Models and empirical analysis of the relationship between mechanistic psycholinguistic principles and pragmatics or semantics
-- Models of lexical acquisition, including phonology, morphology, and semantics
-- Psychologically motivated models of grammar induction
-- Psychologically plausible models of lexical or conceptual representations
-- Models of language disorders, such as aphasia, dyslexia, or dysgraphia
-- Behavioral datasets or resources for modeling language processing or production in languages other than English
-- Models of language comprehension difficulty
-- Models of language learning and generalization
-- Models of linguistic information propagation and language evolution in communities
-- Cognitively-motivated models of discourse and dialogue
-- Network science and language processing
+- [Aida Nematzadeh](http://www.aidanematzadeh.me/) (Google DeepMind)
+- [Frank Keller](https://homepages.inf.ed.ac.uk/keller/) (University of Edinburgh) 
 
 
-## Workshop Submissions
+### Important Dates
+- May 15, 2024: Notification of ACL 2024
+- May 17, 2024: Paper submission/commitment deadline
+- June 17, 2024: Notification of acceptance
+- July 1, 2024: Camera-ready paper due
+- August 15, 2024: Workshop dates
+
+Deadlines are at **11:59 pm AOE**
+
+### Workshop submissions
+CMCL receives submissions basically through OpenReview direct submission site: [https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/CMCL](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/CMCL)
+
+In addition to this, we also receive papers already reviewed in ACL Rolling Review (ARR) February or earlier; their acceptance to CMCL will be decided upon the ARR reviews.
+
+ARR page: [https://openreview.net/group?id=aclweb.org/ACL/ARR](https://openreview.net/group?id=aclweb.org/ACL/ARR)
+
+Commitment page:[https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/CMCL_ARR_Commitment](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/CMCL_ARR_Commitment)
+
+### Submission types
+We invite three types of submissions:
+1. Archival regular workshop submissions that present original research in either long (8 pages + references) or short (4 pages + references) paper format.
+2. Non-archival submissions of an extended abstracts that present preliminary results (from 2 to 4 pages + references).
+3. Non-archival cross-submission of long/short papers that present relevant research submitted/published elsewhere (including ACL "Findings of..." papers).
+
+Please remember that:
+- Only regular workshop papers via (1) will be included in the proceedings, but all the types of papers will have a presentation opportunity in the workshop.
+- Submissions must be formatted using the ACL style template ([https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)) and submitted via a PDF file.
+- We follow the ACL anonymity policy: [https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy](https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy)
+- This year we don't host a shared task.
+
+### Workshop Organizers
+Tatsuki Kuribayashi (MBZUAI, [tatsuki.kuribayashi@mbzuai.ac.ae](mailto:tatsuki.kuribayashi@mbzuai.ac.ae))
+
+Giulia Rambelli (University of Bologna, [giulia.rambelli4@unibo.it](mailto:giulia.rambelli4@unibo.it))
+
+Ece Takmaz (University of Amsterdam, [ece.takmaz@uva.nl](mailto:ece.takmaz@uva.nl))
+
+Philipp Wicke (Ludwig Maximilian University LMU, [pwicke@cis.lmu.de](mailto:pwicke@cis.lmu.de))
+
+Yohei Oseki (University of Tokyo, [oseki@g.ecc.u-tokyo.ac.jp](mailto:oseki@g.ecc.u-tokyo.ac.jp))
+
+### Sponsoring Institutions*
+Japan Society for the Promotion of Science
+
+### Contact
+[cmclorganizers2024@gmail.com](mailto:cmclorganizers2024@gmail.com)
+
+
+<!-- ## Workshop Submissions
 
 We accept three categories of papers: regular workshop papers, extended abstracts and cross-submissions. Only regular workshop papers will be included in the proceedings as archival publications. All submissions should be in PDF format: https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/CMCL.
 To facilitate double-blind reviewing, submitted manuscripts should not include any identifying information about the authors. Submissions with associated preprints (e.g. arXiv) will be considered. Submissions must be formatted using ACL 2022 templates, available at: https://aclrollingreview.org/cfp.
@@ -105,5 +162,6 @@ Laboratoire Parole et Langage, CNRS, France
 
 ## Contact Email
 
-[cmclorganizers2022@gmail.com](mailto:cmclorganizers2022@gmail.com)--->
+[cmclorganizers2022@gmail.com](mailto:cmclorganizers2022@gmail.com)
 
+-->
