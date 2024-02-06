@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CMCL – First Call for Papers
+title: Call for Papers
 permalink: /CfP
 order: 1
 ---

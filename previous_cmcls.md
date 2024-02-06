@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Previous CMCLs
+title: Past CMCLs
 permalink: /previous_cmcls
 order: 4
 ---

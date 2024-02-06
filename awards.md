@@ -2,7 +2,7 @@
 layout: page
 title: Awards
 permalink: /awards
-order: 3
+order: 2
 ---
 
 # Awards
