@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "About submission and ARR"
+date:   2024-2-28 1:38:12 +0200
+---
+We created a schema that should help authors that submitted their paper through ARR cycle!
+
+
+![ARR submission](ARR.png){:class="img-responsive"}
+
+We also updated the [Call of Papers](https://cmclorg.github.io/CfP) with this image. 
+
+
+For any other question, please contact us at [cmclorganizers2024@gmail.com](mailto:cmclorganizers2024@gmail.com)
+
+

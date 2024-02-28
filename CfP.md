@@ -74,6 +74,9 @@ ARR: [https://openreview.net/group?id=aclweb.org/ACL/ARR](https://openreview.net
 
 Commitment page:[https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/CMCL_ARR_Commitment](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/CMCL_ARR_Commitment)
 
+You can find below a schema about submission and ARR cycle.
+![ARR submission](ARR.png){:class="img-responsive"}
+
 ### Submission types
 We invite three types of submissions: 
 
