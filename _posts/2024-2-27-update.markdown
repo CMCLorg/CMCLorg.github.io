@@ -8,7 +8,7 @@ We created a schema that should help authors that submitted their paper through 
 
 ![ARR submission](ARR.png){:class="img-responsive"}
 
-We also updated the [Call of Papers](https://cmclorg.github.io/CfP) with this image. 
+We also updated the [Call for Papers](https://cmclorg.github.io/CfP) with this image. 
 
 
 For any other question, please contact us at [cmclorganizers2024@gmail.com](mailto:cmclorganizers2024@gmail.com)
