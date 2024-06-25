@@ -61,8 +61,8 @@ We are pleased to announce the following invited speakers for the 2024 edition:
 
 ### Important Dates
 - ~~May 17~~ **May 31, 2024**: Paper submission/commitment deadline (**extended**)
-- ~~June 17~~ **June 25, 2024**: Notification of acceptance (**extended**)
-- July 1, 2024: Camera-ready paper due
+- ~~June 17~~ **June 26, 2024**: Notification of acceptance (**extended**)
+- ~~July 1~~ **July 4, 2024**: Camera-ready paper due (**extended**)
 - August 15, 2024: Workshop dates
 
 
