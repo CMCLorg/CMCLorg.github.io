@@ -94,6 +94,8 @@ We invite three types of submissions:
 - We adhere to the ACL anonymity policy: [https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy](https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy)
 - This year we don't host a shared task.
 
+Final versions of accepted papers will be given **one additional page of content** (up to 9 pages for long papers, up to 5 pages for short papers) to address reviewers’ comments.
+
 ### Workshop Organizers
 Tatsuki Kuribayashi (MBZUAI, [tatsuki.kuribayashi@mbzuai.ac.ae](mailto:tatsuki.kuribayashi@mbzuai.ac.ae))
 
