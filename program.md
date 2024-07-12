@@ -56,21 +56,21 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - 7 *Locally Biased Transformers Better Align with Human Reading Times*. Andrea Gregor de Varda, Marco Marelli (archival)
 - 9 *The Curious Case of Representational Alignment: Unravelling Visio-Linguistic Tasks in Emergent Communication*. Tom Kouwenhoven, Max Peeperkorn, Bram Van Dijk, Tessa Verhoef (archival)
 - 19 *Structural Similarities Between Language Models and Neural Response Measurements*. Antonia Karamolegkou, Jiaang Li, Yova Kementchedjhieva, Mostafa Abdou, Sune Lehmann, Anders Søgaard  (Neurips 2023 NeurReps Workshop)
-- 23 *PhonologyBench: Evaluating Phonological Skills of Large Language Models*. Ashima Suvarna 
+- 23 *PhonologyBench: Evaluating Phonological Skills of Large Language Models*. Ashima Suvarna  (non-archival)
 - 24 *Exploring Spatial Schema Intuitions in Large Language and Vision Models*. Philipp Wicke, Lennart Wachowiak (Findings of ACL 2024)
 - 25 *Evaluating Lexical Aspect with Large Language Models*. Bolei Ma (archival) 
-- 30 *Can You Learn Semantics Through Next-Word Prediction? The Case of Entailment*. William Merrill, Zhaofeng Wu, Norihito Naka, Yoon Kim, Tal Linzen
+- 30 *Can You Learn Semantics Through Next-Word Prediction? The Case of Entailment*. William Merrill, Zhaofeng Wu, Norihito Naka, Yoon Kim, Tal Linzen (Findings of ACL 2024)
 - 33 *So many design choices: Improving and interpreting neural agent communication in signaling games*. Timothée Bernard, Timothee Mickus (Findings of ACL 2023)
 - 34 *The Emergence of High-Level Semantics in a Signaling Game*. Timothée Bernard, Timothee Mickus, Hiroya Takamura  (in SEM 2024)
 - 35 *Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test*. Dang Thi Thao Anh, Limor Raviv, Lukas Galke (archival)
 - 42 *Evaluating Semantic Relations in Predicting Textual Labels for Images of Abstract and Concrete Concepts*. Tarun Tater, Sabine Schulte im Walde, Diego Frassinelli (archival)
 - 46 *How Useful is Context, Actually? Comparing LLMs and Humans on Discourse Marker Prediction*. Emily Sadlier-Brown, Millie Lou, Miikka Silfverberg, Carla L. Hudson Kam (archival)
 - 49 *LLMs’ morphological analyses of complex FST-generated Finnish words*. Anssi Moisio, Mathias Creutz, Mikko Kurimo (archival)
-- 53 *PUB: A Pragmatics Understanding Benchmark for Assessing LLMs’ Pragmatics Capabilities*. Settaluri Lakshmi Sravanthi, Meet Doshi, Pavan Kalyan Tankala, Rudra Murthy, Raj Dabre, Pushpak Bhattacharyya 
+- 53 *PUB: A Pragmatics Understanding Benchmark for Assessing LLMs’ Pragmatics Capabilities*. Settaluri Lakshmi Sravanthi, Meet Doshi, Pavan Kalyan Tankala, Rudra Murthy, Raj Dabre, Pushpak Bhattacharyya (Findings of ACL 2024)
 - ARR4 *An Eye Opener Regarding Task-Based Text Gradient Saliency*. Guojun Wu, Lena Sophia Bolliger, David Robert Reich, Lena Ann Jäger (archival)
 - ARR6 *Improving Language Models for Emotion Analysis: Insights from Cognitive Science*. Constant Bonard, Gustave Cortal (archival)
 	
-**17:20 - 18:00	Invited Speaker 3: Dr. Franck Keller**
+**17:20 - 18:00	Invited Speaker 3: Dr. Frank Keller**
 	
 **18:00 - 18:10	Closing Remarks**
 
