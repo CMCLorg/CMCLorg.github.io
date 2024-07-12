@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CMCL Program is our!"
+title:  "CMCL Program is out!"
 date:   2024-7-12 00:00:12 +0200
 ---
 The program of CMCL is available [here](https://cmclorg.github.io/program).
