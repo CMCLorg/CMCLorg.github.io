@@ -2,7 +2,7 @@
 layout: page
 title: Program
 permalink: /program
-order: 6
+order: 2
 ---
 
 # Cognitive Modeling and Computational Linguistics (CMCL) 2024
@@ -27,6 +27,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 
 **11:00 - 12:50 Session 2 (Poster Session)**
 - 3 *BAMBINO-LM: (Bilingual-)Human-Inspired Continual Pre-training of BabyLM*. Zhewen Shen, Aditya Joshi, Ruey-Cheng Chen (archival)
+- 9 *The Curious Case of Representational Alignment: Unravelling Visio-Linguistic Tasks in Emergent Communication*. Tom Kouwenhoven, Max Peeperkorn, Bram Van Dijk, Tessa Verhoef (archival)
 - 10 *Modeling Overregularization in Children with Small Language Models*. Akari Haga, Saku Sugawara, Akiyo Fukatsu, Miyu Oba, Hiroki Ouchi, Taro Watanabe, Yohei Oseki (Findings of ACL 2024)
 - 14 *Language models’ probability distributions are calibrated to cognitive profiles: An investigation of the predictive power of surprisal and entropy*. Patrick Haller, Lena Sophia Bolliger, Lena Ann Jäger (Findings of ACL 2024)
 - 16 *What Makes Language Models Good-enough?*. Daiki Asami, Saku Sugawara (Findings of ACL 2024)
@@ -37,8 +38,6 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - 26 *How Much Does Non-verbal Communication Conform to Entropy Rate Constancy?: A Case Study on Listener Gaze in Interaction*. Yu Wang, Yang Xu, Gabriel Skantze, Hendrik Buschmeier (Findings of ACL 2024)
 - 27 *Daily auditory environments in French-speaking infants: A longitudinal dataset*. Estelle Hervé, Clément François, Laurent Prevot (archival)
 - 28 *VerbCLIP: Improving Verb Understanding in Vision-Language Models with Compositional Structures*. Hadi Wazni, Kin Ian Lo, Mehrnoosh Sadrzadeh (non-archival)
-- 29 *Analysing and Validating Language Complexity Metrics Across South American Indigenous Languages*. Felipe Ribas Serras, Miguel de Mello Carpi, Matheus Castello Branco, Marcelo Finger (archival)
-- 37 *Evaluating Grammatical Well-Formedness in Large Language Models: A Comparative Study with Human Judgments*. Zhuang Qiu, Xufeng Duan, Zhenguang Cai (archival)
 - 40 *What does Kiki look like? Cross-modal associations between speech sounds and visual shapes in vision-and-language models*. Tessa Verhoef, Kiana Shahrasbi, Tom Kouwenhoven (archival)
 
 **12:50 - 14:00 Lunch**
@@ -54,15 +53,15 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 
 **16:00 - 17:20	Session 4 (Poster Session)**
 - 7 *Locally Biased Transformers Better Align with Human Reading Times*. Andrea Gregor de Varda, Marco Marelli (archival)
-- 9 *The Curious Case of Representational Alignment: Unravelling Visio-Linguistic Tasks in Emergent Communication*. Tom Kouwenhoven, Max Peeperkorn, Bram Van Dijk, Tessa Verhoef (archival)
 - 19 *Structural Similarities Between Language Models and Neural Response Measurements*. Antonia Karamolegkou, Jiaang Li, Yova Kementchedjhieva, Mostafa Abdou, Sune Lehmann, Anders Søgaard  (Neurips 2023 NeurReps Workshop)
-- 23 *PhonologyBench: Evaluating Phonological Skills of Large Language Models*. Ashima Suvarna  (non-archival)
 - 24 *Exploring Spatial Schema Intuitions in Large Language and Vision Models*. Philipp Wicke, Lennart Wachowiak (Findings of ACL 2024)
 - 25 *Evaluating Lexical Aspect with Large Language Models*. Bolei Ma (archival) 
+- 29 *Analysing and Validating Language Complexity Metrics Across South American Indigenous Languages*. Felipe Ribas Serras, Miguel de Mello Carpi, Matheus Castello Branco, Marcelo Finger (archival)
 - 30 *Can You Learn Semantics Through Next-Word Prediction? The Case of Entailment*. William Merrill, Zhaofeng Wu, Norihito Naka, Yoon Kim, Tal Linzen (Findings of ACL 2024)
 - 33 *So many design choices: Improving and interpreting neural agent communication in signaling games*. Timothée Bernard, Timothee Mickus (Findings of ACL 2023)
 - 34 *The Emergence of High-Level Semantics in a Signaling Game*. Timothée Bernard, Timothee Mickus, Hiroya Takamura  (in SEM 2024)
 - 35 *Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test*. Dang Thi Thao Anh, Limor Raviv, Lukas Galke (archival)
+- 37 *Evaluating Grammatical Well-Formedness in Large Language Models: A Comparative Study with Human Judgments*. Zhuang Qiu, Xufeng Duan, Zhenguang Cai (archival)
 - 42 *Evaluating Semantic Relations in Predicting Textual Labels for Images of Abstract and Concrete Concepts*. Tarun Tater, Sabine Schulte im Walde, Diego Frassinelli (archival)
 - 46 *How Useful is Context, Actually? Comparing LLMs and Humans on Discourse Marker Prediction*. Emily Sadlier-Brown, Millie Lou, Miikka Silfverberg, Carla L. Hudson Kam (archival)
 - 49 *LLMs’ morphological analyses of complex FST-generated Finnish words*. Anssi Moisio, Mathias Creutz, Mikko Kurimo (archival)
