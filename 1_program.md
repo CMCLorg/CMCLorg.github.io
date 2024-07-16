@@ -14,16 +14,16 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 
 **Thursday, August 15th, 2023, [Bangkok (UTC+07.00)](https://www.worldtimebuddy.com/?pl=1&lid=1609350&h=1609350&hf=0)**
 
-**09:00 - 09:10 Opening Remarks**
+**08:45 - 09:00 Opening Remarks**
 
-**09:15 - 09:50 Invited Speaker 1: Dr. Sandro Pezzelle**
+**09:00 - 09:40 Invited Speaker 1: Dr. Sandro Pezzelle**
 
-**9:50 - 10:50 Session 1 (Oral Presentations)**
+**9:40 - 10:40 Session 1 (Oral Presentations)**
 - 11 *Hierarchical syntactic structure in human-like language models*. Michael Wolfman, Donald Dunagan, Jonathan Brennan, John T. Hale (archival)
 - 8 *Do large language models resemble humans in language use?*. Zhenguang G. Cai, Xufeng Duan, David A. Haslett, Shuqi Wang, Martin J. Pickering (archival)
 - 4 *Evaluating Vision-Language Models on Bistable Images*. Artemis Panagopoulou, Coby Melkin, Chris Callison-Burch (archival) 
 
-**10:30 - 11:00 Coffee Break**
+**10:40 - 11:00 Coffee Break**
 
 **11:00 - 12:50 Session 2 (Poster Session)**
 - 3 *BAMBINO-LM: (Bilingual-)Human-Inspired Continual Pre-training of BabyLM*. Zhewen Shen, Aditya Joshi, Ruey-Cheng Chen (archival)

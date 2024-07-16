@@ -9,7 +9,8 @@ order: 5
 ## Registration details
 
 Please follow the instructions for conference registration provided on the [ACL 2024](https://2024.aclweb.org/registration) registration page. CMCL is a one-day workshop, with associated fees. The exact date is on August, 15th.
-<!---
+
+<!--
 Please follow the instructions for conference registration provided on the [ACL 2022](https://www.2022.aclweb.org/) registration page. CMCL is a one-day workshop, with associated fees. The exact date is still to be assigned.
 
 - Students and those attending the main conference pay less for CMCL registration.
@@ -20,4 +21,4 @@ Please follow the instructions for conference registration provided on the [ACL 
 
 For those needing a support letter to attend ACL 2022 or its workshops, please complete the following form: <b> TO BE ANNOUNCED </b>
 
---->
+-->
