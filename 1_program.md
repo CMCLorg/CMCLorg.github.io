@@ -25,7 +25,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 
 **10:40 - 11:00 Coffee Break**
 
-**11:00 - 12:50 Session 2 (Poster Session)**
+**11:00 - 12:20 Session 2 (Poster Session)**
 - 3 *BAMBINO-LM: (Bilingual-)Human-Inspired Continual Pre-training of BabyLM*. Zhewen Shen, Aditya Joshi, Ruey-Cheng Chen (archival)
 - 9 *The Curious Case of Representational Alignment: Unravelling Visio-Linguistic Tasks in Emergent Communication*. Tom Kouwenhoven, Max Peeperkorn, Bram Van Dijk, Tessa Verhoef (archival)
 - 10 *Modeling Overregularization in Children with Small Language Models*. Akari Haga, Saku Sugawara, Akiyo Fukatsu, Miyu Oba, Hiroki Ouchi, Taro Watanabe, Yohei Oseki (Findings of ACL 2024)
@@ -39,15 +39,16 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - 27 *Daily auditory environments in French-speaking infants: A longitudinal dataset*. Estelle Hervé, Clément François, Laurent Prevot (archival)
 - 28 *VerbCLIP: Improving Verb Understanding in Vision-Language Models with Compositional Structures*. Hadi Wazni, Kin Ian Lo, Mehrnoosh Sadrzadeh (non-archival)
 - 40 *What does Kiki look like? Cross-modal associations between speech sounds and visual shapes in vision-and-language models*. Tessa Verhoef, Kiana Shahrasbi, Tom Kouwenhoven (archival)
+- 46 *How Useful is Context, Actually? Comparing LLMs and Humans on Discourse Marker Prediction*. Emily Sadlier-Brown, Millie Lou, Miikka Silfverberg, Carla L. Hudson Kam (archival)
 
-**12:50 - 14:00 Lunch**
+**12:20 - 14:00 Lunch**
 
 **14:00 - 15:00 Session 3 (Oral Presentations)**
 - 18 *Large language models fail to derive atypicality inferences in a human-like manner*. Charlotte Kurch, Margarita Ryzhova, Vera Demberg (archival)
 - 45 *Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan*. Ellis Cain, Rachel Ryskin (archival)
 - 32 *How can large language models become more human?*. Daphne Wang, Mehrnoosh Sadrzadeh, Miloš Stanojević, Wing-Yee Chow, Richard Breheny (archival)
 
-**15:00 - 15:40 Invited Speaker 2: Dr. Aida Nematzadeh**
+**15:00 - 15:40 Invited Speaker 2: Prof. Frank Keller**
 
 **15:40 - 16:00 Coffee Break**
 
@@ -63,13 +64,12 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - 35 *Morphology Matters: Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test*. Dang Thi Thao Anh, Limor Raviv, Lukas Galke (archival)
 - 37 *Evaluating Grammatical Well-Formedness in Large Language Models: A Comparative Study with Human Judgments*. Zhuang Qiu, Xufeng Duan, Zhenguang Cai (archival)
 - 42 *Evaluating Semantic Relations in Predicting Textual Labels for Images of Abstract and Concrete Concepts*. Tarun Tater, Sabine Schulte im Walde, Diego Frassinelli (archival)
-- 46 *How Useful is Context, Actually? Comparing LLMs and Humans on Discourse Marker Prediction*. Emily Sadlier-Brown, Millie Lou, Miikka Silfverberg, Carla L. Hudson Kam (archival)
 - 49 *LLMs’ morphological analyses of complex FST-generated Finnish words*. Anssi Moisio, Mathias Creutz, Mikko Kurimo (archival)
 - 53 *PUB: A Pragmatics Understanding Benchmark for Assessing LLMs’ Pragmatics Capabilities*. Settaluri Lakshmi Sravanthi, Meet Doshi, Pavan Kalyan Tankala, Rudra Murthy, Raj Dabre, Pushpak Bhattacharyya (Findings of ACL 2024)
 - ARR4 *An Eye Opener Regarding Task-Based Text Gradient Saliency*. Guojun Wu, Lena Sophia Bolliger, David Robert Reich, Lena Ann Jäger (archival)
 - ARR6 *Improving Language Models for Emotion Analysis: Insights from Cognitive Science*. Constant Bonard, Gustave Cortal (archival)
 	
-**17:20 - 18:00	Invited Speaker 3: Dr. Frank Keller**
+**17:20 - 18:00	Invited Speaker 3: Dr. Aida Nematzadeh**
 	
 **18:00 - 18:10	Closing Remarks**
 
