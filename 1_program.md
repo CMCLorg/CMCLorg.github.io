@@ -16,7 +16,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 
 **08:45 - 09:00 Opening Remarks**
 
-**09:00 - 09:40 Invited Speaker 1: Dr. Sandro Pezzelle**
+**09:00 - 09:40 Invited Speaker 1: Sandro Pezzelle**
 
 **9:40 - 10:40 Session 1 (Oral Presentations)**
 - 11 *Hierarchical syntactic structure in human-like language models*. Michael Wolfman, Donald Dunagan, Jonathan Brennan, John T. Hale (archival)
@@ -48,7 +48,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - 45 *Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan*. Ellis Cain, Rachel Ryskin (archival)
 - 32 *How can large language models become more human?*. Daphne Wang, Mehrnoosh Sadrzadeh, Miloš Stanojević, Wing-Yee Chow, Richard Breheny (archival)
 
-**15:00 - 15:40 Invited Speaker 2: Dr. Frank Keller**
+**15:00 - 15:40 Invited Speaker 2: Frank Keller**
 
 **15:40 - 16:00 Coffee Break**
 
@@ -69,7 +69,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - ARR4 *An Eye Opener Regarding Task-Based Text Gradient Saliency*. Guojun Wu, Lena Sophia Bolliger, David Robert Reich, Lena Ann Jäger (archival)
 - ARR6 *Improving Language Models for Emotion Analysis: Insights from Cognitive Science*. Constant Bonard, Gustave Cortal (archival)
 	
-**17:20 - 18:00	Invited Speaker 3: Dr. Aida Nematzadeh**
+**17:20 - 18:00	Invited Speaker 3: Aida Nematzadeh**
 	
 **18:00 - 18:10	Closing Remarks**
 

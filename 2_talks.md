@@ -7,7 +7,7 @@ order: 9
 
 ## Invited Speakers
 
-### Invited Speaker 1: Dr. Sandro Pezzelle
+### Invited Speaker 1: Sandro Pezzelle
 Title: TBA\\
 Abstract: TBA\\
 Bio: Sandro Pezzelle ([https://sandropezzelle.github.io/](https://sandropezzelle.github.io/)) is an Assistant Professor in Responsible AI at the ILLC, Faculty of Science, University of Amsterdam.
@@ -17,7 +17,7 @@ Bio: Sandro Pezzelle ([https://sandropezzelle.github.io/](https://sandropezzelle
 
 
 <!--![](/assets/img/PW.jpeg){: style="float: left; margin-right: 1em;"}-->
-### Invited Speaker 2: Dr. Frank Keller
+### Invited Speaker 2: Frank Keller
 Title: **Predicting Human Sentence Production across Modalities and Languages**\\
 Joint work with Moreno I. Coco, Eunice G. Fernandes, and Manabu Arai
 
@@ -69,7 +69,7 @@ and vision.
 <b>Frank Keller</b> ([https://homepages.inf.ed.ac.uk/keller/](https://homepages.inf.ed.ac.uk/keller/)) is a professor in the School of Informatics at the University of Edinburgh.
 {:style="clear: left"}
 
-### Invited Speaker 3: Dr. Aida Nematzadeh
+### Invited Speaker 3: Aida Nematzadeh
 Title: TBA\\
 Abstract: TBA\\
 Bio: Aida Nematzadeh ([http://www.aidanematzadeh.me/](http://www.aidanematzadeh.me/)) is a research scientist at DeepMind.
