@@ -17,7 +17,7 @@ Bio: Sandro Pezzelle ([https://sandropezzelle.github.io/](https://sandropezzelle
 
 
 <!--![](/assets/img/PW.jpeg){: style="float: left; margin-right: 1em;"}-->
-### Invited Speaker 2: Prof. Frank Keller
+### Invited Speaker 2: Dr. Frank Keller
 Title: **Predicting Human Sentence Production across Modalities and Languages**\\
 Joint work with Moreno I. Coco, Eunice G. Fernandes, and Manabu Arai
 

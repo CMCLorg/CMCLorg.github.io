@@ -12,7 +12,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 
 ## Programme
 
-**Thursday, August 15th, 2023, [Bangkok (UTC+07.00)](https://www.worldtimebuddy.com/?pl=1&lid=1609350&h=1609350&hf=0)**
+**Thursday, August 15th, 2024, [Bangkok (UTC+07.00)](https://www.worldtimebuddy.com/?pl=1&lid=1609350&h=1609350&hf=0)**
 
 **08:45 - 09:00 Opening Remarks**
 
@@ -48,7 +48,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - 45 *Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan*. Ellis Cain, Rachel Ryskin (archival)
 - 32 *How can large language models become more human?*. Daphne Wang, Mehrnoosh Sadrzadeh, Miloš Stanojević, Wing-Yee Chow, Richard Breheny (archival)
 
-**15:00 - 15:40 Invited Speaker 2: Prof. Frank Keller**
+**15:00 - 15:40 Invited Speaker 2: Dr. Frank Keller**
 
 **15:40 - 16:00 Coffee Break**
 
