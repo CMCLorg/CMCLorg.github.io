@@ -17,8 +17,10 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 **08:45 - 09:00 Opening Remarks**
 
 **09:00 - 09:40 Invited Speaker 1: Sandro Pezzelle**
+Chair: Tatsuki Kuribayashi
 
-**9:40 - 10:40 Session 1 (Oral Presentations)**
+**9:40 - 10:40 Session 1 (Oral Presentations)** 
+Chair: Giulia Rambelli
 - 11 *Hierarchical syntactic structure in human-like language models*. Michael Wolfman, Donald Dunagan, Jonathan Brennan, John T. Hale (archival)
 - 8 *Do large language models resemble humans in language use?*. Zhenguang G. Cai, Xufeng Duan, David A. Haslett, Shuqi Wang, Martin J. Pickering (archival)
 - 4 *Evaluating Vision-Language Models on Bistable Images*. Artemis Panagopoulou, Coby Melkin, Chris Callison-Burch (archival) 
@@ -44,12 +46,13 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 **12:20 - 14:00 Lunch**
 
 **14:00 - 15:00 Session 3 (Oral Presentations)**
+Chair: Giulia Rambelli
 - 18 *Large language models fail to derive atypicality inferences in a human-like manner*. Charlotte Kurch, Margarita Ryzhova, Vera Demberg (archival)
 - 45 *Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan*. Ellis Cain, Rachel Ryskin (archival)
 - 32 *How can large language models become more human?*. Daphne Wang, Mehrnoosh Sadrzadeh, Miloš Stanojević, Wing-Yee Chow, Richard Breheny (archival)
 
 **15:00 - 15:40 Invited Speaker 2: Frank Keller**
-
+Chair: Yohei Oseki
 **15:40 - 16:00 Coffee Break**
 
 **16:00 - 17:20	Session 4 (Poster Session)**
@@ -70,6 +73,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - ARR6 *Improving Language Models for Emotion Analysis: Insights from Cognitive Science*. Constant Bonard, Gustave Cortal (archival)
 	
 **17:20 - 18:00	Invited Speaker 3: Aida Nematzadeh**
+Chair: Yohei Oseki
 	
 **18:00 - 18:10	Closing Remarks**
 

@@ -111,7 +111,7 @@ Yohei Oseki (University of Tokyo, [oseki@g.ecc.u-tokyo.ac.jp](mailto:oseki@g.ecc
 [https://cmclorg.github.io/](https://cmclorg.github.io/)
 
 ### Sponsoring Institutions
-This workshop is supported by JST, PRESTO Grant Number JPMJPR21C2.
+This workshop was supported by JSPS KAKENHI Grant Number JP24H00087.
 
 ### Contact
 [cmclorganizers2024@gmail.com](mailto:cmclorganizers2024@gmail.com)
