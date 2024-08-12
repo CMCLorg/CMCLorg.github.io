@@ -69,7 +69,7 @@ CMCL 2024 will have both oral presentations and poster presentations. The comple
 - ARR4 *An Eye Opener Regarding Task-Based Text Gradient Saliency*. Guojun Wu, Lena Sophia Bolliger, David Robert Reich, Lena Ann Jäger (archival)
 - ARR6 *Improving Language Models for Emotion Analysis: Insights from Cognitive Science*. Constant Bonard, Gustave Cortal (archival)
 	
-**17:20 - 18:00	Invited Speaker 3: Aida Nematzadeh** (chair: Yohei Oseki)
+**17:20 - 18:00	Invited Speaker 3: Aida Nematzadeh** (chair: Jixing Li)
 	
 **18:00 - 18:10	Closing Remarks**
 
