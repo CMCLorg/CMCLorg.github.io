@@ -72,7 +72,30 @@ and vision.
 {:style="clear: left"}
 
 ### Invited Speaker 3: Aida Nematzadeh
-Title: TBA\\
-Abstract: TBA\\
-Bio: Aida Nematzadeh ([http://www.aidanematzadeh.me/](http://www.aidanematzadeh.me/)) is a research scientist at DeepMind.
+Title: **Leveraging Cognitive Science to Unravel the Complexities of
+Generative Models**
+
+Abstract: Recent generative models have demonstrated remarkable
+capabilities, from solving intricate reasoning problems to creating
+highly realistic images. However, as these models grow more complex,
+evaluating them presents increasing challenges—particularly since we
+often have access only to their outputs, not the underlying
+mechanisms. This predicament mirrors a challenge faced by cognitive
+scientists: understanding human cognition by observing behavior
+without direct access to the “cognitive model” itself. In this talk, I
+will explore how principles from cognitive science can illuminate the
+evaluation of generative models. I will discuss how cognitive science
+approaches, such as experimental design in human data collection,
+probing for specific capabilities, and developing automated evaluation
+metrics, can offer valuable insights into understanding and assessing
+these advanced models.
+
+Bio: Aida Nematzadeh ([http://www.aidanematzadeh.me/](http://www.aidanematzadeh.me/)) is a Research Scientist at DeepMind, where she
+explores the intersection of computational linguistics, cognitive
+science, and machine learning. Her recent work focuses on multimodal
+learning, as well as the evaluation and analysis of neural
+representations. Prior to joining DeepMind, Aida was a postdoctoral
+researcher at UC Berkeley. She holds a PhD and an MSc in Computer
+Science from the University of Toronto.
+
 
