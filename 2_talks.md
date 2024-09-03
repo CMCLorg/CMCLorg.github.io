@@ -22,6 +22,7 @@ Bio: Sandro Pezzelle ([https://sandropezzelle.github.io/](https://sandropezzelle
 ### Invited Speaker 2: Frank Keller
 Title: **Predicting Human Sentence Production across Modalities and Languages**\\
 Joint work with Moreno I. Coco, Eunice G. Fernandes, and Manabu Arai
+
 Slides: you can [get the PDF]({{ site.url }}/assets/cmcl_slides_keller.pdf) here.
 
 
@@ -77,7 +78,7 @@ and vision.
 Title: **Leveraging Cognitive Science to Unravel the Complexities of
 Generative Models**
 
-Slides: you can [get the PDF]({{ site.url }}/assets/_[CMCL 2024] Leveraging Cognitive Science to Unravel the Complexities of Generative Models.pdf) here
+Slides: you can [get the PDF]({{ site.url }}/assets/CMCL2024_Leveraging_Cognitive_Science_to_Unravel_the_Complexities_of_Generative_Models.pdf) here
 
 Abstract: Recent generative models have demonstrated remarkable
 capabilities, from solving intricate reasoning problems to creating
