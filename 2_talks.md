@@ -22,6 +22,8 @@ Bio: Sandro Pezzelle ([https://sandropezzelle.github.io/](https://sandropezzelle
 ### Invited Speaker 2: Frank Keller
 Title: **Predicting Human Sentence Production across Modalities and Languages**\\
 Joint work with Moreno I. Coco, Eunice G. Fernandes, and Manabu Arai
+Slides: you can [get the PDF]({{ site.url }}/assets/cmcl_slides_keller.pdf) here.
+
 
 Abstract: Human cognition is a highly integrated system which synchronizes
 processes and representations across modalities. Previous research on
@@ -74,6 +76,8 @@ and vision.
 ### Invited Speaker 3: Aida Nematzadeh
 Title: **Leveraging Cognitive Science to Unravel the Complexities of
 Generative Models**
+
+Slides: you can [get the PDF]({{ site.url }}/assets/_[CMCL 2024] Leveraging Cognitive Science to Unravel the Complexities of Generative Models.pdf) here
 
 Abstract: Recent generative models have demonstrated remarkable
 capabilities, from solving intricate reasoning problems to creating
