@@ -32,7 +32,7 @@ e-mail: [ece.takmaz@uva.nl](mailto:ece.takmaz@uva.nl)
 {:style="clear: left"}
 e-mail: [pwicke@cis.lmu.de](mailto:pwicke@cis.lmu.de)
 
-<!--![](/assets/img/PW.jpeg){: style="float: left; margin-right: 1em; width=100px;"} -->
+![](/assets/img/yohei.jpeg){: style="float: left; margin-right: 1em; width=100px;"}
 <b>Yohei Oseki (University of Tokyo)</b> is an Assistant Professor in the Department of Language and Information Sciences at the University of Tokyo and a visiting scholar at RIKEN Center for Advanced Intelligence Project (AIP). Before joining University of Tokyo, he received a Ph.D. from the Department of Linguistics at New York University in 2018 and was a visiting scholar at the Department of Linguistics at the University of Massachusetts Amherst and the Cold Spring Harbor Laboratory. His research integrates natural language processing with the cognitive and brain sciences of language and attempts to build machines that process natural language like humans. He founded Computational Psycholinguistics Tokyo (CPT) and also organized various workshops on computational psycholinguistics and cognitive neuroscience.
 {:style="clear: left"}
 e-mail: [oseki@g.ecc.u-tokyo.ac.jp](mailto:oseki@g.ecc.u-tokyo.ac.jp)
