@@ -5,7 +5,7 @@ title: Organizers
 permalink: /organizers
 ---
 
-## Organizing Committee
+## Organizing Committee Members
 
 ![](/assets/img/TK.jpeg){: style="float: left; margin-right: 1em; height: auto;  max-width: 100%;"}
 <b>Tatsuki Kuribayashi (MBZUAI, [kuribayashi4.github.io](https://kuribayashi4.github.io/))</b> is a postdoctoral researcher in the natural language processing (NLP) department at [MBZUAI](https://mbzuai.ac.ae/) in the United Arab Emirates.
