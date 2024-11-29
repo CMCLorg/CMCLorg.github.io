@@ -5,9 +5,9 @@ permalink: /CfP
 order: 1
 ---
 
-## The 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2024)
+### The 14th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2025)
 
-CMCL 2024 will be co-located with the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
+CMCL 2025 will be co-located with [NAACL 2025](https://2025.naacl.org/) on May 3 or 4, 2025 (Albuquerque, New Mexico).
 
 
 <!--
@@ -21,7 +21,7 @@ Co-located with ACL 2024 in Bankok, Thailand.
 For info:
 - [https://cmclorg.github.io](https://cmclorg.github.io)
 - [cmclorganizers2024@gmail.com](mailto:cmclorganizers2024@gmail.com)
--->
+
 
 ### Workshop Description
 CMCL 2024 is a one-day workshop held in conjunction with ACL 2024. CMCL invites papers on cognitive modeling, cognitively-inspired natural language processing, and, more broadly, the alignment of language models with human cognition/perception. The 2024 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019, EMNLP 2020, NAACL 2021, and ACL 2022.
@@ -115,7 +115,7 @@ This workshop was supported by JSPS KAKENHI Grant Number JP24H00087.
 
 ### Contact
 [cmclorganizers2024@gmail.com](mailto:cmclorganizers2024@gmail.com)
-
+-->
 
 <!-- ## Workshop Submissions
 

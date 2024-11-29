@@ -5,12 +5,14 @@ permalink: /previous_cmcls
 order: 4
 ---
 
-CMCL 2024 is the 13th edition of this workshop.
+CMCL 2025 is the 14th edition of this workshop.
 
 
 Previous editions:
 
-CMCL 2022<!---(https://cmclorg.github.io/2021/)---> (ACL - Dublin, Ireland): [Proceeedings](https://aclanthology.org/volumes/2021.cmcl-1/)
+CMCL 2024<!---(https://cmclorg.github.io/2022/)---> (ACL - Bangkok, Thailand ): [Proceeedings](https://aclanthology.org/volumes/2024.cmcl-1/)
+
+CMCL 2022<!---(https://cmclorg.github.io/2022/)---> (ACL - Dublin, Ireland): [Proceeedings](https://aclanthology.org/volumes/2021.cmcl-1/)
 
 CMCL 2021<!---(https://cmclorg.github.io/2021/)---> (NAACL - online): [Proceeedings](https://aclanthology.org/volumes/2021.cmcl-1/)
 

@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CMCL 2024
+title: CMCL 2025
 description: > # this means to ignore newlines until "baseurl:"
-    The 2024 Cognitive Modeling and Computational Linguistics workshop.
+    The 2025 Cognitive Modeling and Computational Linguistics workshop.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cmclorg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -26,6 +26,7 @@ gems:
   - jekyll-feed
 
 # Exclude from processing.
+
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:

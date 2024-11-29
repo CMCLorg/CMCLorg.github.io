@@ -5,54 +5,39 @@ title: Organizers
 permalink: /organizers
 ---
 
-## Organizing Committee
-
 ![](/assets/img/TK.jpeg){: style="float: left; margin-right: 1em; height: auto;  max-width: 100%;"}
 <b>Tatsuki Kuribayashi (MBZUAI, [kuribayashi4.github.io](https://kuribayashi4.github.io/))</b> is a postdoctoral researcher in the natural language processing (NLP) department at [MBZUAI](https://mbzuai.ac.ae/) in the United Arab Emirates.
-He received his Ph.D. from Tohoku University, Japan.
-His research interest is utilizing modern NLP techniques to understand humans and languages scientifically. His studies especially focus on modeling human reading behavioral data with modern language models, exploring the factors accelerating linguistic generalization of language models, and analyzing NLP models from linguistic and/or neuro-symbolic perspectives.
+He received his Ph.D. from Tohoku University, Japan. His research interest is using modern NLP techniques to understand humans and languages, focusing on modeling human reading behavioral data with modern language models, exploring the factors accelerating linguistic generalization of language models, and analyzing NLP models from linguistic and/or neuro-symbolic perspectives.
 His involved research has won the AACL-IJCNLP 2022 SRW Best Paper Award and the ACL 2023 SRW Best Paper Award.
-
 {:style="clear: left"}
-e-mail: [tatsuki.kuribayashi@mbzuai.ac.ae](mailto:tatsuki.kuribayashi@mbzuai.ac.ae)
+<!--e-mail: [tatsuki.kuribayashi@mbzuai.ac.ae](mailto:tatsuki.kuribayashi@mbzuai.ac.ae)-->
+
 
 ![](/assets/img/GR.jpg){: style="float: left; margin-right: 1em;  height: auto;  max-width: 100%;"}
-<b>Giulia Rambelli (University of Bologna, [giuliarambelli.github.io](https://giuliarambelli.github.io/))</b> is a postdoctoral researcher for the [ABSTRACTION](https://abstraction.it/) project at the University of Bologna. She obtained a joint PhD degree in Linguistics from the University of Pisa (Italy) and Aix-Marseille University (France). Her research is at the intersection between theoretical linguistics, cognitive science, and machine learning. She is interested in the underlying mechanisms of sentence interpretation and productivity from a usage-based perspective. She investigates the balance between compositional and direct access to meaning and how the cognitive process of analogy can be represented as a source of linguistic productivity from a theoretical and computational perspective. Her papers have won international awards, including the Baidu AACL-IJCNLP Best Paper Award 2020, the Best Paper Award at \*SEM 2021, and the Outstanding Paper Award at MWE 2023.
+<b>Giulia Rambelli (University of Bologna, [giuliarambelli.github.io](https://giuliarambelli.github.io/))</b> is a postdoctoral researcher for the ERC-[ABSTRACTION](https://abstraction.it/) project at the University of Bologna. She obtained a joint PhD degree in Linguistics from the University of Pisa (Italy) and Aix-Marseille University (France). Her research is at the intersection between theoretical linguistics, cognitive science, and machine learning, with a focus on the underlying mechanisms of sentence interpretation and productivity from a usage-based perspective. Her papers have won international awards, including Baidu AACL-IJCNLP Best Paper Award 2020, Best Paper at \*SEM 2021, and Outstanding Paper at MWE 2023.
 {:style="clear: left"}
-e-mail: [giulia.rambelli4@unibo.it](mailto:giulia.rambelli4@unibo.it)
+<!--e-mail: [giulia.rambelli4@unibo.it](mailto:giulia.rambelli4@unibo.it)-->
 
 
 ![](/assets/img/ET.jpeg){: style="float: left; margin-right: 1em; height: auto;  max-width: 100%;"}
-<b>Ece Takmaz (University of Amsterdam, [https://ecekt.github.io](ecekt.github.io/))</b> is a final-year PhD candidate at the Institute for Logic, Language and Computation (ILLC), University of Amsterdam. She is part of the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) led by Raquel Fernández. She has a background in artificial intelligence and cognitive science. Her interests lie in multimodal NLP, in particular, the integration of vision and language in deep neural networks for tasks such as image captioning, visual question answering, and multimodal dialogue modelling. In addition, she works on incorporating cognitive signals such as eye-tracking data into multimodal models, inspired by the relation between visual and linguistic processes in human cognition. She was one of the co-chairs of the EACL 2021 Student Research Workshop.
+<b>Ece Takmaz (University of Amsterdam, [https://ecekt.github.io](ecekt.github.io/))</b> is a postdoctoral researcher in the NLP group in Utrecht. Previously, she was a PhD candidate at the University of Amsterdam, where she was part of the Dialogue Modelling Group. She has a background in artificial intelligence and cognitive science. Her interests lie in multimodal NLP, in particular, the integration of vision and language in deep neural networks for tasks such as image captioning and visually grounded dialogue modelling. In addition, she works on incorporating cognitive signals such as eye-tracking data into multimodal models. 
 {:style="clear: left"}
-e-mail: [ece.takmaz@uva.nl](mailto:ece.takmaz@uva.nl)
+<!--e-mail: [ece.takmaz@uva.nl](mailto:ece.takmaz@uva.nl)-->
 
 ![](/assets/img/PW.jpeg){: style="float: left; margin-right: 1em; height: auto;  max-width: 100%;"}
 <b>Philipp Wicke (Ludwig Maximilian University LMU, [phil-wicke.com](https://www.phil-wicke.com/))</b> is an Akadem. Rat (~ Assistant Professor) at the Center for Information and Language Processing at LMU, Munich. He is part of the NLP research group lead by Prof. Hinrich Schuetze. Wicke has a background in Cognitive Science and Computational Linguistics, completing his PhD at the University College Dublin, UCD under supervisor Prof. Tony Veale. His interests lie in the interdisciplinary connections of language, creativity, cognition and embodiment. Wicke is the Head of AI Applications at the NGO [AI for People](https://www.aiforpeople.org/) and associate member of the Munich Center of Machine Learning (MCML).
 {:style="clear: left"}
-e-mail: [pwicke@cis.lmu.de](mailto:pwicke@cis.lmu.de)
+<!--e-mail: [pwicke@cis.lmu.de](mailto:pwicke@cis.lmu.de)-->
 
-![](/assets/img/yohei.jpeg){: style="float: left; margin-right: 1em; width=100px;"}
-<b>Yohei Oseki (University of Tokyo)</b> is an Assistant Professor in the Department of Language and Information Sciences at the University of Tokyo and a visiting scholar at RIKEN Center for Advanced Intelligence Project (AIP). Before joining University of Tokyo, he received a Ph.D. from the Department of Linguistics at New York University in 2018 and was a visiting scholar at the Department of Linguistics at the University of Massachusetts Amherst and the Cold Spring Harbor Laboratory. His research integrates natural language processing with the cognitive and brain sciences of language and attempts to build machines that process natural language like humans. He founded Computational Psycholinguistics Tokyo (CPT) and also organized various workshops on computational psycholinguistics and cognitive neuroscience.
+![](/assets/img/JL.jpeg){: style="float: left; margin-right: 1em; height: auto;  max-width: 100%;"}
+<b>Jixing Li</b> (CityUHK, [jixing-li.github.io/](https://jixing-li.github.io/)) is an Assistant Professor at the Department of Linguistics and Translation at City University of Hong Kong. She received her PhD in Linguistics from Cornell in 2019 and completed her postdoctoral training at the Neuroscience of Language Lab at New York University Abu Dhabi. Her research applies computational models to understand language comprehension in the human brain, which spans multiple fields, including linguistics, psychology, cognitive neuroscience and natural language processing. Her work has been published in prestigious journals including eLife, Journal of Neuroscience, Imaging Neuroscience, Scientific Data, Brain and Language, among others.
 {:style="clear: left"}
-e-mail: [oseki@g.ecc.u-tokyo.ac.jp](mailto:oseki@g.ecc.u-tokyo.ac.jp)
+<!--e-mail: [jixingli@cityu.edu.hk](mailto:jixingli@cityu.edu.hk)-->
+
+![](/assets/img/BO.jpg){: style="float: left; margin-right: 1em; height: auto;  max-width: 100%;"}
+<b>Byung-Doh Oh</b> (New York University, [byungdoh.github.io](https://byungdoh.github.io/)) is a Faculty Fellow at the NYU Center for Data Science. He previously received his Ph.D. in Computational Linguistics from The Ohio State University. His research aims to advance our understanding of language processing in humans and machines by drawing on techniques from psycholinguistics and machine learning. He is particularly interested in developing computational models that capture the real-time processing behavior of human language users, and interpretability methods for studying the predictions and representations of neural networks.
 
 <!--
-- <b>Tatsuki Kuribayashi (MBZUAI, [tatsuki.kuribayashi@mbzuai.ac.ae](mailto:tatsuki.kuribayashi@mbzuai.ac.ae))</b> is a postdoctoral researcher in the natural language processing (NLP) department at [MBZUAI](https://mbzuai.ac.ae/) in the United Arab Emirates.
-He received his Ph.D. from Tohoku University, Japan.
-His research interest is utilizing modern NLP techniques to understand humans and languages scientifically. His studies especially focus on modeling human reading behavioral data with modern language models, exploring the factors accelerating linguistic generalization of language models, and analyzing NLP models from linguistic and/or neuro-symbolic perspectives.
-His involved research has won the AACL-IJCNLP 2022 SRW Best Paper Award and the ACL 2023 SRW Best Paper Award.
-
-- <b>Giulia Rambelli (University of Bologna, [giulia.rambelli4@unibo.it](mailto:giulia.rambelli4@unibo.it))</b> is a postdoctoral researcher for the [ABSTRACTION](https://abstraction.it/) project at the University of Bologna. She obtained a joint PhD degree in Linguistics from the University of Pisa (Italy) and Aix-Marseille University (France). Her research is at the intersection between theoretical linguistics, cognitive science, and machine learning. She is interested in the underlying mechanisms of sentence interpretation and productivity from a usage-based perspective. She investigates the balance between compositional and direct access to meaning and how the cognitive process of analogy can be represented as a source of linguistic productivity from a theoretical and computational perspective. Her papers have won international awards, including the Baidu AACL-IJCNLP Best Paper Award 2020, the Best Paper Award at \*SEM 2021, and the Outstanding Paper Award at MWE 2023.
-
-- <b>Ece Takmaz (University of Amsterdam, [ece.takmaz@uva.nl](mailto:ece.takmaz@uva.nl))</b> is a final-year PhD candidate at the Institute for Logic, Language and Computation (ILLC), University of Amsterdam. She is part of the [Dialogue Modelling Group](https://dmg-illc.github.io/dmg/) led by Raquel Fernández. She has a background in artificial intelligence and cognitive science. Her interests lie in multimodal NLP, in particular, the integration of vision and language in deep neural networks for tasks such as image captioning, visual question answering, and multimodal dialogue modelling. In addition, she works on incorporating cognitive signals such as eye-tracking data into multimodal models, inspired by the relation between visual and linguistic processes in human cognition. She was one of the co-chairs of the EACL 2021 Student Research Workshop.
-
-- <b>Philipp Wicke (Ludwig Maximilian University LMU, [pwicke@cis.lmu.de](mailto:pwicke@cis.lmu.de))</b> is an Akadem. Rat (~ Assistant Professor) at the Center for Information and Language Processing at LMU, Munich. He is part of the NLP research group lead by Prof. Hinrich Schuetze. Wicke has a background in Cognitive Science and Computational Linguistics, completing his PhD at the University College Dublin, UCD under supervisor Prof. Tony Veale. His interests lie in the interdisciplinary connections of language, creativity, cognition and embodiment. Wicke is the Head of AI Applications at the NGO [AI for People](https://www.aiforpeople.org/) and associate member of the Munich Center of Machine Learning (MCML).
-  
-- <b>Yohei Oseki (University of Tokyo, [oseki@g.ecc.u-tokyo.ac.jp](mailto:oseki@g.ecc.u-tokyo.ac.jp))</b> is an Assistant Professor in the Department of Language and Information Sciences at the University of Tokyo and a visiting scholar at RIKEN Center for Advanced Intelligence Project (AIP). Before joining University of Tokyo, he received a Ph.D. from the Department of Linguistics at New York University in 2018 and was a visiting scholar at the Department of Linguistics at the University of Massachusetts Amherst and the Cold Spring Harbor Laboratory. His research integrates natural language processing with the cognitive and brain sciences of language and attempts to build machines that process natural language like humans. He founded Computational Psycholinguistics Tokyo (CPT) and also organized various workshops on computational psycholinguistics and cognitive neuroscience.
-
--->
-
 ## Program committee 
 - Raquel G. Alhama, University of Amsterdam 
 - Afra Alishahi, Tilburg University 
@@ -94,3 +79,4 @@ His involved research has won the AACL-IJCNLP 2022 SRW Best Paper Award and the 
 - Adina Williams, FAIR 
 - Xinchen Yang, University of Maryland 
 - Ryo Yoshida, The University of Tokyo
+-->
