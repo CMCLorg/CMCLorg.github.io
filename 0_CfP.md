@@ -7,7 +7,7 @@ order: 1
 
 ### The 14th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2025)
 
-CMCL 2025 will be co-located with the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics [NAACL 2025](https://2025.naacl.org/) 
+CMCL 2025 will be co-located with the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics [NAACL 2025](https://2025.naacl.org/).
 
 ## Workshop Description
 CMCL 2025 is a one-day workshop held in conjunction with NAACL 2025. CMCL invites papers on cognitive modeling, cognitively-inspired natural language processing, and, more broadly, the alignment of language models with human cognition/perception. The 2025 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019, EMNLP 2020, NAACL 2021, ACL 2022, and ACL 2024.
@@ -16,8 +16,8 @@ The research interests/questions include, but are not limited to:
 - Analysis of computational models that process language data (e.g., neural language models, parsers)  to give insights into fundamental linguistic questions, e.g., on human language processing/acquisition.
 - Analysis of human language data to give insights into fundamental linguistic questions, e.g., on human language processing/acquisition.
 - Comparing/aligning computational models (e.g., neural language models, parsers) with human language data to understand/reverse-engineer what and how humans compute during language comprehension/production/acquisition and how/why.
-- What can the cogsci/linguistics and NLP fields contribute to each other? 
-- Emergent communication/language: What are the sufficient conditions for the emergence of human-like communication/language?
+- How insights from CogSci/linguistics and NLP fields can contribute to each other.
+- Sufficient conditions/pressures for the emergence of human-like communication/language.
 
 A more comprehensive description of the workshop scope is:
 - Models of lexical acquisition, including phonology, morphology, and semantics.
@@ -41,7 +41,7 @@ We are pleased to announce the following invited speakers for the 2025 edition:
 - February 16, 2025: Paper submission/commitment deadline
 - March 10, 2025: Notification of acceptance
 - March 17, 2025: Camera-ready paper due
-- May 3-4, 2025: Workshop dates (the exact date TBAto be announced soon)
+- May 3 or 4, 2025: Workshop dates (the exact date TBA soon)
 
 Deadlines are at **11:59 pm AOE**. The timeline may change slightly. We are trying to set our CMCL deadline to be after the completion of the ARR December cycle. That is, the authors in the **ARR December cycle** will have options to resubmit/commit it to the upcoming ARR rounds OR make a new direct submission to CMCL (see Submission types and Cross-submission policy Sections).
 
