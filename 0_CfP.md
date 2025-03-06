@@ -9,6 +9,8 @@ order: 1
 
 CMCL 2025 will be co-located with the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics [NAACL 2025](https://2025.naacl.org/).
 
+**NEWS**:  CMCL Workshop will take place on **May 3, 2025**
+
 ## Workshop Description
 CMCL 2025 is a one-day workshop held in conjunction with NAACL 2025. CMCL invites papers on cognitive modeling, cognitively-inspired natural language processing, and, more broadly, the alignment of language models with human cognition/perception. The 2025 workshop follows in the tradition of earlier meetings at ACL 2010, ACL 2011, NAACL-HLT 2012, ACL 2013, ACL 2014, NAACL 2015, EACL 2017, LSA 2018, NAACL 2019, EMNLP 2020, NAACL 2021, ACL 2022, and ACL 2024.
 ## Scope and Topics

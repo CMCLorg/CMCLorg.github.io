@@ -5,4 +5,4 @@ permalink: /program
 order: 2
 ---
 
-TBA
+CMCL Workshop will take place on May 3, 2025.
