@@ -45,9 +45,9 @@ This workshop is supported by the National Institute for Japanese Language and L
 
 ## Important Dates 
 - February 16, 2025: Paper submission/commitment deadline
-- March 10, 2025: Notification of acceptance
-- March 17, 2025: Camera-ready paper due
-- May 3 or 4, 2025: Workshop dates (the exact date TBA soon)
+- ~~March 10, 2025~~ March 17-19, 2025: Notification of acceptance
+- ~~March 17, 2025~~ March 25, 2025: Camera-ready paper due
+- May 3, 2025: Workshop dates
 
 Deadlines are at **11:59 pm AOE**. The timeline may change slightly. We are trying to set our CMCL deadline to be after the completion of the ARR December cycle. That is, the authors in the **ARR December cycle** will have options to resubmit/commit it to the upcoming ARR rounds OR make a new direct submission to CMCL (see Submission types and Cross-submission policy Sections).
 
