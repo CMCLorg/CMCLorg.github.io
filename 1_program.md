@@ -6,19 +6,13 @@ order: 2
 ---
 Vienna (Austria) - May 3, 2025.
 
-# CMCL Program
 
-### 09:00 - 09:10  
-**Opening Remarks**
+### 09:00 - 09:10  **Opening Remarks**
 
-### 09:10 - 10:10  
-**Keynote Talk**  
+### 09:10 - 10:10  **Keynote Talk**  
 *Dr. John Hale*
 
----
-
-### 10:10 - 10:50  
-**Session 1: Oral Presentations**
+### 10:10 - 10:50  **Session 1: Oral Presentations**
 
 - **Capturing Online SRC/ORC Effort with Memory Measures from a Minimalist Parser**  
   *Aniello De Santo*
@@ -26,15 +20,9 @@ Vienna (Austria) - May 3, 2025.
 - **Quantifying Semantic Functional Specialization in the Brain Using Encoding Models of Natural Language**  
   *Jiaqi Chen, Richard Antonello, Kaavya Chaparala, Coen Arrow, Nima Mesgarani*
 
----
+### 10:50 - 11:10  **Break**
 
-### 10:50 - 11:10  
-**Break**
-
----
-
-### 11:10 - 12:20  
-**Session 2: Poster Presentations**
+### 11:10 - 12:20  **Session 2: Poster Presentations**
 
 - **ParaBLoCC: Parallel Basic Locative Constructions Corpus**  
   *Peter Viechnicki, Anthony Kostacos*
@@ -74,19 +62,15 @@ Vienna (Austria) - May 3, 2025.
 
 ---
 
-### 12:20 - 13:40  
-**Lunch Break**
+### 12:20 - 13:40  **Lunch Break**
 
 ---
 
-### 13:40 - 14:40  
-**Invited Talk**  
+### 13:40 - 14:40  **Invited Talk**  
 *Dr. Tessa Verhoef*
 
----
 
-### 14:40 - 15:40  
-**Session 3: Oral Presentations**
+### 14:40 - 15:40 **Session 3: Oral Presentations**
 
 - **Unzipping the Causality of Zipf’s Law and Other Lexical Trade-offs**  
   *Amanda Doucette, Timothy J. O’Donnell, Morgan Sonderegger*
@@ -97,15 +81,10 @@ Vienna (Austria) - May 3, 2025.
 - **Cross-Framework Generalizable Discourse Relation Classification Through Cognitive Dimensions**  
   *Yingxue Fu*
 
----
 
-### 15:40 - 16:00  
-**Break**
+### 15:40 - 16:00  **Break**
 
----
-
-### 16:00 - 17:10  
-**Session 4: Poster Presentations**
+### 16:00 - 17:10  **Session 4: Poster Presentations**
 
 - **The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units**  
   *Badr AlKhamissi, Greta Tuckute, Antoine Bosselut, Martin Schrimpf*
@@ -143,10 +122,8 @@ Vienna (Austria) - May 3, 2025.
 - **FiSMiness: A Finite State Machine-Based Paradigm for Emotional Support Conversations**  
   *Yue Zhao, Qingqing Gu, Xiaoyu Wang, Teng Chen, Zhonglin Jiang, Yong Chen, Luo Ji*
 
----
 
-### 17:15 - 17:55  
-**Session 5: Oral Presentations**
+### 17:15 - 17:55  **Session 5: Oral Presentations**
 
 - **“Is There Anything Else?”: Examining Administrator Influence on Linguistic Features from the Cookie Theft Picture Description Cognitive Test**  
   *Changye Li, Zhecheng Sheng, Trevor Cohen, Serguei V. S. Pakhomov*
@@ -156,5 +133,4 @@ Vienna (Austria) - May 3, 2025.
 
 ---
 
-### 17:55 - 18:10  
-**Closing Remarks**
+### 17:55 - 18:10  **Closing Remarks**
