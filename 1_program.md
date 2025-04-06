@@ -4,7 +4,10 @@ title: Program
 permalink: /program
 order: 2
 ---
-Vienna (Austria) - May 3, 2025.
+ 
+Albuquerque, New Mexico - May 3, 2025.
+
+Room 31 - Santa Ana
 
 
 ### 09:00 - 09:10  **Opening Remarks**
