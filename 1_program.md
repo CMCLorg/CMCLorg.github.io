@@ -13,7 +13,7 @@ Room 31 - Santa Ana
 ### 09:00 - 09:10  **Opening Remarks**
 
 ### 09:10 - 10:10  **Keynote Talk**  
-*Dr. John Hale*
+*Towards mechanistic explanation of human language processing* (Dr. John Hale)
 
 ### 10:10 - 10:50  **Session 1: Oral Presentations**
 
@@ -70,7 +70,7 @@ Room 31 - Santa Ana
 ---
 
 ### 13:40 - 14:40  **Invited Talk**  
-*Dr. Tessa Verhoef*
+*The emergence of language universals in neural agents and vision-and-language models* (Dr. Tessa Verhoef)
 
 
 ### 14:40 - 15:40 **Session 3: Oral Presentations**
@@ -137,3 +137,6 @@ Room 31 - Santa Ana
 ---
 
 ### 17:55 - 18:10  **Closing Remarks**
+
+### Sponsoring Institutions
+This workshop is supported by the National Institute for Japanese Language and Linguistics (NINJAL).

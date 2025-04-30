@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "CMCL is approaching!"
+date:   2025-04-30 12:00:00 +0200
+---
+
+Join us this Saturday, May 3 in Albuquerque, New Mexico for a day of cutting-edge research in computational psycholinguistics.
+The full program is available here: [page](https://cmclorg.github.io/program).
+
+📍 Room 31 - Santa Ana
+🗓️ Saturday, May 3, 2025
+
+See you there!
+
+### Sponsorship
+This workshop is supported by the National Institute for Japanese Language and Linguistics (NINJAL).
+
